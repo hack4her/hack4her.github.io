@@ -1,8 +1,7 @@
 ---
 layout: default
-title: Another page
-description: Another descr
-project-name: Hack4Her, empowering tech brilliance
+title: Hack4Her, empowering tech brilliance
+description: Hack4Her is a female-focused Hackathon in the Netherlands.
 ---
 
 # What is Hack4Her?

@@ -1,5 +1,7 @@
-title: Cayman theme
-description: Cayman is a clean, responsive theme for GitHub Pages.
+title: Hack4Her
+description: Hack4Her is a female-focused Hackathon in the Netherlands.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one

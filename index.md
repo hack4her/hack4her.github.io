@@ -20,6 +20,7 @@ Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly p
 *   Why Hack4Her is needed?
 *   Impact
 *   Past challenges & program structure
+*   Judging process
 *   Gallery: TODO hyperlink to the drive/subpage
 *   Posts (2021, 2022, 2023): TODO hyperlink to the drive/subpage
 
@@ -43,24 +44,26 @@ TODO
 # Past challenges & program structure
 TODO
 
+# Judging process
+TODO
 
 # Reference list
-[1] Spertus, E. (1991). Why are there so few female computer scientists?, 1992. Expected to become an MIT AI Lab Technical Report. <\br>
-[2] Fisher, A., & Margolis, J. (2002). Unlocking the clubhouse: the Carnegie Mellon experience. ACM SIGCSE Bulletin, 34(2), 79-83. <\br>
-[3] The Dutch Network of Women Professors. Women professors monitor 2022. LNVH. https://www.lnvh.nl/monitor2022  <\br>
-[4] Roberts, E. S., Kassianidou, M., & Irani, L. (2002). Encouraging women in computer science. ACM SIGCSE Bulletin, 34(2), 84-88. <\br>
-[5] Herrmann, S. D., Adelman, R. M., Bodford, J. E., Graudejus, O., Okun, M. A., & Kwan, V. S. (2016). The effects of a female role model on academic performance and persistence of women in STEM courses. Basic and Applied Social Psychology, 38(5), 258-268. <\br>
-[6] Lundberg, S., & Stearns, J. (2019). Women in economics: Stalled progress. Journal of Economic Perspectives, 33(1), 3-22. <\br>
-[7] Thébaud, S., & Charles, M. (2018). Segregation, stereotypes, and STEM. Social Sciences, 7(7), 111. <\br>
-[8] Höhne, E., & Zander, L. (2019). Belonging uncertainty as predictor of dropout intentions among first-semester students of the computer sciences. Zeitschrift für Erziehungswissenschaft, 22(5), 1099-1119. <\br>
-[9] Leaper, C. (2015). Do I belong?: Gender, peer groups, and STEM achievement. International Journal of Gender, Science and Technology, 7(2), 166-179. <\br>
-[10] Kos, B. A. (2019, March). Understanding female-focused hackathon participants' collaboration styles and event goals. In Proceedings of the International Conference on Game Jams, Hackathons and Game Creation Events 2019 (pp. 1-4). <\br>
-[11] Radboud Women of Computing Science. https://women.cs.ru.nl/  <\br>
-[12] EUGAIN. https://eugain.eu/ <\br>
-[13] EDI IPN Working Group. https://ict-research.nl/edi-working-group/  <\br>
-[14] High-Tech Heroes Conference. https://hightechcampus.com/events/female-tech-heroes/conference2023  <\br>
-[15] https://networkinstitute.org  <\br>
-[16] https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/foundational-and-experimental-security-computer-science <\br>
+[1] Spertus, E. (1991). Why are there so few female computer scientists?, 1992. Expected to become an MIT AI Lab Technical Report. <br>
+[2] Fisher, A., & Margolis, J. (2002). Unlocking the clubhouse: the Carnegie Mellon experience. ACM SIGCSE Bulletin, 34(2), 79-83. <br>
+[3] The Dutch Network of Women Professors. Women professors monitor 2022. LNVH. https://www.lnvh.nl/monitor2022  <br>
+[4] Roberts, E. S., Kassianidou, M., & Irani, L. (2002). Encouraging women in computer science. ACM SIGCSE Bulletin, 34(2), 84-88. <br>
+[5] Herrmann, S. D., Adelman, R. M., Bodford, J. E., Graudejus, O., Okun, M. A., & Kwan, V. S. (2016). The effects of a female role model on academic performance and persistence of women in STEM courses. Basic and Applied Social Psychology, 38(5), 258-268. <br>
+[6] Lundberg, S., & Stearns, J. (2019). Women in economics: Stalled progress. Journal of Economic Perspectives, 33(1), 3-22. <br>
+[7] Thébaud, S., & Charles, M. (2018). Segregation, stereotypes, and STEM. Social Sciences, 7(7), 111. <br>
+[8] Höhne, E., & Zander, L. (2019). Belonging uncertainty as predictor of dropout intentions among first-semester students of the computer sciences. Zeitschrift für Erziehungswissenschaft, 22(5), 1099-1119. <br>
+[9] Leaper, C. (2015). Do I belong?: Gender, peer groups, and STEM achievement. International Journal of Gender, Science and Technology, 7(2), 166-179. <br>
+[10] Kos, B. A. (2019, March). Understanding female-focused hackathon participants' collaboration styles and event goals. In Proceedings of the International Conference on Game Jams, Hackathons and Game Creation Events 2019 (pp. 1-4). <br>
+[11] Radboud Women of Computing Science. https://women.cs.ru.nl/  <br>
+[12] EUGAIN. https://eugain.eu/ <br>
+[13] EDI IPN Working Group. https://ict-research.nl/edi-working-group/  <br>
+[14] High-Tech Heroes Conference. https://hightechcampus.com/events/female-tech-heroes/conference2023  <br>
+[15] https://networkinstitute.org  <br>
+[16] https://vu.nl/en/about-vu/faculties/faculty-of-science/more-about/foundational-and-experimental-security-computer-science <br>
 
 <!-- 
 Text can be **bold**, _italic_, or ~~strikethrough~~.

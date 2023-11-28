@@ -13,18 +13,16 @@ Hack4Her is a community building event bringing students together earlyon in the
 
 Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly positive feedback, Hack4Her is now an annual event.
 
-# When is the next Hack4Her?
+# Hack4Her 2024 bigger, students all over Netherlands welcome!
 
 ### Jump to
 
-
-
 *   <a href="#anchor-why">Why Hack4Her is needed?</a> 
-*   <a id="anchor-impact">Impact</a> 
-*   <a id="anchor-past">Past challenges & program structure</a> 
-*   <a id="anchor-judging">Judging process</a> 
-*   <a id="anchor-gallery">Gallery: TODO hyperlink to the drive/subpage</a> 
-*   <a id="anchor-media">Posts (2021, 2022, 2023): TODO hyperlink to the drive/subpage</a> 
+*   <a href="#anchor-impact">Impact</a> 
+*   <a href="#anchor-past">Past challenges & program structure</a> 
+*   <a href="#anchor-judging">Judging process</a> 
+*   <a href="#anchor-gallery">Gallery: TODO hyperlink to the drive/subpage</a> 
+*   <a href="#anchor-sponsors">Past sponsors</a> 
 
 
 # <a id="anchor-why">Why Hack4Her is needed?</a> 
@@ -40,13 +38,22 @@ Research shows that activities such as STEM-based social groups, cliques, extram
 
 To be more inclusive, we do not mandate the teams to deliver source code as a final product. In addition, the Student Diversity Committee has developed a code of conduct for the event that is presented on the first day which is important to ensure social safety and respect for intellectual property. We also do not collect any final deliverables and the judges assess the teams based on their presentation. Finally, we foster different ways participants can engage with the event other than just a competition (such as workshops and lectures) and allow people to leave earlier if desired.
 
-# Impact
+# <a id="anchor-impact">Impact</a> 
+This is the _**first continued women-only student hackathon**_ in the Netherlands, and for the past five years, the only such event in the country. Radboud Women of Computing Science hosted a similar event called The Women Tech Storm in 2018 [11]. Other programming competitions (not female focused) are held at VUA campus as well as several national, european and international working groups organising various events to promote diversity and inclusion in academia (Radboud Women of Computing Science [11], EUGAIN [12], EDI IPN Working Group [13], to name a few). There are, of course, mainstream hackathons and conferences promoting female learnership organised by industries [14] in the Amsterdam area and beyond.
+
+## Added value for the individual participants. 
+Students benefit from joining the event individually from several perspectives. First, it increases their _**visibility**_ on the job market. Second, they gain _**knowledge and experience**_ in solving a technical challenge with value to the real world. In addition, they create a _**network of peers**_ and gain _**contacts in the industry**_ (e.g., internships at sponsor companies). Finally, they could win a prize (museum card voucher, smart watch, e-readers, women-in-tech conference ticket, etc.). While the latter is the least valuable, it is an important motivator for the teams.
+
+## Social impact on the student population. 
+An important change that we implemented in the 2023 edition was opening the general program (workshops, lectures) to students of all gender identities. This resulted in over 100 participants (overall) attending parts of the program. It has worked very well and increased the awareness and appreciation of the event. Thanks to the inclusive general program, we have observed a huge increase (164% compared to 2022) in the number of interested students (161 in total) to participate in the event. Such that we were forced to implement a waiting list of up to 20+ participants, favouring women and participants intending to join the whole program. 59.6% of the interested students identified as men and 36.6% identified as women. We believe that the event has potential for a long-term positive impact on the general student population as we also include diversity and inclusion workshops and lectures. In addition we have received applications by participants studying different programs as shown in Figure 2 (though, CS and AI remain in majority), however we would definitely like to do better in this respect.
+
+
+# <a id="anchor-past">Past challenges & program structure</a> 
+
 TODO
 
-# Past challenges & program structure
-TODO
+# <a id="anchor-judging">Judging process</a> 
 
-# Judging process
 TODO
 
 # Reference list

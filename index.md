@@ -15,17 +15,19 @@ Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly p
 
 # When is the next Hack4Her?
 
-### Continue reading
-
-*   Why Hack4Her is needed?
-*   Impact
-*   Past challenges & program structure
-*   Judging process
-*   Gallery: TODO hyperlink to the drive/subpage
-*   Posts (2021, 2022, 2023): TODO hyperlink to the drive/subpage
+### Jump to
 
 
-# Why Hack4Her is needed?
+
+*   <a href="#anchor-why">Why Hack4Her is needed?</a> 
+*   <a id="anchor-impact">Impact</a> 
+*   <a id="anchor-past">Past challenges & program structure</a> 
+*   <a id="anchor-judging">Judging process</a> 
+*   <a id="anchor-gallery">Gallery: TODO hyperlink to the drive/subpage</a> 
+*   <a id="anchor-media">Posts (2021, 2022, 2023): TODO hyperlink to the drive/subpage</a> 
+
+
+# <a id="anchor-why">Why Hack4Her is needed?</a> 
 Too many female students drop out of computer science disciplines early-on which has a propagating negative effect on the proportion of women in academic positions and modern paths to wealth such pursuing high-tech careers in computer science (which started with a poor ratio [1] and had not improved [2] - see Dutch technical universities in [3]). The lack of women academics creates a negative feedback loop as it has been empirically shown that role models can push more women into the discipline [4-6].
 
 The root of this problem lies with parenting, education system, teachers and peers which might contribute to gender stereotyped beliefs about high-tech professions [7] thus hampering girls’ and women’s later decisions about pursuing (and remaining) in high-tech careers. A mentality shift is a challenging long-term societal goal, requiring structural investments and policies, but certainly worth investing in. 

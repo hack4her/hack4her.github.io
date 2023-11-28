@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Another page
+description: Another descr
 project-name: Hack4Her, empowering tech brilliance
 ---
 

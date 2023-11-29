@@ -5,21 +5,21 @@ description: These are the people working hard to make this event a success
 ---
 
 ## Scientific Lead
-Dr. Katja Tuma </br>
-Assist. Prof. and Diversity co-officer at Vrije Universiteit Amsterdam </br>
-web: https://katjatuma.github.io </br>
-email: k.tuma@vu.nl </br>
+Dr. Katja Tuma <br>
+Assist. Prof. and Diversity co-officer at Vrije Universiteit Amsterdam <br>
+web: https://katjatuma.github.io <br>
+email: k.tuma@vu.nl <br>
 
 
 ## Project Lead
-Isabella Venancia Grdner  </br>
-Teaching Assistant & Chair of the Diversity Committee </br>
-email:  </br>
+Isabella Venancia Grdner  <br>
+Teaching Assistant & Chair of the Diversity Committee <br>
+email:  <br>
  
 ## Project Co-Lead
-Mylène Brown-Coleman </br>
-Teaching Assistant & Vice Chair of the Diversity Committee </br>
-email:  </br>
+Mylène Brown-Coleman <br>
+Teaching Assistant & Vice Chair of the Diversity Committee <br>
+email:  <br>
 
 ## Scientific committee
 * <a href="https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html"> Ana Oprescu </a>, Assist. Prof. at University of Amsterdam

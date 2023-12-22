@@ -1,8 +1,4 @@
----
-layout: default
-title: Organizing team
-description: These are the people working hard to make this event a success
----
+
 
 ## Scientific Lead
 Dr. Katja Tuma <br>
@@ -11,15 +7,13 @@ web: https://katjatuma.github.io <br>
 email: k.tuma@vu.nl <br>
 
 
-## Project Lead
-Isabella Venancia Grdner  <br>
-Teaching Assistant & Chair of the Diversity Committee <br>
-email:  <br>
- 
-## Project Co-Lead
-Mylène Brown-Coleman <br>
-Teaching Assistant & Vice Chair of the Diversity Committee <br>
-email:  <br>
+## Project Leadership
+
+| Names                              | University Branch          | Contact                                |
+|------------------------------------|----------------------------|----------------------------------------|
+| Isabella Venancia Grdner           | University of Amsterdam    | [Email](mailto:hack4her2024@gmail.com) |
+| Mylène Brown-Coleman               | Vrije University Amsterdam | [Email](mailto:hack4her2024@gmail.com) |
+
 
 ## Scientific committee
 * <a href="https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html"> Ana Oprescu </a>, Assist. Prof. at University of Amsterdam

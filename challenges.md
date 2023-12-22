@@ -94,3 +94,15 @@ Submit your entry by 04/06/23 at 16:00 to this drive folder.
 - Challenge End Date: 04/06/23 16:00
 - Submission Deadline: 16:00
 
+# Previous Itinerary
+
+## Day 1 Schedule
+![Day 1 Schedule](Day%201%20Schedule.png)
+
+## Day 2 Schedule
+![Day 2 Schedule](Day%202%20Schedule.png)
+
+## Day 3 Schedule
+![Day 3 Schedule](Day%203%20Schedule.png)
+
+

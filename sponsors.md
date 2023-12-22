@@ -1,4 +1,3 @@
-# Sponsors
 
 We would like to express our gratitude to the following sponsors for their generous support:
 
@@ -10,7 +9,8 @@ We would like to express our gratitude to the following sponsors for their gener
 
 3. [**Booking.com**](https://www.booking.com/)
    ![Booking.com Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png)
-Thank you for making this event possible!
+
+Thank you for making this event possible! If you are interested in sponsoring this event, you can contact us via [hack4her2024@gmail.com](mailto:hack4her2024@gmail.com).
 
 
 [back](./)

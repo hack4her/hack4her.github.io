@@ -47,15 +47,6 @@ Students benefit from joining the event individually from several perspectives. 
 ## Social impact on the student population
 An important change that we implemented in the 2023 edition was opening the general program (workshops, lectures) to students of all gender identities. This resulted in over 100 participants (overall) attending parts of the program. It has worked very well and increased the awareness and appreciation of the event. Thanks to the inclusive general program, we have observed a huge increase (164% compared to 2022) in the number of interested students (161 in total) to participate in the event. Such that we were forced to implement a waiting list of up to 20+ participants, favouring women and participants intending to join the whole program. 59.6% of the interested students identified as men and 36.6% identified as women. We believe that the event has potential for a long-term positive impact on the general student population as we also include diversity and inclusion workshops and lectures. In addition we have received applications by participants studying different programs (though, CS and AI remained in majority), however diversity is key here, so we look forward to the future.
 
-
-# <a id="anchor-past">Past challenges & program structure</a> 
-
-TODO
-
-# <a id="anchor-judging">Judging process</a> 
-
-TODO
-
 # Reference list
 [1] Spertus, E. (1991). Why are there so few female computer scientists?, 1992. Expected to become an MIT AI Lab Technical Report. <br>
 [2] Fisher, A., & Margolis, J. (2002). Unlocking the clubhouse: the Carnegie Mellon experience. ACM SIGCSE Bulletin, 34(2), 79-83. <br>

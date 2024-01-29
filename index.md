@@ -10,23 +10,25 @@ Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands i
 Hack4Her is a community building event bringing students together earlyon in their careers. Three challenges are developed each year, e.g., discrimination on Twitter, healthcare access problem, protecting women in cyberspace.
 
 Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly positive feedback, Hack4Her is now an annual event.
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="hacking.png" alt="Hacking" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1646.JPG" alt="Image 1" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1655.JPG" alt="Image 2" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1656.JPG" alt="Image 3" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1708.JPG" alt="Image 4" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1712.JPG" alt="Image 5" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1715.JPG" alt="Image 6" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1731.JPG" alt="Image 7" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1733.JPG" alt="Image 8" width="300" style="margin-right: 10px;"/>
+    <img src="_MG_1862.JPG" alt="Image 9" width="300"/>
+</div>
 
-<img src="hacking.png" alt="Hacking" width="300"/>
-<img src="_MG_1646.JPG" alt="Image 1" width="300"/>
-<img src="_MG_1655.JPG" alt="Image 2" width="300"/>
-<img src="_MG_1656.JPG" alt="Image 3" width="300"/>
-<img src="_MG_1708.JPG" alt="Image 4" width="300"/>
-<img src="_MG_1712.JPG" alt="Image 5" width="300"/>
-<img src="_MG_1715.JPG" alt="Image 6" width="300"/>
-<img src="_MG_1731.JPG" alt="Image 7" width="300"/>
-<img src="_MG_1733.JPG" alt="Image 8" width="300"/>
-<img src="_MG_1862.JPG" alt="Image 9" width="300"/>
 
 
 
 # We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!
 
-[View Slideshow](layouts/slideshow.html)
+
 
 
 

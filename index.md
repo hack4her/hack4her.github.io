@@ -20,7 +20,6 @@ Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly p
     <img src="_MG_1715.JPG" alt="Image 6" width="300" style="margin-right: 10px;"/>
     <img src="_MG_1731.JPG" alt="Image 7" width="300" style="margin-right: 10px;"/>
     <img src="_MG_1733.JPG" alt="Image 8" width="300" style="margin-right: 10px;"/>
-    <img src="_MG_1862.JPG" alt="Image 9" width="300"/>
 </div>
 
 

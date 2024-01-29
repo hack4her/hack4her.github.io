@@ -10,7 +10,6 @@ Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands i
 <div style="display: flex; flex-wrap: wrap;">
     <img src="elisa_team.png" alt="Image 4" width="300" style="margin-right: 20px;"/>
     <img src="lieve_pic.png" alt="Image 5" width="300" style="margin-right: 20px;"/>
-    <img src="elisa_pic.png" alt="Image 6" width="300" style="margin-right: 20px;"/>
 </div>
 
 # <a id="anchor-why">Why Hack4Her is needed?</a> 

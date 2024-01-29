@@ -8,7 +8,6 @@ description: Hack4Her is a female-focused Hackathon in the Netherlands.
 Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. ...
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="hacking.png" alt="Hacking" width="300" style="margin-right: 20px;"/>
     <img src="_MG_1646.JPG" alt="Image 1" width="300" style="margin-right: 20px;"/>
     <img src="_MG_1655.JPG" alt="Image 2" width="300" style="margin-right: 20px;"/>
     <img src="_MG_1708.JPG" alt="Image 4" width="300" style="margin-right: 20px;"/>
@@ -36,3 +35,4 @@ document.addEventListener('DOMContentLoaded', function () {
     moveImages();
 });
 </script>
+# We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!

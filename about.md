@@ -1,3 +1,25 @@
+# <a id="anchor-impact">What is Hack4Her?</a> 
+This is the _**first continued women-only student hackathon**_ in the Netherlands, and for the past five years, the only such event in the country. ...
+
+## What is Hack4Her?
+
+Hack4Her is a pioneering hackathon event focused on empowering and promoting female students in technical fields. It stands out as the only continued women-only student hackathon in the Netherlands, making a significant impact in the tech community by fostering inclusivity, diversity, and innovation.
+
+### Participation Tiers
+
+Hack4Her is structured into two participation tiers to maximize its impact and reach:
+
+1. **Open Tier:** This is open to all students in the Netherlands who are enrolled in a technical program. It provides an inclusive platform for students of all genders to engage in technical challenges, fostering a broader understanding and appreciation of diversity in tech.
+
+2. **Female-Only Tier:** Exclusively for female students, this tier has a limited availability of 60 tickets. It offers a unique opportunity for female tech enthusiasts to showcase their skills, learn, and network in a supportive environment. This tier is particularly focused on addressing the gender gap in tech and providing a platform for female voices and talent in the field.
+
+Hack4Her not only aims to highlight the technical prowess of participants but also seeks to build a supportive community where students can grow their networks and gain valuable industry insights.
+
+## Added value for the individual participants
+Students benefit from joining the event individually from several perspectives...
+
+## Social impact on the student population
+An important change that we implemented in the 2023 edition was opening the general program...
 
 # <a id="anchor-impact">Impact</a> 
 This is the _**first continued women-only student hackathon**_ in the Netherlands, and for the past five years, the only such event in the country. Radboud Women of Computing Science hosted a similar event called The Women Tech Storm in 2018 [11]. Other programming competitions (not female focused) are held at VUA campus as well as several national, european and international working groups organising various events to promote diversity and inclusion in academia (Radboud Women of Computing Science [11], EUGAIN [12], EDI IPN Working Group [13], to name a few). There are, of course, mainstream hackathons and conferences promoting female learnership organised by industries [14] in the Amsterdam area and beyond.

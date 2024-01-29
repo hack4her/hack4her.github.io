@@ -13,6 +13,7 @@ email: k.tuma@vu.nl <br>
 |------------------------------------|----------------------------|----------------------------------------|
 | Isabella Venancia Grdner           | University of Amsterdam    | [Email](mailto:hack4her2024@gmail.com) |
 | Mylène Brown-Coleman               | Vrije University Amsterdam | [Email](mailto:hack4her2024@gmail.com) |
+| Andreas Panteli                    | University of Amsterdam    | [Email](mailto:a.panteli.uva@gmail.com)|
 
 
 ## Scientific committee

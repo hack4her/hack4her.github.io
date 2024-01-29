@@ -4,7 +4,6 @@ title: Hack4Her, empowering tech brilliance
 description: Hack4Her is a female-focused Hackathon in the Netherlands.
 ---
 
-# What is Hack4Her?
 Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. We aim to create an inclusive and inspiring atmosphere for all students to understand and enocourage more young women to embark in a career in the techology industry.
 
 <div style="display: flex; flex-wrap: wrap;">

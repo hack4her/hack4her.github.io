@@ -1,12 +1,10 @@
 ---
 layout: default
-title: Hack4Her Hackathon Budget Proposal
+title: How you can help Hack4Her
 description: Detailed budget proposal for the upcoming Hack4Her Hackathon
 ---
 
-### Hack4Her Hackathon Budget Proposal
 
-The proposed budget for the upcoming Hack4Her Hackathon is outlined in the table below. This budget aims to cover all necessary expenses to ensure a successful and inclusive event. We are committed to providing a supportive environment for all participants, with adequate resources and facilities.
 
 ### Hack4Her Hackathon Previous Years' Budget Overview
 

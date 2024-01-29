@@ -19,20 +19,20 @@ Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands i
 </div>
 
 <script>
-function moveImages() {
-    const images = document.querySelectorAll('.dynamic-image');
-    images.forEach(img => {
-        const x = Math.random() * (window.innerWidth - img.clientWidth);
-        const y = Math.random() * (window.innerHeight - img.clientHeight);
+document.addEventListener('DOMContentLoaded', function () {
+    function moveImages() {
+        const images = document.querySelectorAll('.dynamic-image');
+        images.forEach(img => {
+            const x = Math.random() * (window.innerWidth - img.clientWidth);
+            const y = Math.random() * (window.innerHeight - img.clientHeight);
 
-        img.style.position = 'absolute';
-        img.style.left = `${x}px`;
-        img.style.top = `${y}px`;
-    });
-}
+            img.style.position = 'absolute';
+            img.style.left = `${x}px`;
+            img.style.top = `${y}px`;
+        });
+    }
 
-setInterval(moveImages, 2000);
-moveImages();
+    setInterval(moveImages, 2000);
+    moveImages();
+});
 </script>
-
-# We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!

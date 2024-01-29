@@ -5,11 +5,11 @@ description: Hack4Her is a female-focused Hackathon in the Netherlands.
 ---
 
 # What is Hack4Her?
-Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. ...
+Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. We aim to create an inclusive and inspiring atmosphere for all students to understand and enocourage more young women to embark in a career in the techology industry.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="elisa_team.png" alt="Image 4" width="300" style="margin-right: 20px;"/>
-    <img src="lieve_pic.png" alt="Image 5" width="300" style="margin-right: 20px;"/>
+    <img src="elisa_team.png" alt="Image 4" width="300" style="margin-right: 30px;"/>
+    <img src="lieve_pic.png" alt="Image 5" width="300" style="margin-right: 30px;"/>
 </div>
 
 # <a id="anchor-why">Why Hack4Her is needed?</a> 

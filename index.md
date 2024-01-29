@@ -5,11 +5,8 @@ description: Hack4Her is a female-focused Hackathon in the Netherlands.
 ---
 
 # What is Hack4Her?
-Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. Hack4Her aims to (i) _**retain**_ female students in Computer Science careers, (ii) provide a _**safe space**_ for women to showcase their technical problem-solving skills, (iii) give _**recognition**_ in the form of prizes.
+Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. ...
 
-Hack4Her is a community building event bringing students together earlyon in their careers. Three challenges are developed each year, e.g., discrimination on Twitter, healthcare access problem, protecting women in cyberspace.
-
-Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly positive feedback, Hack4Her is now an annual event.
 <div style="display: flex; flex-wrap: wrap;">
     <img src="hacking.png" alt="Hacking" width="300" style="margin-right: 20px;"/>
     <img src="_MG_1646.JPG" alt="Image 1" width="300" style="margin-right: 20px;"/>
@@ -21,134 +18,21 @@ Since 2022, Hack4Her has involved 62 female students. Thanks to overwhelmingly p
     <img src="_MG_1733.JPG" alt="Image 8" width="300" style="margin-right: 20px;"/>
 </div>
 
+<script>
+function moveImages() {
+    const images = document.querySelectorAll('.dynamic-image');
+    images.forEach(img => {
+        const x = Math.random() * (window.innerWidth - img.clientWidth);
+        const y = Math.random() * (window.innerHeight - img.clientHeight);
 
+        img.style.position = 'absolute';
+        img.style.left = `${x}px`;
+        img.style.top = `${y}px`;
+    });
+}
 
+setInterval(moveImages, 2000);
+moveImages();
+</script>
 
 # We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!
-
-
-
-
-
-
-<!-- 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
- 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
--->

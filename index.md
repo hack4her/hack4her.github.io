@@ -7,6 +7,12 @@ description: Hack4Her is a female-focused Hackathon in the Netherlands.
 # What is Hack4Her?
 Hack4Her is the _**only female-focused**_ student hackathon in the Netherlands in the past 5 years. ...
 
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="elisa_team.png" alt="Image 4" width="300" style="margin-right: 20px;"/>
+    <img src="lieve_pic.png" alt="Image 5" width="300" style="margin-right: 20px;"/>
+    <img src="elisa_pic.png" alt="Image 6" width="300" style="margin-right: 20px;"/>
+</div>
+
 # <a id="anchor-why">Why Hack4Her is needed?</a> 
 Too many female students drop out of computer science disciplines early-on which has a propagating negative effect on the proportion of women in academic positions and modern paths to wealth such pursuing high-tech careers in computer science (which started with a poor ratio [1] and had not improved [2] - see Dutch technical universities in [3]). The lack of women academics creates a negative feedback loop as it has been empirically shown that role models can push more women into the discipline [4-6].
 
@@ -21,9 +27,6 @@ Research shows that activities such as STEM-based social groups, cliques, extram
 To be more inclusive, we do not mandate the teams to deliver source code as a final product. In addition, the Student Diversity Committee has developed a code of conduct for the event that is presented on the first day which is important to ensure social safety and respect for intellectual property. We also do not collect any final deliverables and the judges assess the teams based on their presentation. Finally, we foster different ways participants can engage with the event other than just a competition (such as workshops and lectures) and allow people to leave earlier if desired.
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="elisa_team.png" alt="Image 4" width="300" style="margin-right: 20px;"/>
-    <img src="lieve_pic.png" alt="Image 5" width="300" style="margin-right: 20px;"/>
-    <img src="elisa_pic.png" alt="Image 6" width="300" style="margin-right: 20px;"/>
     <img src="lecture_pic.png" alt="Image 7" width="300" style="margin-right: 20px;"/>
     <img src="vlad_pic.png" alt="Image 8" width="300" style="margin-right: 20px;"/>
 </div>

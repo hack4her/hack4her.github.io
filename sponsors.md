@@ -1,5 +1,7 @@
 We would like to express our gratitude to the following sponsors for their generous support:
 
+
+[![VU Logo](https://vu.cordeo-brandbook.net/wp-content/uploads/sites/18/2021/08/logo_email_nl_algemeen.png)](https://www.vu.nl)
 [![SectorPlan Logo](https://www.sectorplan-betatechniek.nl/themes/custom/sectorplan_bt/assets/images/twitter-image-default.png)](https://www.sectorplan-betatechniek.nl/)
 [![Booking.com Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png)](https://www.booking.com/)
 [![Network Institute Logo](https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png)](https://networkinstitute.org/)

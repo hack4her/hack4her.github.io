@@ -4,7 +4,7 @@ title: Proposal
 description: Detailed budget proposal for the upcoming Hack4Her Hackathon
 ---
 
-
+# Proposal
 
 ### Budget of previous years'
 

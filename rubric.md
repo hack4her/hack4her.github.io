@@ -5,7 +5,7 @@
 Our judging panel comprises a balanced mix of professionals from both academia and industry, all with a background in Computer Science. This diverse group ensures a well-rounded evaluation from different perspectives. The panel includes:
 
 - At least one professional actively working in the industry.
-- At least one academician specializing in a technical field.
+- At least one academic specializing in a technical field.
 
 The judges will use a comprehensive rubric to evaluate each team's presentation and solution. After all presentations are complete, the judges will adjourn to a private room for consultation to deliberate and finalize the scores.
 

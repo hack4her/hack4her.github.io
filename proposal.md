@@ -6,7 +6,7 @@ description: Detailed budget proposal for the upcoming Hack4Her Hackathon
 
 
 
-### Hack4Her Hackathon Previous Years' Budget Overview
+### Budget of previous years'
 
 The table below outlines the budget from previous years of the Hack4Her Hackathon in euros (€). This retrospective aims to provide transparency and insights into how funds have been allocated to ensure successful and inclusive events in the past. Our commitment has always been to create a supportive environment for all participants, utilizing resources effectively to facilitate an engaging and resourceful experience.
 

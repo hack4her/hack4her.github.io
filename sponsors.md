@@ -1,4 +1,4 @@
-# Judging Process
+# Sponsors
 
 We would like to express our gratitude to the following sponsors for their generous support:
 

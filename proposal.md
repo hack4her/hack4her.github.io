@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How you can help Hack4Her
+title: Proposal
 description: Detailed budget proposal for the upcoming Hack4Her Hackathon
 ---
 

@@ -11,7 +11,7 @@ The judges will use a comprehensive rubric to evaluate each team's presentation 
 
 ### Number of Judges
 
-- A panel of [Number] judges will be evaluating the presentations and solutions.
+- A panel of 5 judges will be evaluating the presentations and solutions.
 
 ### Pitch/Presentation Evaluation
 

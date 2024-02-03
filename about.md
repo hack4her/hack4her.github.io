@@ -9,7 +9,7 @@ Hack4Her is structured into two participation tiers to maximize its impact and r
 
 1. **Open Tier:** This is open to all students in the Netherlands who are enrolled in a technical program. It provides an inclusive platform for students of all genders to engage in technical challenges, fostering a broader understanding and appreciation of diversity in tech.
 
-2. **Female-Only Tier:** Exclusively for female students, this tier has a limited availability of 60 tickets. 30 of which can get accomodation if living outside of Amsterdam. It offers a unique opportunity for female tech enthusiasts to showcase their skills, learn, and network in a supportive environment. This tier is particularly focused on addressing the gender gap in tech and providing a platform for female voices and talent in the field.
+2. **Female-Only Tier:** Exclusively for female students, this tier has a limited availability of 60 tickets. 30 of which can get accommodation if living outside of Amsterdam. It offers a unique opportunity for female tech enthusiasts to showcase their skills, learn, and network in a supportive environment. This tier is particularly focused on addressing the gender gap in tech and providing a platform for female voices and talent in the field.
 
 Hack4Her not only aims to highlight the technical prowess of participants but also seeks to build a supportive community where students can grow their networks and gain valuable industry insights.
 

@@ -3,7 +3,7 @@
 We would like to express our gratitude to the following sponsors for their generous support:
 
 <a href="https://www.vu.nl">
-    <img src="https://vu.cordeo-brandbook.net/wp-content/uploads/sites/18/2021/08/logo_email_nl_algemeen.png" alt="VU Logo" width="150"/>
+    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" width="150"/>
 </a>
 <a href="https://www.sectorplan-betatechniek.nl/">
     <img src="https://www.sectorplan-betatechniek.nl/themes/custom/sectorplan_bt/assets/images/twitter-image-default.png" alt="SectorPlan Logo" width="150"/>

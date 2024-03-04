@@ -29,5 +29,11 @@ To be more inclusive, we do not mandate the teams to deliver source code as a fi
     <img src="vlad_pic.png" alt="Image 8" width="300" style="margin-right: 20px;"/>
 </div>
 
-# We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!
+### We look forward to Hack4Her 2024, bigger, better, with students from all over Netherlands welcome!
 
+# Upcoming Events
+
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="hack4her_1.png" alt="Image 4" width="300" style="margin-right: 150px;"/>
+    
+</div>

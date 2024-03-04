@@ -89,7 +89,7 @@ Under GDPR, you have the right to:
 - Withdraw your consent at any time.
 - Data portability.
 
-If you wish to exercise any of these rights, please contact us at this Email.
+If you wish to exercise any of these rights, please contact us at [this](mailto:hack4her2024@gmail.com) Email.
 
 ## Consent
 

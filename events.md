@@ -1,6 +1,34 @@
 # Upcoming Events
 
-Join us for another weekend of creativity, innovation, and coding. Bring your ideas to life and compete for prizes, mentorship opportunities, and the chance to showcase your projects to industry leaders.
+# 🌟 Welcome to the 3rd Annual Hack4Her Event June 7-9, 2024! 🌟
+
+This year, we're continuing to celebrate the incredible talent of women in tech with a women-centered weekend, an UvA and VU Amsterdam joint event. All students in the Netherlands are eligible to register to join. While all genders are welcome to participate in the event, only individuals who identify as women are eligible to compete in the hackathon portion of the event, but do not worry if you do not want to participate in a hackathon or are not eligible there are still plenty of interesting activities to do!
+
+🚀 Join us for an exciting weekend of coding, innovation, learning, networking, and fun at Vrije Universiteit Amsterdam! 🚀
+
+## Dates & Times:
+
+- **Kickoff:** June 7th, 17:00 - 21:00
+- **Full Days:** June 8th, 9:00 - 21:00 & June 9th, 9:00 - 18:00
+
+## What's on Offer:
+
+- **Engaging Hackathon:** Dive into challenges, bring your ideas to life, and compete for exciting prizes. Limited coding experience is fine! We aim to have people expand on their problem-solving, and project-development skills, and learn some coding along the way!
+- **Inspiring Lectures and Workshops:** Learn from industry and university leaders about the latest trends and technologies. Our curated lectures and workshops cover a range of cool tech topics, from AI to diversity and inclusion and beyond.
+- **Networking Opportunities:** Connect with like-minded individuals, tech enthusiasts, and potential collaborators. Meet people from different companies, institutions, and various tech fields.
+- **Free Food & Drinks:** Stay fueled throughout the event with complimentary meals, snacks, and refreshments the entire weekend!
+- **Accommodation:** For hackathon participants traveling from outside Amsterdam, we're offering limited free accommodation. Make sure to sign up early to secure your spot!
+
+## Location:
+
+Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
+
+Whether you're looking to showcase your skills, learn something new, or just have a great time, the Tech Innovate Hackathon is the place to be. Don't miss out on this fantastic tech weekend!
+
+🌟 All are welcome to join us in celebrating the power of diversity and innovation in the tech industry. 🌟
+
+Ready to make your mark? Sign up now and let the innovation begin!
+
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">
   <img src="https://github.com/hack4her/hack4her.github.io/blob/main/hack4her_1.jpg?raw=true" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
@@ -9,93 +37,3 @@ Join us for another weekend of creativity, innovation, and coding. Bring your id
 ## Prizes
 More information coming soon ...
 
-## Policies 
-### National Participation and Accommodation/Transportation Support
-
-We want everyone nationally to be able to participate in this hackathon and we understand it can be difficult to travel more than an hour to get to our event! Therefore, we have arranged possibilities for accommodation in a hotel to be provided or compensation for travel costs/parking for students from outside of Amsterdam.
-
-### Accommodation
-
-**Dates:** June 7-9, 3 days and 2 nights for free in a hotel near VU!
-
-**Eligibility Criteria:**
-- Be eligible to participate in our hackathon.
-- Be signed up to participate in our hackathon.
-- Arrive Friday and be present Friday, Saturday, and Sunday.
-- Be traveling from outside of Amsterdam to our event.
-- Have a travel time to VU of an hour or more (via public transport route).
-- Reconfirm participation and accommodation use on 2 occasions within a timely manner (72 hours).
-
-**Policy:**
-- Accommodation is on a first-come, first-served basis.
-- Limited hotel beds are booked; a waitlist will be created if demand is high.
-- Rooms will be shared between 2 or 3 women (own single bed per person).
-- Preference for roommates can be indicated if they meet the eligibility criteria.
-- Consideration of need for accommodation is requested if alternative transportation is feasible.
-
-### Transportation/Parking
-
-For those not needing or receiving accommodation but still willing to travel:
-
-**Eligibility Criteria:**
-- Be eligible to participate in our hackathon.
-- Be signed up to participate in our hackathon.
-- Be present on Saturday and Sunday.
-- Be traveling from outside of Amsterdam to our event.
-- Have a travel time to VU of an hour or more (via public transport route).
-- Reconfirm need once within a timely manner (72 hours).
-
-**Details:**
-- Parking will only be covered in the VU Parking Garage.
-- Carpooling is encouraged and may include gas compensation.
-- Group train tickets are being considered to extend budget and cover more participants.
-
-**Note:** While we aim to cover as much as possible, we cannot guarantee full compensation. We will inform you promptly before the event regarding the coverage of your costs.
-
-We are committed to making the hackathon accessible and ensuring a positive experience for all participants. We look forward to your participation!
-
-
-
-## Data Protection and Privacy Notice for Hack4Her Event Participants
-
- We want to inform you about how your personal and sensitive data will be handled, in compliance with the General Data Protection Regulation (GDPR).
-
-### Who is Collecting Your Data?
-
-Your data is being collected by [VU Amsterdam Employees and Event Organizers](https://hack4her.github.io/organizers.html), the organizer of the Hack4Her event, in collaboration with the University of Amsterdam (UvA) IAI Board and Vrije Universiteit Amsterdam (VU Amsterdam). If you have any questions or concerns about how your data is being used, you can contact us at this Email.
-
-### Why We Need Your Data
-
-We collect your data to:
-
-- Process your registration and participation in the Hack4Her event.
-- Arrange for accommodations, catering, and accessibility.
-- Provide you with updates and information about the event.
-- Ensure a tailored and inclusive event experience.
-
-The legal basis for processing your data is your explicit consent, necessary for the performance of a contract to which you are party.
-
-## Who Will Have Access to Your Data?
-
-Your data will be accessed by the Hack4Her organizing team and, if necessary, shared with our partners (UvA and VU Amsterdam) for accommodation arrangements and event coordination purposes only. We will not share your data with third parties without your explicit consent, unless required by law.
-
-## Data Transfer and Storage
-
-Your data will be stored securely and will only be kept for as long as necessary to fulfill the purposes mentioned above, after which it will be securely deleted.
-
-## Your Rights
-
-Under GDPR, you have the right to:
-
-- Access, correct, delete, or restrict the processing of your personal data.
-- Withdraw your consent at any time.
-- Data portability.
-
-If you wish to exercise any of these rights, please contact us at [this](mailto:hack4her2024@gmail.com) Email.
-
-## Consent
-
-By registering for our events, you:
-
-- Confirm that you are a participant of the Hack4Her event and that your registration is voluntary.
-- Give your explicit consent for Hack4Her to collect, process, and store your personal and sensitive data for the purposes outlined above.

@@ -33,7 +33,4 @@ To be more inclusive, we do not mandate the teams to deliver source code as a fi
 
 # Upcoming Events
 
-<div style="display: flex; flex-wrap: wrap;">
-    <img src="hack4her_1.jpg" alt="Image 4" width="950" style="margin-right;"/>
-    
-</div>
+[![Hackathon Event 2024 Poster](https://drive.google.com/file/d/1OjzMkrRiKWI0E8ndsHAo2pjn1Oq63QK3/view?usp=sharing)](https://hack4her.github.io/events.html)

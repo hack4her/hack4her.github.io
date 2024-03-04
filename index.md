@@ -34,6 +34,6 @@ To be more inclusive, we do not mandate the teams to deliver source code as a fi
 # Upcoming Events
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="hack4her_1.png" alt="Image 4" width="300" style="margin-right: 150px;"/>
+    <img src="hack4her_1.jpg" alt="Image 4" width="300" style="margin-right;"/>
     
 </div>

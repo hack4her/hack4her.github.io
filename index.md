@@ -33,4 +33,6 @@ To be more inclusive, we do not mandate the teams to deliver source code as a fi
 
 # Upcoming Events
 
-[![Hackathon Event 2024 Poster](https://github.com/hack4her/hack4her.github.io/blob/main/hack4her_1.jpg?raw=true)](https://hack4her.github.io/events.html)
+<a href="https://hack4her.github.io/events.html" target="_blank">
+  <img src="https://github.com/hack4her/hack4her.github.io/blob/main/hack4her_1.jpg?raw=true" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
+</a>

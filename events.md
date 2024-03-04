@@ -2,7 +2,7 @@
 
 Join us for another weekend of creativity, innovation, and coding. Bring your ideas to life and compete for prizes, mentorship opportunities, and the chance to showcase your projects to industry leaders.
 
-[![Hackathon Event 2024 Poster](https://github.com/hack4her/hack4her.github.io/blob/2be4498cb9fd4a739d9e95485d8d71979c575d84/hack4her_1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform)
+[![Hackathon Event 2024 Poster](https://github.com/hack4her/hack4her.github.io/blob/main/hack4her_1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform)
 
 ## Prizes
 More information coming soon ...

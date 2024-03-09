@@ -7,7 +7,7 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 <!-- Hero Section -->
 <div class="hero-section" style="text-align: center;">
   <!-- Replace '/assets/your-logo.png' and '/assets/your-hero-image.jpg' with the actual paths -->
-  <img src="/assets/images/white.png" alt="Hack4Her Logo" style="max-width: 200px;"/> 
+  <img src="/assets/images/white.png" alt="Hack4Her Logo" style="max-width: 150px; height: auto;"/> 
   <h1>Empowering Women in Tech</h1>
   <!-- Optional: Add a background image or video via custom CSS or inline styling -->
 </div>

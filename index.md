@@ -5,13 +5,16 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 ---
 
 <!-- Hero Section -->
-<div class="hero-section" style="text-align: center; position: relative;">
+<div class="hero-section" style="text-align: center;">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img src="/assets/images/white.png" alt="Hack4Her Logo" style="max-width: 100px; height: auto; margin-right: 15px;"/> <!-- Adjust max-width as needed -->
+    <h1 style="margin: 0;">Hack4Her</h1>
+  </div>
+  <h2>Creating Women-Centered Tech Spaces</h2>
   <!-- Banner Image -->
-  <img src="/assets/images/planery.png" alt="Banner Background" style="width: 100%; height: auto;"/>
-  <!-- Logo on top of the banner -->
-  <img src="/assets/images/white.png" alt="Hack4Her Logo" style="max-width: 200px; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"/>
-  <h1>Empowering Women in Tech</h1>
+  <img src="/assets/images/planery.png" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
 </div>
+
 <!-- About Us Brief -->
 ## About Us
 Brief text about Hack4Her...

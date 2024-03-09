@@ -1,123 +1,41 @@
 ---
 layout: default
+title: Hack4Her
+description: "Empowering Women in Tech, Shaping the Future Together, a Netherlands University Initiative"
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+<!-- Hero Section -->
+<div class="hero-section" style="text-align: center;">
+  <!-- Replace '/assets/your-logo.png' and '/assets/your-hero-image.jpg' with the actual paths -->
+  <img src="/assets/images/white.png" alt="Hack4Her Logo" style="max-width: 200px;"/> 
+  <h1>Empowering Women in Tech</h1>
+  <!-- Optional: Add a background image or video via custom CSS or inline styling -->
+</div>
 
-[Link to another page](./another-page.html).
+<!-- About Us Brief -->
+## About Us
+Brief text about Hack4Her...
 
-There should be whitespace between paragraphs.
+<!-- Upcoming Event Highlight -->
+## Upcoming Event
+![3rd Annual Hack4Her Event](/assets/your-event-image.jpg) <!-- Replace with path to your event image -->
+### 3rd Annual Hack4Her Event
+**Dates:** June 7-9, 2024  
+Brief overview of the event...
+[Learn More](/upcoming-event) <!-- Replace with the link to your event details page -->
+[Register Now](/register) <!-- Replace with the link to your registration page -->
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<!-- Past Events -->
+## Past Events
+Text about past events or images if you have a gallery...
 
-# Header 1
+<!-- News -->
+## News
+Recent updates or articles about Hack4Her activities.
+- [News Article Title](/news-link) <!-- Replace with actual news link -->
+- [Blog Post Title](/blog-post-link) <!-- Replace with actual blog post link -->
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+<!-- Sponsors and Partners -->
+## Sponsors and Partners
+Thank your sponsors and partners here.
+![Sponsor Logo](/assets/sponsor-logo.png) <!-- Replace with path to sponsor logo -->

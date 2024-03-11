@@ -4,7 +4,7 @@
 
 ### Who is Collecting Your Data?
 
-Your data is being collected by [VU Amsterdam Employees and Event Organizers](https://hack4her.github.io/organizers.html), the organizer of the Hack4Her event, in collaboration with the University of Amsterdam (UvA) IAI Board and Vrije Universiteit Amsterdam (VU Amsterdam). If you have any questions or concerns about how your data is being used, you can contact us at this Email.
+Your data is being collected by VU Amsterdam Employees and Event Organizers, the organizer of the Hack4Her event, in collaboration with the University of Amsterdam (UvA) IAI Board and Vrije Universiteit Amsterdam (VU Amsterdam). If you have any questions or concerns about how your data is being used, you can contact us at this Email.
 
 ### Why We Need Your Data
 

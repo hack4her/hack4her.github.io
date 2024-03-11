@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Hackathon: Past Challenges, Structure and Judging

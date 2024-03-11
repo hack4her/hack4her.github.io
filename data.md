@@ -25,6 +25,11 @@ Your data will be accessed by the Hack4Her organizing team and, if necessary, sh
 
 Your data will be stored securely and will only be kept for as long as necessary to fulfill the purposes mentioned above, after which it will be securely deleted.
 
+## Consent for Photography and Filming
+By attending the Hack4Her event, you consent to be photographed and filmed during the course of the event. These images and footage will be used by VU Amsterdam Employees and Event Organizers for promotional and archival purposes, including in publications, on websites, and in social media.
+
+We take your privacy seriously and strive to ensure that all imagery and recordings are used responsibly. If you have concerns about being photographed or filmed, please reach out to us prior to the event at [this](mailto:hack4her2024@gmail.com) Email.
+
 ## Your Rights
 
 Under GDPR, you have the right to:

@@ -39,3 +39,5 @@ Under GDPR, you have the right to:
 - Data portability.
 
 If you wish to exercise any of these rights, please contact us at [this](mailto:hack4her2024@gmail.com) Email.
+
+[back](./)

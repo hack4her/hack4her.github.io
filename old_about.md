@@ -6,15 +6,28 @@ permalink: /about/
 
 # Our History
 ![Image of past event](/assets/images/past-event.jpg)
-*Describe how your organization and event came to be, highlighting key milestones and achievements.*
+Certainly, here's a revised version of your organization's history that maintains a factual tone:
 
-Our journey began in [Year] with a simple vision: to [briefly describe the original vision]. Since then, we've grown into [describe what you've become], hosting [number] of events and impacting [number] of lives in the tech community.
+---
+
+# Our History
+
+Hack4Her originated in October 2021, established by Isabella Venancia (Bella) and Mylène. They founded the first Diversity Committee within the BETA student association, STORM, at VU Amsterdam. This initiative was in response to encountering racist and sexist comments among classmates and identifying a lack of clear channels for reporting and seeking assistance.
+
+Bella served as the Co-founder and Chair of the Diversity Committee, with Mylène as the Vice Chair, up until their graduation. Their efforts were directed towards fostering an environment of inclusivity and respect.
+
+The concept for Hack4Her was inspired by their observations at the Amsterdam Algorithm Programming Preliminary (AAPP), where a significant underrepresentation of women was noted. Inquiry into the low participation of women revealed concerns over feeling unwelcome, and underqualified, and the discomfort of being the only female participant.
+
+Supported by BETA faculty member Katja Tuma, the first Hack4Her hackathon took place in June 2022 at VU Amsterdam. The event was women-only and attracted 35 attendees. [Learn more about the event](#).
+
+In 2023, the event was expanded to welcome all genders while maintaining a focus on women in tech. Held at the Booking.com office with Booking.com as the main sponsor, the participation increased to 75, with a total of 100 attendees. This iteration emphasized a broader learning and networking experience. [Learn more about the event](#).
+
+Hack4Her was founded to create a supportive and inclusive tech community. Its evolution reflects a commitment to these principles, with each event building upon the last to advance diversity in technology.
 
 
-# Our Impact
-*Detail the impact your organization has had on the tech community.*
+# Our Mission
 
-Through our events, we've managed to [describe achievements, e.g., foster new innovations, support women in tech]. Our participants have gone on to [describe participant achievements, e.g., start their tech businesses, lead community projects].
+
 
 # Meet Our Team
 *Introduce your team members with photos, blurbs, and links to their LinkedIn profiles.*

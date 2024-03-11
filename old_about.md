@@ -1,4 +1,40 @@
-# <a id="anchor-impact">What is Hack4Her?</a> 
+---
+layout: page
+title: About Us
+permalink: /about/
+---
+
+# Our History
+![Image of past event](/assets/images/past-event.jpg)
+*Describe how your organization and event came to be, highlighting key milestones and achievements.*
+
+Our journey began in [Year] with a simple vision: to [briefly describe the original vision]. Since then, we've grown into [describe what you've become], hosting [number] of events and impacting [number] of lives in the tech community.
+
+
+# Our Impact
+*Detail the impact your organization has had on the tech community.*
+
+Through our events, we've managed to [describe achievements, e.g., foster new innovations, support women in tech]. Our participants have gone on to [describe participant achievements, e.g., start their tech businesses, lead community projects].
+
+# Meet Our Team
+*Introduce your team members with photos, blurbs, and links to their LinkedIn profiles.*
+
+
+## [Team Member Name]
+![Team Member Image](/assets/images/team-member.jpg)
+*Short blurb about the team member's background, role in the organization, and contributions.*
+[LinkedIn](#)
+
+
+
+
+
+
+
+
+
+<!------------------ OLD ------------------>
+
 ## What are we?
 
 Hack4Her is a pioneering hackathon event focused on empowering and promoting female students in technical fields. It stands out as the only continued women-only student hackathon in the Netherlands, making a significant impact in the tech community by fostering inclusivity, diversity, and innovation.

@@ -1,7 +1,6 @@
-# Hackathon: Past Challenges and Rubrics
+# Hackathon: Past Challenges and Judging
 
-
-
+Embarking on a hackathon journey with Hack4Her means stepping into an environment where clarity meets opportunity—where every participant is empowered with the full knowledge and support needed to tackle challenges head-on, regardless of their experience level. On this page, you can find some examples of past challenges and what we focus on when judging challenge solutions. We hope this information provides some assurance and support in your hackathon journey.
 
 
 ## Past Challenges
@@ -89,11 +88,45 @@ Imagine a world where women not only overcome cybersecurity challenges but harne
 2. Ideate and conceptualize a cybersecurity solution.
 3. Develop a visually stunning prototype.
 4. Craft a captivating presentation.
-5. Demonstrate solution's impact on community engagement, personal growth, and well-being.
+5. Demonstrate the solution's impact on community engagement, personal growth, and well-being.
 6. Consider scalability, sustainability, and ethical implications.
 
-## Judging Rubric
 
+## Judging Process 
+
+### Judges Composition and Process
+
+Our judging panel comprises a balanced mix of professionals from both academia and industry, all with a background in Computer Science. This diverse group ensures a well-rounded evaluation from different perspectives. The panel includes:
+
+- At least one professional actively working in the industry.
+- At least one academic specializing in a technical field.
+
+The judges will use a comprehensive rubric to evaluate each team's presentation and solution. After all presentations are complete, the judges will adjourn to a private room for consultation to deliberate and finalize the scores.
+
+### Number of Judges
+
+- A panel of 5 judges will be evaluating the presentations and solutions.
+
+### Pitch/Presentation Evaluation
+
+- **Public Speaking Skills:** /10
+- **Presentation and Description Skills:** /10
+- **Team Work Skills (Requirement to Describe in Presentation):** /10
+
+### Quality of Solution
+
+- **Fit to Task: How much does their topic fit the task?** /10
+- **Correctness: Is their solution correct or accurate according to their goal?** /10
+- **Methodology:** /10
+- **Creativity/Design:** /10
+- **Problem/Topic Addressed: Did they completely address the problem/topic they were focused on? (Edge cases, subproblems)** /10
+- **Technicality: How technical was their solution or proposed solution? (can be incomplete code or Pseudo)** /10
+- **Code Functionality and Completeness (Bonus):** /5
+- **Fudge Points (Vibe points, how impressed you were points, how much you liked it):** /5
+
+### Final Score Total
+
+- **/100**
 
 
 

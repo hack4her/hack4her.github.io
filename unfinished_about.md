@@ -68,6 +68,18 @@ Beyond her academic and volunteer achievements, Bella is actively involved in te
 
 
 
+## Scientific Committee
+Our scientific committee members serve as consultants for our challenges, assist in promotion, and help ensure impartial and fair conduct of our hackathon.
+
+### SC Members:
+* <a href="https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html"> Ana Oprescu </a>, Assist. Prof. at the University of Amsterdam
+* <a href="https://research.tue.nl/en/persons/lavinia-paganini"> Lavinia Paganini </a>, Doctoral candidate at Eindhoven University of Technology
+* <a href="https://www.universiteitleiden.nl/en/staffmembers/lu-cao%5B2%5D#tab-1">Lu Cao</a>, Assist. Prof. at Leiden University
+* <a href="https://mairieli.com"> Mairieli Wessel </a>, Assist. Prof. at Radboud University
+* <a href="https://www.tilburguniversity.edu/staff/c-guven"> Çiçek Güven </a>, Assist. Prof. at Tilburg University
+
+[back](./)
+
 
 ## We could not exist as Hack4Her without the support of our organizations and sponsors.
 

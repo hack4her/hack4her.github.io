@@ -72,4 +72,6 @@ We would like to express our gratitude to the following sponsors for their gener
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" width="150"/>
 </a>
 
-Thank you for making this event possible! If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsors/) or contact us [here](mailto:hack4her2024@gmail.com).
+Thank you for making this event possible! 
+
+If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsors/) or contact us [here](mailto:hack4her2024@gmail.com).

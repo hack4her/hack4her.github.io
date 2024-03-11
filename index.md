@@ -51,6 +51,7 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 
 "Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/past-events).
 
+<!-- Add past event carousel of images -->
 
 
 <!-- Sponsors and Partners -->

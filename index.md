@@ -61,7 +61,7 @@ Read more about us and why Hack4Her is necessary [here](/about/).
 Hack4Her entered the Minerva Informatics Equality Award and was shared as part of the Best Practices in Supporting Women in Tech by Informatics Europe.
 [Read more](https://www.informatics-europe.org/index.php?option=com_content&view=article&id=321:best-practices&catid=35:minerva-informatics-equality-award)
 
-To read more press coverage of Hack4Her and its organizers click [here](/press/)
+To read more press coverage of Hack4Her and its organizers click [here](/press/).
 
 <!-- Past Events -->
 ## Past Events

@@ -1,10 +1,13 @@
 ---
 layout: default
-title: Proposal
-description: Detailed budget proposal for the upcoming Hack4Her Hackathon
+title: Event Financial Transparency
+description: Detailed budget overview for a Hack4Her Hackathon
 ---
 
-# Proposal
+# Financial Transparency at Hack4Her
+
+At Hack4Her, we uphold the principle of transparency as a cornerstone of our events. Our commitment to ethical practice and accountability extends to the meticulous management of our finances. We believe that every participant, sponsor, and supporter has the right to see how every euro is allocated. We aim to cultivate trust through openness, detailing the journey of every contribution, from university funds to sponsor donations, and how they contribute to creating an impactful, inclusive, and enriching Hack4Her experience.
+
 
 ### Budget of previous years'
 

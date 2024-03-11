@@ -62,6 +62,12 @@ Beyond her academic and volunteer achievements, Bella is actively involved in te
 
 
 
+## ADD OTHER TEAM MEMBERS
+
+
+
+
+
 
 ## We could not exist as Hack4Her without the support of our organizations and sponsors.
 

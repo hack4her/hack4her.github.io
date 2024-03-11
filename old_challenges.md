@@ -1,6 +1,9 @@
 
- Hackathon: Past Challenges, Structure and Judging
-
+---
+layout: default
+title: Hackathon: Past Challenges, Structure and Judging
+description: "Get to Know our Hackathons"
+---
 
 
 

@@ -44,7 +44,7 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 
 
 ## Project Lead: Isabella Venancia Gardner (Bella)
-![Team Member Image](/assets/images/team-member.jpg)
+![Team Member Image](/assets/images/2707838.jpg)
 
 Isabella Venancia Gardner (Bella) is currently doing her Master’s in Artificial Intelligence at the Universiteit van Amsterdam. She graduated Cum Laude from Vrije Universiteit Amsterdam with a Bachelor’s in Artificial Intelligence, complemented by a minor in Technology Law and Ethics and completion of the Honour’s Programme.
 
@@ -54,7 +54,7 @@ Isabella co-founded and led the first Diversity Committee within the BETA studen
 
 Beyond her academic and volunteer achievements, Bella is actively involved in teaching and mentoring roles within Vrije Universiteit Amsterdam. She is/has been a course organizer and teaching assistant for a variety of courses including but not limited to Machine Learning, Databases, and Project Conversational Agents.
 
-[LinkedIn](#)
+[LinkedIn](www.linkedin.com/in/ivgardner)
 
 
 # We could not exist as Hack4Her without the support of our organizations and sponsors.

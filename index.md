@@ -35,15 +35,18 @@ Read more about us and why Hack4Her is necessary [here](/about/).
 
 
 
-<!-- Past Events -->
-## Past Events
-Text about past events or images if you have a gallery...
+
 
 <!-- News -->
 ## News
 Recent updates or articles about Hack4Her activities.
 - [News Article Title](/news-link) <!-- Replace with actual news link -->
 - [Blog Post Title](/blog-post-link) <!-- Replace with actual blog post link -->
+
+
+<!-- Past Events -->
+## Past Events
+Text about past events or images if you have a gallery...
 
 <!-- Sponsors and Partners -->
 ## Sponsors and Partners
@@ -63,4 +66,4 @@ We would like to express our gratitude to the following sponsors for their gener
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" width="150"/>
 </a>
 
-Thank you for making this event possible! If you are interested in sponsoring this event, you can contact us [here](mailto:hack4her2024@gmail.com).
+Thank you for making this event possible! If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsors/) or contact us [here](mailto:hack4her2024@gmail.com).

@@ -78,8 +78,6 @@ Our scientific committee members serve as consultants for our challenges, assist
 * <a href="https://mairieli.com"> Mairieli Wessel </a>, Assist. Prof. at Radboud University
 * <a href="https://www.tilburguniversity.edu/staff/c-guven"> Çiçek Güven </a>, Assist. Prof. at Tilburg University
 
-[back](./)
-
 
 ## We could not exist as Hack4Her without the support of our organizations and sponsors.
 
@@ -96,6 +94,9 @@ Our scientific committee members serve as consultants for our challenges, assist
 <a href="https://networkinstitute.org/">
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" width="150"/>
 </a>
+
+[back](./)
+
 
 Thank you for making this event possible! 
 

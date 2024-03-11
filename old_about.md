@@ -60,7 +60,10 @@ Beyond her academic and volunteer achievements, Bella is actively involved in te
 
 [LinkedIn](www.linkedin.com/in/ivgardner)
 
-# We could not exist as Hack4Her without the support of our organizations and sponsors.
+
+
+
+## We could not exist as Hack4Her without the support of our organizations and sponsors.
 
 
 <a href="https://www.vu.nl">

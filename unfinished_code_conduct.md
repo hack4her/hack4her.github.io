@@ -1,6 +1,4 @@
 # Code of Conduct
-
-<embed src="/assets/H4HRules.pdf" type="application/pdf" width="100%" height="600px">
-
+![Code of Conduct](/assets/images/conduct.png)
 
 [back](./)

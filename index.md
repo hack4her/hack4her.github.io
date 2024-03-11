@@ -46,7 +46,12 @@ Recent updates or articles about Hack4Her activities.
 
 <!-- Past Events -->
 ## Past Events
-Text about past events or images if you have a gallery...
+
+Over 150 attendees, 50+ projects, and countless moments of innovation over our 2 years active.
+
+"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/past-events).
+
+
 
 <!-- Sponsors and Partners -->
 ## Sponsors and Partners

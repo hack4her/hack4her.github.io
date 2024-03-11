@@ -44,4 +44,5 @@ For those not needing or receiving accommodation but still willing to travel:
 
 We are committed to making the hackathon accessible and ensuring a positive experience for all participants. We look forward to your participation!
 
+[back](./)
 

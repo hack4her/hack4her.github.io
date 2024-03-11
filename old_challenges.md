@@ -1,8 +1,10 @@
-# Hackathon: Past Challenges, Structure and Judging
+# Hackathon: Past Challenges and Rubrics
 
 
 
 
+
+## Past Challenges
 
 ### Facility Location Problem (FLP) - Women's Healthcare Access Challenge
 
@@ -89,6 +91,9 @@ Imagine a world where women not only overcome cybersecurity challenges but harne
 4. Craft a captivating presentation.
 5. Demonstrate solution's impact on community engagement, personal growth, and well-being.
 6. Consider scalability, sustainability, and ethical implications.
+
+## Judging Rubric
+
 
 
 

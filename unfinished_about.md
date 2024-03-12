@@ -44,22 +44,20 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 
 ## Scientific Lead: Katja Tuma
 
-Dr. Katja Tuma is an Assistant Professor at Vrije Universiteit Amsterdam, specializing in cybersecurity. Her work focuses on the intersection of security and system design, particularly in the context of cyber-physical systems. Dr. Tuma's research aims to enhance the understanding of security risks and develop strategies for resilient system design. She actively contributes to academic discourse through publications and serves on various conference committees, reflecting her commitment to advancing cybersecurity knowledge and practice.
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+  <p>Dr. Katja Tuma is an Assistant Professor at Vrije Universiteit Amsterdam, specializing in cybersecurity. Her work focuses on the intersection of security and system design, particularly in the context of cyber-physical systems. Dr. Tuma's research aims to enhance the understanding of security risks and develop strategies for resilient system design. She actively contributes to academic discourse through publications and serves on various conference committees, reflecting her commitment to advancing cybersecurity knowledge and practice. For more details, visit her [professional page](https://katjatuma.github.io/).</p> </div>
+</div>
 
-For more details, visit her [professional page](https://katjatuma.github.io/).
+
 
 ## Project Lead: Isabella Venancia Gardner (Bella)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/2707838.jpg" alt="Isabella Venancia Gardner" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-  <p>Isabella Venancia Gardner (Bella) is currently doing her Master’s in Artificial Intelligence at the Universiteit van Amsterdam. She graduated Cum Laude from Vrije Universiteit Amsterdam with a Bachelor’s in Artificial Intelligence, complemented by a minor in Technology Law and Ethics and completion of the Honour’s Programme.
-
-Isabella co-founded and led the first Diversity Committee within the BETA student association, STORM, at Vrije Universiteit Amsterdam, focusing on reducing discrimination and increasing diversity in CS and AI university programs. Her leadership extended to organizing Hack4Her, the inaugural women-focused hackathon at VU Amsterdam, and expanding the event in collaboration with Booking.com, fostering a community dedicated to inclusivity and innovation in technology.
-
-Her commitment to advancing diversity in tech and AI has led to notable recognitions, including being a recipient of the Studienstiftung des Deutschen Volkes scholarship, awarded for remarkable academic and social qualities, and the Qualcomm Diversity AI Fellowship 2023 from the ELLIS Foundation, supporting her Master’s studies. 
-
-Beyond her academic and volunteer achievements, Bella is actively involved in teaching and mentoring roles within Vrije Universiteit Amsterdam. She is/has been a course organizer and teaching assistant for a variety of courses including but not limited to Machine Learning, Databases, and Project Conversational Agents.</p> </div>
+  <p>Isabella Venancia Gardner (Bella) is currently doing her Master’s in Artificial Intelligence at the Universiteit van Amsterdam. She graduated Cum Laude from Vrije Universiteit Amsterdam with a Bachelor’s in Artificial Intelligence, complemented by a minor in Technology Law and Ethics and completion of the Honour’s Programme. Isabella co-founded and led the first Diversity Committee within the BETA student association, STORM, at Vrije Universiteit Amsterdam, focusing on reducing discrimination and increasing diversity in CS and AI university programs. Her leadership extended to organizing Hack4Her, the inaugural women-focused hackathon at VU Amsterdam, and expanding the event in collaboration with Booking.com, fostering a community dedicated to inclusivity and innovation in technology. Her commitment to advancing diversity in tech and AI has led to notable recognitions, including being a recipient of the Studienstiftung des Deutschen Volkes scholarship, awarded for remarkable academic and social qualities, and the Qualcomm Diversity AI Fellowship 2023 from the ELLIS Foundation, supporting her Master’s studies. Beyond her academic and volunteer achievements, Bella is actively involved in teaching and mentoring roles within Vrije Universiteit Amsterdam. She is/has been a course organizer and teaching assistant for a variety of courses including but not limited to Machine Learning, Databases, and Project Conversational Agents.</p> </div>
 </div>
 
 [LinkedIn](www.linkedin.com/in/ivgardner)

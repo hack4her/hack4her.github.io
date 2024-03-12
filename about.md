@@ -42,7 +42,7 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 # Meet Our Team
 
 
-## Scientific Lead: Katja Tuma
+## Scientific Lead: [Katja Tuma](https://www.linkedin.com/in/katjatuma)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: auto; margin-right: 20px;">
@@ -53,7 +53,7 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 For more details, visit her [professional page](https://katjatuma.github.io/).
 
 
-## Project Lead: Isabella Venancia Gardner (Bella)
+## Project Lead: [Isabella Venancia Gardner (Bella)](www.linkedin.com/in/ivgardner)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/2707838.jpg" alt="Isabella Venancia Gardner" style="width: 200px; height: auto; margin-right: 20px;">
@@ -61,7 +61,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
   <p>Isabella Venancia Gardner (Bella) is currently doing her Master’s in Artificial Intelligence at the Universiteit van Amsterdam. She graduated Cum Laude from Vrije Universiteit Amsterdam with a Bachelor’s in Artificial Intelligence, complemented by a minor in Technology Law and Ethics and completion of the Honour’s Programme. Isabella co-founded and led the first Diversity Committee within the BETA student association, STORM, at Vrije Universiteit Amsterdam, focusing on reducing discrimination and increasing diversity in CS and AI university programs. Her leadership extended to organizing Hack4Her, the inaugural women-focused hackathon at VU Amsterdam, and expanding the event in collaboration with Booking.com, fostering a community dedicated to inclusivity and innovation in technology. Her commitment to advancing diversity in tech and AI has led to notable recognitions, including being a recipient of the Studienstiftung des Deutschen Volkes scholarship, awarded for remarkable academic and social qualities, and the Qualcomm Diversity AI Fellowship 2023 from the ELLIS Foundation, supporting her Master’s studies. Beyond her academic and volunteer achievements, Bella is actively involved in teaching and mentoring roles within Vrije Universiteit Amsterdam. She is/has been a course organizer and teaching assistant for a variety of courses including but not limited to Machine Learning, Databases, and Project Conversational Agents.</p> </div>
 </div>
 
-[LinkedIn](www.linkedin.com/in/ivgardner)
+
 
 ## Project Lead: [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
 
@@ -71,7 +71,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
   <p>Mylène Brown-Coleman is currently excelling as an AI Consultant at ServiceNow, where she crafts AI solutions to enhance business processes and operational efficiency for clients. Having recently graduated with a degree in Artificial Intelligence from Vrije Universiteit Amsterdam, her education was distinguished by her role as an Artificial Intelligence Research Intern at Gemeente Amsterdam. Here, she developed an end-to-end pipeline for Google review analysis for her thesis project. This project was part of the Amsterdam for All initiative aimed at improving accessibility for individuals with disabilities, demonstrating Mylène's ability to translate academic insights into solutions for societal challenges. Her passion for education shines through her work as an Academic and General Teaching Assistant at Vrije Universiteit Amsterdam, where she has served as a teaching assistant for courses including Data Structures & Algorithms, Computational Thinking, and Project Intelligent Systems. Her leadership qualities and commitment to social impact are evident in her founding of a diversity committee and Hack4Her, the first recurring women-centered hackathon in the Netherlands in the last five years, emphasizing her dedication to inclusivity in technology. These initiatives have significantly increased female participation in programming competitions, underlining her role as a catalyst for change within the community. Her achievements include the Generation Google Scholar, Nutanix Women Heart Technology Scholarship, AnitaB.org GHC Scholar, and notably, the Faculty of Science Student Talent Award in January 2024, which recognises her remarkable contributions to her field and community. Mylène Brown-Coleman's story is a vivid illustration of her transition from an ambitious AI student to a consultant and advocates for diversity and inclusivity in technology, reflecting not only her profound passion for AI but also her committed effort to utilize technology for the betterment of society.</p> </div>
 </div>
 
-## Project Lead: Andreas Panteli
+## Project Lead: [Andreas Panteli](https://www.linkedin.com/in/andreas-panteli/)
 
 
 <div style="display: flex; align-items: flex-start;">
@@ -81,7 +81,6 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 </p> </div>
 </div>
 
-[LinkedIn](https://www.linkedin.com/in/andreas-panteli/)
 
 ## Scientific Committee
 Our scientific committee members serve as consultants for our challenges, assist in promotion, and help ensure impartial and fair conduct of our hackathon.

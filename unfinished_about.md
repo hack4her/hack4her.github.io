@@ -63,7 +63,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 
 [LinkedIn](www.linkedin.com/in/ivgardner)
 
-## Project Lead: [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène](https://www.linkedin.com/in/myl%C3%A8ne/)
+## Project Lead: [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/my.jpeg" alt="MBC" style="width: 200px; height: auto; margin-right: 20px;">

@@ -73,7 +73,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 
 [LinkedIn]()
 
-## Project Lead: Andreas
+## Project Lead: Andreas 
 
 
 

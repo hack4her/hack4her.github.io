@@ -63,9 +63,18 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 
 [LinkedIn](www.linkedin.com/in/ivgardner)
 
+## Project Lead: Mylène Brown-Coleman
 
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/images/my.jpeg" alt="MBC" style="width: 200px; height: auto; margin-right: 20px;">
+  <div>
+  <p>.</p> </div>
+</div>
 
-## ADD OTHER TEAM MEMBERS
+[LinkedIn]()
+
+## Project Lead: Andreas
+
 
 
 

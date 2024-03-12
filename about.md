@@ -75,7 +75,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 
 
 <div style="display: flex; align-items: flex-start;">
-  <img src="assets/images/.jpeg" alt=AP" style="width: 200px; height: auto; margin-right: 20px;">
+  <img src="assets/images/AP.jpeg" alt=AP" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
   <p>Meet Andreas, a dedicated Digital Pathology researcher with a master's and a current doctoral position in AI for personalized Immunotherapy. Passionate about leveraging technology for healthcare improvements, he constantly pushes boundaries in the lab. His work on detecting immune cells for breast cancer research aspires to one day be used in clinics by pathologists in their daily practice. This important work keeps him motivated for new challenges and new opportunities. In the past couple of years, Andreas has extended his impact beyond research, engaging in community outreach and facilitating social collaboration. As a board member of Inclusive AI, he has led efforts for a more inclusive workplace at the University of Amsterdam. Further, he actively engages in strengthening the collaboration of fellow researchers by volunteering in the organization of conferences and the activities of the Ellis unit in Amsterdam.
 </p> </div>

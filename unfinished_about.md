@@ -42,7 +42,11 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 # Meet Our Team
 *Introduce your team members with photos, blurbs, and links to their LinkedIn profiles.*
 
+## Scientific Lead: Katja Tuma
 
+Dr. Katja Tuma is an Assistant Professor at Vrije Universiteit Amsterdam, specializing in cybersecurity. Her work focuses on the intersection of security and system design, particularly in the context of cyber-physical systems. Dr. Tuma's research aims to enhance the understanding of security risks and develop strategies for resilient system design. She actively contributes to academic discourse through publications and serves on various conference committees, reflecting her commitment to advancing cybersecurity knowledge and practice.
+
+For more details, visit her [professional page](https://katjatuma.github.io/).
 
 ## Project Lead: Isabella Venancia Gardner (Bella)
 

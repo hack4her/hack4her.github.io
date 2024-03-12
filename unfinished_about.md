@@ -73,11 +73,6 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 
 
 
-## Project Lead: Andreas 
-
-
-
-
 
 
 ## Scientific Committee

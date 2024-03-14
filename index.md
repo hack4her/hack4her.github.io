@@ -11,7 +11,7 @@ Hack4Her is the only female-focused student hackathon in the Netherlands, creati
 
 Hack4Her is not just a hackathon; it’s a movement. A weekend at Hack4Her means engaging in an environment rich with challenges and opportunities, where participants can experiment, innovate, and connect with like-minded individuals and mentors in the tech industry. Our platform celebrates diversity, where all students from across the Netherlands can join in the camaraderie, code, and competition.
 
-Read more about us and why Hack4Her is necessary [here](/about/).
+Read more about us and why Hack4Her is necessary [here](./about).
 
 <!-- Upcoming Event Highlight -->
 ## Upcoming Event

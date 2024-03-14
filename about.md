@@ -104,6 +104,9 @@ Our scientific committee members serve as consultants for our challenges, assist
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" width="150"/>
 </a>
 
+<a href="https://versen.nl">
+  <img src="assets/images/other_versen_logo.png" alt="versen logo" width="150"/>
+</a>
 
 
 Thank you for making this event possible! 

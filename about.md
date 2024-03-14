@@ -101,7 +101,7 @@ Our scientific committee members serve as consultants for our challenges, assist
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" width="150"/>
 </a>
 <a href="https://networkinstitute.org/">
-    <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" width="150"/>
+    <img src="assets/images/network_institute_logo.png" alt="Network Institute Logo" width="150"/>
 </a>
 
 <a href="https://versen.nl">

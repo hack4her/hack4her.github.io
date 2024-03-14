@@ -9,9 +9,9 @@ Bella served as the Co-founder and Chair of the Diversity Committee, with Mylèn
 
 The concept for Hack4Her was inspired by their observations at the Amsterdam Algorithm Programming Preliminary (AAPP), where a significant underrepresentation of women was noted. Inquiry into the low participation of women revealed concerns over feeling unwelcome, and underqualified, and the discomfort of being the only female participant.
 
-Supported by BETA faculty member Katja Tuma, the first Hack4Her hackathon took place in June 2022 at VU Amsterdam. The event was women-only and attracted 35 attendees. [Learn more about the event](#).
+Supported by BETA faculty member Katja Tuma, the first Hack4Her hackathon took place in June 2022 at VU Amsterdam. The event was women-only and attracted 35 attendees. [Learn more about the event](./events_archive).
 
-In 2023, the event was expanded to welcome all genders while maintaining a focus on women in tech. Held at the Booking.com office with Booking.com as the main sponsor, the participation increased to 75, with a total of 100 attendees. This iteration emphasized a broader learning and networking experience. [Learn more about the event](#).
+In 2023, the event was expanded to welcome all genders while maintaining a focus on women in tech. Held at the Booking.com office with Booking.com as the main sponsor, the participation increased to 75, with a total of 100 attendees. This iteration emphasized a broader learning and networking experience. [Learn more about the event](./events_archive).
 
 Hack4Her was founded to create a supportive and inclusive tech community. Its evolution reflects a commitment to these principles, with each event building upon the last to advance diversity in technology.
 

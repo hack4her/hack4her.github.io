@@ -1,8 +1,3 @@
----
-layout: page
-title: About Us
-permalink: /about/
----
 
 # Our History
 ![Image of past event](/assets/images/_MG_0700.jpg)

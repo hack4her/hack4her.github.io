@@ -30,7 +30,7 @@ Ready to make your mark? Sign up now and let the innovation begin!
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">
-  <img src="https://github.com/hack4her/hack4her.github.io/blob/main/hack4her_1.jpg?raw=true" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
+  <img src="assets/images/hack4her_1.jpg" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
 </a>
 
 ## Prizes

@@ -48,7 +48,7 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 For more details, visit her [professional page](https://katjatuma.github.io/).
 
 
-## Project Lead: [Isabella Venancia Gardner (Bella)](www.linkedin.com/in/ivgardner)
+## Project Lead: [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/2707838.jpg" alt="Isabella Venancia Gardner" style="width: 200px; height: auto; margin-right: 20px;">

@@ -1,7 +1,5 @@
-title: Hack4Her
-description: Hack4Her is a female-focused Hackathon in the Netherlands.
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+theme: jekyll-theme-hacker

@@ -73,34 +73,6 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 
 We would like to express our gratitude to the following sponsors for their generous support:
 
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sponsor Logos</title>
-<style>
-  .card {
-    background: white;
-    padding: 20px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 20px;
-  }
-  .logo {
-    width: 150px; /* Adjust width as necessary for each logo */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  img {
-    max-width: 100%;
-    height: auto;
-  }
-</style>
-</head>
-<body>
 
 <div class="card">
   <a href="https://www.vu.nl" class="logo">

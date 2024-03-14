@@ -63,7 +63,7 @@ To read more press coverage of Hack4Her and its organizers click [here](./press)
 
 Over 150 attendees, 50+ projects, and countless moments of innovation over our 2 years active.
 
-"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/events_archive).
+"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](./events_archive).
 
 <!-- Add past event carousel of images -->
 

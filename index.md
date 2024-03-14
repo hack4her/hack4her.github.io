@@ -73,26 +73,58 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 
 We would like to express our gratitude to the following sponsors for their generous support:
 
-<a href="https://www.vu.nl">
-    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" width="150"/>
-</a>
-<a href="https://www.sectorplan-betatechniek.nl/">
-    <img src="https://www.sectorplan-betatechniek.nl/themes/custom/sectorplan_bt/assets/images/twitter-image-default.png" alt="SectorPlan Logo" width="150"/>
-</a>
-<a href="https://www.booking.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" width="150"/>
-</a>
-<a href="https://networkinstitute.org/">
-    <img src="assets/images/network_institute_logo.png" alt="Network Institute Logo" width="150"/>
-</a>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sponsor Logos</title>
+<style>
+  .card {
+    background: white;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  .logo {
+    width: 150px; /* Adjust width as necessary for each logo */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+</style>
+</head>
+<body>
 
-<a href="https://versen.nl">
-  <img src="assets/images/other_versen_logo.png" alt="versen logo" width="150"/>
-</a>
+<div class="card">
+  <a href="https://www.vu.nl" class="logo">
+    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo"/>
+  </a>
+  <a href="https://www.sectorplan-betatechniek.nl/" class="logo">
+    <img src="https://www.sectorplan-betatechniek.nl/themes/custom/sectorplan_bt/assets/images/twitter-image-default.png" alt="SectorPlan Logo"/>
+  </a>
+  <a href="https://www.booking.com/" class="logo">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo"/>
+  </a>
+  <a href="https://networkinstitute.org/" class="logo">
+    <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo"/>
+  </a>
+  <a href="https://versen.nl" class="logo">
+    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo"/>
+  </a>
+  <a href="https://ivi.fnwi.uva.nl/ellis/" class="logo">
+    <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo"/>
+  </a>
+</div>
 
-<a href="https://ivi.fnwi.uva.nl/ellis/">
-  <img src="assets/images/AMSTERDAM.jpg" alt="ellis logo" width=150/>
-</a>
+</body>
+</html>
 
 
 Thank you for making this event possible! 

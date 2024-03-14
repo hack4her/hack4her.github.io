@@ -95,9 +95,6 @@ We would like to express our gratitude to the following sponsors for their gener
   </a>
 </div>
 
-</body>
-</html>
-
 
 Thank you for making this event possible! 
 

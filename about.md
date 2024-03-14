@@ -108,6 +108,9 @@ Our scientific committee members serve as consultants for our challenges, assist
   <img src="assets/images/other_versen_logo.png" alt="versen logo" width="150"/>
 </a>
 
+<a href="https://ivi.fnwi.uva.nl/ellis/">
+  <img src="assets/images/AMSTERDAM.jpg" alt="ellis logo" width=150/>
+</a>
 
 Thank you for making this event possible! 
 

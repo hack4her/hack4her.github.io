@@ -20,7 +20,7 @@ Read more about us and why Hack4Her is necessary [here](/about).
 **Dates:** June 7-9, 2024  
 🌟 Dive into the 3rd Annual Hack4Her, June 7-9, 2024, at VU Amsterdam! A weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you to join us for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance for free accommodation. Sign up and let's innovate together! 
 
-[Learn More](/2024_event/) or <!-- Replace with the link to your event details page -->
+[Learn More](/2024_event) or <!-- Replace with the link to your event details page -->
 [Register Now](https://forms.gle/4386XaDrfRBc53Ls6) <!-- Replace with the link to your registration page -->
 
 
@@ -56,14 +56,14 @@ Hack4Her entered the Minerva Informatics Equality Award and was shared as part o
 
 [Read more](https://www.informatics-europe.org/index.php?option=com_content&view=article&id=321:best-practices&catid=35:minerva-informatics-equality-award)
 
-To read more press coverage of Hack4Her and its organizers click [here](./press).
+To read more press coverage of Hack4Her and its organizers click [here](/press).
 
 <!-- Past Events -->
 ## Past Events
 
 Over 150 attendees, 50+ projects, and countless moments of innovation over our 2 years active.
 
-"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/events_archive/).
+"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/events_archive).
 
 <!-- Add past event carousel of images -->
 
@@ -98,4 +98,4 @@ We want to express our gratitude to the following sponsors for their generous su
 
 Thank you for making this event possible! 
 
-If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship/) or contact us [here](mailto:hack4her2024@gmail.com).
+If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:hack4her2024@gmail.com).

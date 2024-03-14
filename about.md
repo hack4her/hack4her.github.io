@@ -1,6 +1,6 @@
 
 # Our History
-![Image of past event](/assets/images/history.jpg)
+![Image of past event](assets/images/history.jpg)
 
 
 Hack4Her originated in October 2021, established by Isabella Venancia (Bella) and Mylène. They founded the first Diversity Committee within the BETA student association, STORM, at VU Amsterdam. This initiative was in response to encountering racist and sexist comments among classmates and identifying a lack of clear channels for reporting and seeking assistance.

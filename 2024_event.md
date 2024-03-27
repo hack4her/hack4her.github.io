@@ -1,32 +1,32 @@
 
 # 🌟 Welcome to the 3rd Annual Hack4Her Event June 7-9, 2024! 🌟
 
-This year, we're continuing to celebrate the incredible talent of women in tech with a women-centered weekend, an UvA and VU Amsterdam joint event. All students (Bachelor's, Master's) in the Netherlands are eligible to register to join.  While all genders are welcome to participate in the event, only individuals who identify as women are eligible to compete in the hackathon portion of the event, but do not worry if you do not want to participate in a hackathon or are not eligible there are still plenty of interesting activities to do! If you are an academic in the Netherlands, who is not a student (PhD candidate, Professor, etc.), and you are interested in joining for all or part of this event, please get in touch with us [here](mailto:hack4her2024@gmail.com).
+Join us for a weekend focused on creating a women-centric tech space, presented jointly by the University of Amsterdam (UvA) and VU Amsterdam. All students in the Netherlands are welcome to register. We offer participants two distinct tracks: the hackathon track and the non-hackathon track. While all genders are welcome to participate in the event, **only individuals who identify as women are eligible to compete in the hackathon**. If you're an academic professional in the Netherlands—whether a Ph.D. candidate, professor, or beyond—and you're interested in participating in any aspect of this event, please don't hesitate to reach out to us [here](mailto:hack4her2024@gmail.com).
 
-🚀 Join us for an exciting weekend of coding, innovation, learning, networking, and fun at Vrije Universiteit Amsterdam! 🚀
-
-## Dates & Times:
+## Dates & Times
 
 - **Kickoff:** June 7th, 17:00 - 21:00
 - **Full Days:** June 8th, 9:00 - 21:00 & June 9th, 9:00 - 18:00
 
-## What's on Offer:
-
-- **Engaging Hackathon:** Dive into challenges, bring your ideas to life, and compete for exciting prizes. Limited coding experience is fine! We aim to have people expand on their problem-solving, and project-development skills, and learn some coding along the way!
-- **Inspiring Lectures and Workshops:** Learn from industry and university leaders about the latest trends and technologies. Our curated lectures and workshops cover a range of cool tech topics, from AI to diversity and inclusion and beyond.
-- **Networking Opportunities:** Connect with like-minded individuals, tech enthusiasts, and potential collaborators. Meet people from different companies, institutions, and various tech fields.
-- **Free Food & Drinks:** Stay fueled throughout the event with complimentary meals, snacks, and refreshments the entire weekend!
-- **Accommodation:** For hackathon participants traveling from outside Amsterdam, we're offering limited free accommodation. Make sure to sign up early to secure your spot!
-
-## Location:
-
+## Location
 Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
-Whether you're looking to showcase your skills, learn something new, or just have a great time, the Tech Innovate Hackathon is the place to be. Don't miss out on this fantastic tech weekend!
+## What's on Offer
+- **Hackathon Track:** Engage in challenges, bring ideas to life, and compete for prizes. No extensive coding experience is required. This track aims to develop problem-solving and project development skills while fostering learning. Participate in the hackathon to boost your CV with an impressive addition!  Limited free accommodation is available for hackathon participants from outside Amsterdam.
+- **Non-Hackathon Track:** Choose from two options:
+  - **Independent Work Area:** Focus on personal projects/work with expert support. Enjoy complimentary food, drinks, and snacks for a productive weekend.
+  - **Workshops and Talks:** Expand your knowledge on topics like logic synthesis, nanotechnology, AI, and diversity in tech. Receive certificates of attendance/completion for CV and LinkedIn accreditation.
 
-🌟 All are welcome to join us in celebrating the power of diversity and innovation in the tech industry. 🌟
+## Additional Benefits for Both Tracks
+- **Keynote Presentations:** Learn from industry and university leaders about technology and diversity.
+- **Networking Opportunities:** Engage in networking opportunities throughout the event, including a special networking event on Friday evening. Connect with like-minded individuals, potential collaborators, academics, and industry professionals to foster meaningful connections. 
+- **Free Food & Drinks:** Enjoy complimentary meals, snacks, and refreshments throughout the event.
 
-Ready to make your mark? Sign up now and let the innovation begin!
+🚀 Join us for an exciting weekend of coding, innovation, learning, networking, working, and fun at Vrije Universiteit Amsterdam! 🚀
+
+For more information on Hack4Her in general check out our [website](https://hack4her.github.io/). 
+
+🌟**Sign up now, early registration closes May 1st!**🌟
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">

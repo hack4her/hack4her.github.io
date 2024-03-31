@@ -24,9 +24,9 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 🚀 Join us for an exciting weekend of coding, innovation, learning, networking, working, and fun at Vrije Universiteit Amsterdam! 🚀
 
-For more information on Hack4Her in general check out our [website](https://hack4her.github.io/). 
-
 🌟 **Sign up now, early registration closes May 1st!** 🌟
+
+SIGN UP WITH THIS [LINK](https://forms.gle/f2CAsBgg9r4Qn591A) OR THE QR CODE BELOW. 
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">

@@ -5,7 +5,7 @@ Join us for a weekend focused on creating a women-centric tech space, presented 
 
 ## Dates & Times
 
-- **Kickoff:** June 7th, 17:00 - 21:00
+- **Kickoff:** June 7th, 17:00 - 22:00
 - **Full Days:** June 8th, 9:00 - 21:00 & June 9th, 9:00 - 18:00
 
 ## Location
@@ -13,7 +13,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 ## What's on Offer
 - **Hackathon Track:** Engage in challenges, bring ideas to life, and compete for prizes. No extensive coding experience is required. This track aims to develop problem-solving and project development skills while fostering learning. Participate in the hackathon to boost your CV with an impressive addition!  Limited free accommodation is available for hackathon participants from outside Amsterdam.
-- **Non-Hackathon Track:** Choose from two options and attend full-time or part-time:
+- **Non-Hackathon Track:** Choose from two options (or a combination of the two) and attend full-time or part-time:
   - **Independent Work Area:** Focus on personal projects/work with expert support. Enjoy complimentary food, drinks, and snacks for a productive weekend.
   - **Workshops and Talks:** Expand your knowledge on topics like logic synthesis, nanotechnology, AI, and diversity in tech. Receive certificates of attendance/completion for CV and LinkedIn accreditation.
 

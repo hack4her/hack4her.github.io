@@ -15,7 +15,7 @@ Read more about us and why Hack4Her is necessary [here](/about).
 
 <!-- Upcoming Event Highlight -->
 ## Upcoming Event
-![3rd Annual Hack4Her Event](/assets/images/hack4her_1.jpg) <!-- Replace with path to your event image -->
+![3rd Annual Hack4Her Event](/assets/images/hack4her(A5).png) <!-- Replace with path to your event image -->
 ### 3rd Annual Hack4Her Event
 **Dates:** June 7-9, 2024  
 🌟 Dive into the 3rd Annual Hack4Her, June 7-9, 2024, at VU Amsterdam! A weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you to join us for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance for free accommodation. Sign up and let's innovate together! 

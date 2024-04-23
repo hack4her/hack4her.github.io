@@ -89,6 +89,12 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://ivi.fnwi.uva.nl/ellis/" style="display: inline-block; width: 200px; margin: 10px;">
     <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo" style="width: 100%; height: auto;">
   </a>
+     <a href="https://www.axini.com/nl/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/axini.jpg" alt="axini" style="width: 100%; height: auto;">
+  </a>
+   <a href="https://duckdb.org/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/duckdb.svg" alt="duck db" style="width: 100%; height: auto;">
+  </a>
 </div>
 
 

@@ -24,7 +24,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 🚀 Join us for an exciting weekend of coding, innovation, learning, networking, working, and fun at Vrije Universiteit Amsterdam! 🚀
 
-🌟 **Sign up now, early registration closes May 1st!** 🌟
+🌟 **Sign up now, normal registration closes May 15th!** 🌟
 
 SIGN UP WITH THIS [LINK](https://forms.gle/f2CAsBgg9r4Qn591A) OR THE QR CODE BELOW. 
 

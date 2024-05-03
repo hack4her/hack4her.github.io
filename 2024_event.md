@@ -30,7 +30,7 @@ SIGN UP WITH THIS [LINK](https://forms.gle/f2CAsBgg9r4Qn591A) OR THE QR CODE BEL
 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">
-  <img src="assets/images/hack4her(A5).png" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
+  <img src="assets/images/hack4her03.05.png" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
 </a>
 
 ## Prizes

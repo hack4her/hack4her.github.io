@@ -1,11 +1,5 @@
 # Press on Hack4Her
 
-### A Technology Retreat: A Hack4Her Event - Vrije Universiteit Amsterdam
-
-   Vrije Universiteit Amsterdam posted "A Technology Retreat: A Hack4Her Event" as a multidimensional affair focused on women in tech, featuring a range of social and learning activities, including a hackathon. This event was organized by a team led by Isabella Venancia Gardner and Dr. Katja Tuma, along with Mylène Brown-Coleman.
-   [Read more](https://vu.nl/en/events/2023/a-technology-retreat-a-hack4her-event)
-   
-
 ### Great Success for the Hack4Her Event - Network Institute
    The Network Institute reported on the Hack4Her event as a significant initiative highlighting the role of women in technology. The event was noted for its self-organized structure and the social, learning, and skill-practice events that took place.
    [Read more](https://networkinstitute.org/2023/06/20/great-success-for-the-hack4her-event/)

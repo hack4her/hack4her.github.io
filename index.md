@@ -101,6 +101,9 @@ We want to express our gratitude to the following sponsors for their generous su
    <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; margin: 10px;">
     <img src="assets/images/SN.jpg" alt="service now" style="width: 100%; height: auto;">
   </a>
+   <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="width: 100%; height: auto;">
+  </a>
 </div>
 
 

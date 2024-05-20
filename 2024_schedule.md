@@ -1,4 +1,6 @@
-# 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024! 🌟
+# 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024 🌟
+
+# Schedule
 
 **Please Note: this is a rough schedule and can be subject to minor changes!**
 
@@ -47,3 +49,6 @@
 | 16:05 - 18:00 | Presentation of Results              | Various |
 | 18:00 - 19:00 | Break/Drinks/Snacks, Judge Deliberation Time | Various |
 | 19:00 - 19:30 | Award Prizes - Closing               | Event Space  |
+
+
+[back](./)

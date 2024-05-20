@@ -17,12 +17,12 @@
 
 
 
-## Saturday, 8th of June, 9:00 - 21:00
+## Saturday, 8th of June, 09:00 - 21:00
 
 | Time         | What                               | Room       |
 |--------------|------------------------------------|------------|
-| 9:00 - 9:45  | Sign In and Breakfast              | Event Space |
-| 9:45 - 10:15 | Day Introduction + Challenge Introduction | Theater 1   |
+| 09:00 - 09:45  | Sign In and Breakfast              | Event Space |
+| 09:45 - 10:15 | Day Introduction + Challenge Introduction | Theater 1   |
 | 10:15 - 10:45 | Challenge Workshops, Independent Work    | Various  |
 | 10:45 - 14:00 | Workshops, Hacking, Expert Sessions  | Various    |
 | 14:00 - 15:00 | Lunch, Eat, and Work              | Event Space |
@@ -33,12 +33,12 @@
 
 
 
-## Sunday, 9th of June, 9:00 - 19:30
+## Sunday, 9th of June, 09:00 - 19:30
 
 | Time         | What                                  | Room       |
 |--------------|---------------------------------------|------------|
-| 9:00 - 9:45  | Sign In and Breakfast                 | Event Space |
-| 9:45 - 10:15 | Day Introduction + Judge Introductions + Presentation Introduction | Theater 1  |
+| 09:00 - 09:45  | Sign In and Breakfast                 | Event Space |
+| 09:45 - 10:15 | Day Introduction + Judge Introductions + Presentation Introduction | Theater 1  |
 | 10:15 - 10:45 | History of Women in CS Presentation (Mandatory for All) | Theater 1 |
 | 10:45 - 14:15 | Workshops, Hacking, Expert Sessions           | Various    |
 | 14:15 - 15:00 | Lunch, Eat, and Work                 | Event Space |

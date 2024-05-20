@@ -26,8 +26,8 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 ## Saturday
 
-## Challenge Workshops
-### Workshop 1A: TBA
+### Challenge Workshops
+#### Workshop 1A: TBA
 - **Time:** 10:15 AM - 10:45 AM
 - **Person:** TBA
 - **Title:** TBA
@@ -35,7 +35,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-### Workshop 1B: TBA
+#### Workshop 1B: TBA
 - **Time:** 10:15 AM - 10:45 AM
 - **Person:** TBA
 - **Title:** TBA
@@ -43,7 +43,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-### Workshop 1C: TBA
+#### Workshop 1C: TBA
 - **Time:** 10:15 AM - 10:45 AM
 - **Person:** TBA
 - **Title:** TBA
@@ -51,7 +51,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-### Workshop 1D: TBA
+#### Workshop 1D: TBA
 - **Time:** 10:15 AM - 10:45 AM
 - **Person:** TBA
 - **Title:** TBA
@@ -59,7 +59,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-## Workshop 2: An Introduction to Jax Programming
+### Workshop 2: An Introduction to Jax Programming
 - **Time:** 11:00 AM - 11:55 AM
 - **Person:** Samuele Papa 
 - **Job Title:** PhD Candidate
@@ -67,7 +67,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** Samuele Papa is a PhD candidate at the University of Amsterdam and the Netherlands Cancer Institute. His primary research focus is deep learning for improved imaging in cancer care, and his biggest interest is representation learning for scientific applications and 3D reasoning. For more information check out his website: https://samuelepapa.github.io/ or feel free to reach out at s.papa@uva.nl.
 - **Workshop Description:** Why JAX? Because it is uniquely fast in many settings, and it will give you an edge over PyTorch when you need a bit more flexibility. During this workshop, you will learn about how JAX handles compilation and why it is fundamentally a functional programming framework. We will go through a simple image classification example to learn all the basic elements that will get you started and ready to tackle your next project even faster!
 
-## Workshop 3: TBA
+### Workshop 3: TBA
 - **Time:** 12:00 PM - 1:00 PM
 - **Person:** TBA
 - **Title:** TBA
@@ -75,7 +75,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-## Workshop 4: TBA
+### Workshop 4: TBA
 - **Time:** 1:05 PM - 2:00 PM
 - **Person:** TBA
 - **Title:** TBA
@@ -83,7 +83,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-## Workshop 5: TBA
+### Workshop 5: TBA
 - **Time:** 3:00 PM - 4:00 PM
 - **Person:** TBA
 - **Title:** TBA
@@ -91,7 +91,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-## Workshop 6: TBA
+### Workshop 6: TBA
 - **Time:** 4:30 PM - 5:30 PM
 - **Person:** TBA
 - **Title:** TBA
@@ -101,7 +101,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 ## Sunday
 
-## Workshop 7: TBA
+### Workshop 7: TBA
 - **Time:** 11:15 AM - 12:15 PM
 - **Person:** TBA
 - **Title:** TBA
@@ -109,7 +109,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-## Workshop 8: Logic Synthesis for AI
+### Workshop 8: Logic Synthesis for AI
 - **Time:** 12:45 PM - 2:15 PM
 - **Person:** Marcel Walter
 - **Academic Title:** Prof. Dr.
@@ -127,7 +127,7 @@ https://www.linkedin.com/in/marcel-walter-94b573195/
 In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
 
 
-## Workshop 9: TBA
+### Workshop 9: TBA
 - **Time:** 3:00 PM - 4:00 PM
 - **Person:** TBA
 - **Title:** TBA

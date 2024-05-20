@@ -23,10 +23,10 @@
 |--------------|------------------------------------|------------|
 | 9:00 - 9:45  | Sign In and Breakfast              | Event Space |
 | 9:45 - 10:15 | Day Introduction + Challenge Introduction | Theater 1   |
-| 10:15 - 10:45 | Challenge Workshops, Work         | Various  |
-| 10:45 - 14:00 | Workshop/Hacking/Expert Sessions  | Various    |
+| 10:15 - 10:45 | Challenge Workshops, Independent Work    | Various  |
+| 10:45 - 14:00 | Workshops, Hacking, Expert Sessions  | Various    |
 | 14:00 - 15:00 | Lunch, Eat, and Work              | Event Space |
-| 15:00 - 18:00 | Hacking, Tutoring, Project        | Various    |
+| 15:00 - 18:00 | Workshops, Hacking, Expert Sessions        | Various    |
 | 18:00 - 19:00 | DEI Training (Mandatory for All)  | Theater 1  |
 | 19:00 - 20:00 | Dinner, Eat, and Work             | Event Space |
 | 20:00 - 21:00 | Drinks, Work, and Social          | Event Space    |
@@ -40,9 +40,9 @@
 | 9:00 - 9:45  | Sign In and Breakfast                 | Event Space |
 | 9:45 - 10:15 | Day Introduction + Judge Introductions + Presentation Introduction | Theater 1  |
 | 10:15 - 10:45 | History of Women in CS Presentation (Mandatory for All) | Theater 1 |
-| 10:45 - 14:15 | Hacking, Tutoring, Project           | Various    |
+| 10:45 - 14:15 | Workshops, Hacking, Expert Sessions           | Various    |
 | 14:15 - 15:00 | Lunch, Eat, and Work                 | Event Space |
-| 15:00 - 16:00 | Last Hour Hacking, Tutoring, Project | Various    |
+| 15:00 - 16:00 | Last Hour: Workshops, Hacking, Expert Sessions   | Various    |
 | 16:00 - 16:05 | Judge Introductions and Presentation Introduction Short | Event Space  |
 | 16:05 - 18:00 | Presentation of Results              | Various |
 | 18:00 - 19:00 | Break/Drinks/Snacks, Judge Deliberation Time | Various |

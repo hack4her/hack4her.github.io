@@ -30,7 +30,7 @@ Here's the nicely formatted version of the schedule in Markdown:
 | 19:00 - 20:00 | Dinner, Eat, and Work             | Event Space |
 | 20:00 - 21:00 | Drinks, Work, and Social          | Event Space    |
 
-### Sunday, 9th
+### Sunday, 9th of June, 9:00 - 19:30
 
 | Time         | What                                  | Room       |
 |--------------|---------------------------------------|------------|

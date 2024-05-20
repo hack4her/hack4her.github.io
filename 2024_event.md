@@ -3,7 +3,7 @@
 
 ## Dates & Times
 
-- **Kickoff:** June 7th, 17:00 - 22:00
+- **Kickoff:** June 7th, 17:30 - 22:00
 - **Full Days:** June 8th, 9:00 - 21:00 & June 9th, 9:00 - 18:00
 
 ## Location

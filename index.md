@@ -21,7 +21,7 @@ Read more about us and why Hack4Her is necessary [here](/about).
 
 Workshops and Challenges to be announced soon!
 
-[Learn More](/2024_event) or <!-- Replace with the link to your event details page -->
+[Learn More](/2024_event)  <!-- Replace with the link to your event details page -->
 
 
 <!-- News -->

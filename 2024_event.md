@@ -24,7 +24,7 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 
 ## Workshops
-Check out our page on [workshops](./2024_workshops.html) for more information.
+Check out our page on [workshops](/2024_workshops) for more information.
 
 
 # Challenges

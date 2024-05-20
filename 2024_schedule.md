@@ -2,9 +2,8 @@
 
 **Please Note: this is a rough schedule and can be subject to minor changes!**
 
-Here's the nicely formatted version of the schedule in Markdown:
 
-### Friday, 7th of June, 17:30 - 23:00
+## Friday, 7th of June, 17:30 - 23:00
 
 
 
@@ -16,7 +15,9 @@ Here's the nicely formatted version of the schedule in Markdown:
 | 19:00 - 20:00 | Dinner                       | Event Space |
 | 20:00 - 22:00 | Networking Event             | Grand Cafe Living  |
 
-### Saturday, 8th of June, 9:00 - 21:00
+
+
+## Saturday, 8th of June, 9:00 - 21:00
 
 | Time         | What                               | Room       |
 |--------------|------------------------------------|------------|
@@ -30,7 +31,9 @@ Here's the nicely formatted version of the schedule in Markdown:
 | 19:00 - 20:00 | Dinner, Eat, and Work             | Event Space |
 | 20:00 - 21:00 | Drinks, Work, and Social          | Event Space    |
 
-### Sunday, 9th of June, 9:00 - 19:30
+
+
+## Sunday, 9th of June, 9:00 - 19:30
 
 | Time         | What                                  | Room       |
 |--------------|---------------------------------------|------------|

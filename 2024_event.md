@@ -1,8 +1,6 @@
 
 # 🌟 Welcome to the 3rd Annual Hack4Her Event June 7-9, 2024! 🌟
 
-Join us for a weekend focused on creating a women-centric tech space, presented jointly by the University of Amsterdam (UvA) and VU Amsterdam. All students in the Netherlands are welcome to register. We offer participants two distinct tracks: the hackathon track and the non-hackathon track. While all genders are welcome to participate in the event, **only individuals who identify as women are eligible to compete in the hackathon**. If you're an academic professional in the Netherlands—whether a Ph.D. candidate, professor, or beyond—and you're interested in participating in any aspect of this event, please don't hesitate to reach out to us [here](mailto:hack4her2024@gmail.com).
-
 ## Dates & Times
 
 - **Kickoff:** June 7th, 17:00 - 22:00
@@ -24,14 +22,11 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 🚀 Join us for an exciting weekend of coding, innovation, learning, networking, working, and fun at Vrije Universiteit Amsterdam! 🚀
 
-🌟 **Sign up now, normal registration closes May 15th!** 🌟
+## Workshops
+**TBA**
 
-SIGN UP WITH THIS [LINK](https://forms.gle/f2CAsBgg9r4Qn591A) OR THE QR CODE BELOW. 
-
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdRWW-zl_Q58AGoLR0WqIlr7eypdgPIZn3Qo10W4VZH6-PDHg/viewform" target="_blank">
-  <img src="assets/images/hack4her03.05.png" alt="Hackathon Event 2024 Poster" style="max-width:100%;">
-</a>
+## Challenges
+**TBA**
 
 ## Prizes
 More information coming soon ...

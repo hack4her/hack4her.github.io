@@ -55,13 +55,13 @@
 - **Biography:** TBA
 - **Workshop Description:** TBA
 
-### Workshop 4: TBA
+### Workshop 4: Demystifying the Technical Interview
 - **Time:** 1:05 PM - 2:00 PM
-- **Person:** TBA
-- **Title:** TBA
-- **Affiliation:** TBA
-- **Biography:** TBA
-- **Workshop Description:** TBA
+- **Person:** Hilary McReynolds
+- **Title:** Engineering Manager
+- **Affiliation:** Booking.com
+- **Biography:** LinkedIn:  https://www.linkedin.com/in/hilarymcreynolds/ 
+- **Workshop Description:** Learn about the assessment process for technical roles.  What kind of experience should I expect?  What form would an interview take?  Understand the goals of interviews and programming tasks to demystify the process.  This way you can approach your technical recruitment journey with a clear plan of approach.
 
 ### Workshop 5: TBA
 - **Time:** 3:00 PM - 4:00 PM

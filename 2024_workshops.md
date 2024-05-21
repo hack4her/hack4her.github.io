@@ -102,9 +102,7 @@ Links:
 https://marcelwa.github.io/
 https://www.linkedin.com/in/marcel-walter-94b573195/
 
-- **Workshop Description:** Machine Learning and Artificial Intelligence are the defining technologies of this decade. However, training and running state-of-the-art models require significant computational power, typically provided by large GPU clusters. One promising solution is the development of Application-Specific Integrated Circuits (ASICs), which are custom hardware designed to accelerate specific applications.
-
-In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
+- **Workshop Description:** Machine Learning and Artificial Intelligence are the defining technologies of this decade. However, training and running state-of-the-art models require significant computational power, typically provided by large GPU clusters. One promising solution is the development of Application-Specific Integrated Circuits (ASICs), which are custom hardware designed to accelerate specific applications. In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
 
 
 ### Workshop 9: TBA

@@ -43,7 +43,7 @@
 - **Time:** 11:00 AM - 11:55 AM
 - **Person:** Samuele Papa 
 - **Job Title:** PhD Candidate
-- **Affiliation:** University of Amsterdam / Netherlands Cancer Institute
+- **Affiliation:** University of Amsterdam and the Netherlands Cancer Institute
 - **Biography:** Samuele Papa is a PhD candidate at the University of Amsterdam and the Netherlands Cancer Institute. His primary research focus is deep learning for improved imaging in cancer care, and his biggest interest is representation learning for scientific applications and 3D reasoning. For more information check out his website: https://samuelepapa.github.io/ or feel free to reach out at s.papa@uva.nl.
 - **Workshop Description:** Why JAX? Because it is uniquely fast in many settings, and it will give you an edge over PyTorch when you need a bit more flexibility. During this workshop, you will learn about how JAX handles compilation and why it is fundamentally a functional programming framework. We will go through a simple image classification example to learn all the basic elements that will get you started and ready to tackle your next project even faster!
 

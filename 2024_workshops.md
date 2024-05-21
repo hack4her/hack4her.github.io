@@ -97,10 +97,7 @@
 - **Affiliation:** University of Bremen and Technical University of Munich
 - **Biography:** Marcel Walter is a Visiting Professor in Computer Science at the University of Bremen, Germany, where he also received his Ph.D. in 2021 for his work on algorithms for the physical design of emerging post-CMOS nanotechnologies. He also works as a Postdoc at the Chair for Design Automation at the Technical University of Munich (TUM) and has been working for the German Research Center for Artificial Intelligence (DFKI). He is the initiator and maintainer of the "fiction" framework for the logic synthesis, physical design, verification, and simulation of Field-coupled Nanotechnologies.
 
-Links:
-
-https://marcelwa.github.io/
-https://www.linkedin.com/in/marcel-walter-94b573195/
+- Links: [Github](https://marcelwa.github.io/), [LinkedIn](https://www.linkedin.com/in/marcel-walter-94b573195/)
 
 - **Workshop Description:** Machine Learning and Artificial Intelligence are the defining technologies of this decade. However, training and running state-of-the-art models require significant computational power, typically provided by large GPU clusters. One promising solution is the development of Application-Specific Integrated Circuits (ASICs), which are custom hardware designed to accelerate specific applications. In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
 

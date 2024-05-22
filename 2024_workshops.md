@@ -60,7 +60,7 @@
 - **Person:** Hilary McReynolds
 - **Title:** Engineering Manager
 - **Affiliation:** Booking.com
-- **Biography:** LinkedIn:  https://www.linkedin.com/in/hilarymcreynolds/ 
+- **Biography:** [LinkedIn](https://www.linkedin.com/in/hilarymcreynolds/)
 - **Workshop Description:** Learn about the assessment process for technical roles.  What kind of experience should I expect?  What form would an interview take?  Understand the goals of interviews and programming tasks to demystify the process.  This way you can approach your technical recruitment journey with a clear plan of approach.
 
 ### Workshop 5: How to Use Usage Data to Build Great Products

@@ -13,7 +13,7 @@
 |------------|--------------------------------|------------|
 | 17:30 - 18:00 | Sign In                      | Event Space  |
 | 18:00 - 18:15 | Introduction                 | Theater 1 |
-| 18:15 - 19:00 | Keynote: Women in Tech - Shirley | Theater 1 |
+| 18:15 - 19:00 | Keynote 1: Women in Tech - Shirley | Theater 1 |
 | 19:00 - 20:00 | Dinner                       | Event Space |
 | 20:00 - 22:00 | Networking Event             | Grand Cafe Living  |
 
@@ -29,7 +29,7 @@
 | 10:45 - 14:00 | Workshops, Hacking, Expert Sessions  | Various    |
 | 14:00 - 15:00 | Lunch, Eat, and Work              | Event Space |
 | 15:00 - 18:00 | Workshops, Hacking, Expert Sessions        | Various    |
-| 18:00 - 19:00 | DEI Training (Mandatory for All)  | Theater 1  |
+| 18:00 - 19:00 | KeyNote 2: DEI Training (Mandatory for All)  | Theater 1  |
 | 19:00 - 20:00 | Dinner, Eat, and Work             | Event Space |
 | 20:00 - 21:00 | Drinks, Work, and Social          | Event Space    |
 
@@ -41,7 +41,7 @@
 |--------------|---------------------------------------|------------|
 | 09:00 - 09:45  | Sign In and Breakfast                 | Event Space |
 | 09:45 - 10:15 | Day Introduction + Judge Introductions + Presentation Introduction | Theater 1  |
-| 10:15 - 10:45 | History of Women in CS Presentation (Mandatory for All) | Theater 1 |
+| 10:15 - 10:45 | KeyNote 3: History of Women in CS Presentation (Mandatory for All) | Theater 1 |
 | 10:45 - 14:15 | Workshops, Hacking, Expert Sessions           | Various    |
 | 14:15 - 15:00 | Lunch, Eat, and Work                 | Event Space |
 | 15:00 - 16:00 | Last Hour: Workshops, Hacking, Expert Sessions   | Various    |

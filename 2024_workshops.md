@@ -63,13 +63,13 @@
 - **Biography:** LinkedIn:  https://www.linkedin.com/in/hilarymcreynolds/ 
 - **Workshop Description:** Learn about the assessment process for technical roles.  What kind of experience should I expect?  What form would an interview take?  Understand the goals of interviews and programming tasks to demystify the process.  This way you can approach your technical recruitment journey with a clear plan of approach.
 
-### Workshop 5: TBA
+### Workshop 5: How to Use Usage Data to Build Great Products
 - **Time:** 3:00 PM - 4:00 PM
-- **Person:** TBA
-- **Title:** TBA
-- **Affiliation:** TBA
-- **Biography:** TBA
-- **Workshop Description:** TBA
+- **Person:** Aida Rikovic Tabak
+- **Title:** VP Product Management Analytics and Telemetry
+- **Affiliation:** ServiceNow
+- **Biography:** With over 15 years of experience in building analytics products across various domains, Aida has developed a deep passion for leveraging data to inform and enhance decision-making processes. Her work focuses on creating and nurturing cross-disciplinary teams, ensuring that diverse expertise comes together to build exceptional products. By integrating different perspectives and skills, she aims to drive innovation and achieve outstanding results in product development. For more information check out her [LinkedIn](https://www.linkedin.com/in/aida-rikovic-tabak-41379619/).
+- **Workshop Description:** In this workshop, participants will learn how to leverage usage data to develop successful products. Key topics include methods for collecting and analyzing usage data, setting data-driven goals, and implementing iterative improvements based on user behavior insights. Through case studies and best practices, attendees will gain practical skills to enhance product features and user experience, ultimately leading to greater product success
 
 ### Workshop 6: TBA
 - **Time:** 4:30 PM - 5:30 PM

@@ -23,4 +23,15 @@ More information is coming soon ...
 ## Challenge 4
 **TBA**
 
+# Judges
+
+## Challenge 1
+**TBA**
+## Challenge 2
+**TBA**
+## Challenge 3
+**TBA**
+## Challenge 4
+**TBA**
+
 [back](./)

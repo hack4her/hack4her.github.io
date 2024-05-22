@@ -81,13 +81,13 @@
 
 ## Sunday
 
-### Workshop 7: TBA
+### Workshop 7:  Inclusive AI: Advancing Accessibility
 - **Time:** 11:15 AM - 12:15 
-- **Person:** TBA
-- **Title:** TBA
-- **Affiliation:** TBA
-- **Biography:** TBA
-- **Workshop Description:** TBA
+- **Person:** dr. Çiçek Güven
+- **Title:** Assistant professor in the Cognitive Science and Artificial Intelligence department
+- **Affiliation:**  Tilburg University
+- **Biography:** Çiçek is an assistant professor in the Cognitive Science and Artificial Intelligence department at Tilburg University. Her research interests, in general, are network analysis and learning on graph-structured data.  She has a mathematical background,  her thesis involved algebraic graph theory and combinatorics.  She also worked in the industry for a period of four years in banking and consultancy environments as a quant and data analyst, working with financial and trade data mainly.  Data science projects with a social aspect motivate her a lot.  This interest is effectuated in multiple research projects she is involved in utilising AI to create a more inclusive and accessible world. Some examples are  the 'Child Growth Monitor' by Zero Hunger Lab;  focusing on malnutrition detection in children,  Ilustre, a project  to support the energy transition efforts in the Caribbean, and the Icon project of Zero Poverty Lab, linking brain networks and poverty.
+- **Workshop Description:** AI's potential to enhance inclusion becomes evident when it actively identifies and addresses the needs of underprivileged groups, those who are struggling to have access to their basic needs, such as food and education. In light of this, we have been focusing on contributing to the solutions to societal problems such as poverty, malnutrition school dropout. With this talk, I want to give examples of how we center our research around inclusivity, accessibility, and societal problems, both in the problems we focus on and in the methods we use and frameworks we develop.
 
 ### Workshop 8: Logic Synthesis for AI
 - **Time:** 12:45 PM - 14:15

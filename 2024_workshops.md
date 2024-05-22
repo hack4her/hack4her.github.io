@@ -48,7 +48,7 @@
 - **Workshop Description:** Why JAX? Because it is uniquely fast in many settings, and it will give you an edge over PyTorch when you need a bit more flexibility. During this workshop, you will learn about how JAX handles compilation and why it is fundamentally a functional programming framework. We will go through a simple image classification example to learn all the basic elements that will get you started and ready to tackle your next project even faster!
 
 ### Workshop 3: TBA
-- **Time:** 12:00 PM - 1:00 PM
+- **Time:** 12:00 PM - 13:00 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -56,7 +56,7 @@
 - **Workshop Description:** TBA
 
 ### Workshop 4: Demystifying the Technical Interview
-- **Time:** 1:05 PM - 2:00 PM
+- **Time:** 13:05 PM - 14:00 
 - **Person:** Hilary McReynolds
 - **Title:** Engineering Manager
 - **Affiliation:** Booking.com
@@ -64,7 +64,7 @@
 - **Workshop Description:** Learn about the assessment process for technical roles.  What kind of experience should I expect?  What form would an interview take?  Understand the goals of interviews and programming tasks to demystify the process.  This way you can approach your technical recruitment journey with a clear plan of approach.
 
 ### Workshop 5: How to Use Usage Data to Build Great Products
-- **Time:** 3:00 PM - 4:00 PM
+- **Time:** 15:00 PM - 16:00 
 - **Person:** Aida Rikovic Tabak
 - **Title:** VP Product Management Analytics and Telemetry
 - **Affiliation:** ServiceNow
@@ -72,7 +72,7 @@
 - **Workshop Description:** In this workshop, participants will learn how to leverage usage data to develop successful products. Key topics include methods for collecting and analyzing usage data, setting data-driven goals, and implementing iterative improvements based on user behavior insights. Through case studies and best practices, attendees will gain practical skills to enhance product features and user experience, ultimately leading to greater product success
 
 ### Workshop 6: TBA
-- **Time:** 4:30 PM - 5:30 PM
+- **Time:** 16:30 PM - 17:30 PM
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -90,20 +90,18 @@
 - **Workshop Description:** TBA
 
 ### Workshop 8: Logic Synthesis for AI
-- **Time:** 12:45 PM - 2:15 PM
+- **Time:** 12:45 PM - 14:15
 - **Person:** Marcel Walter
 - **Academic Title:** Prof. Dr.
 - **Job Title:** Visiting Professor and Postdoc
 - **Affiliation:** University of Bremen and Technical University of Munich
 - **Biography:** Marcel Walter is a Visiting Professor in Computer Science at the University of Bremen, Germany, where he also received his Ph.D. in 2021 for his work on algorithms for the physical design of emerging post-CMOS nanotechnologies. He also works as a Postdoc at the Chair for Design Automation at the Technical University of Munich (TUM) and has been working for the German Research Center for Artificial Intelligence (DFKI). He is the initiator and maintainer of the "fiction" framework for the logic synthesis, physical design, verification, and simulation of Field-coupled Nanotechnologies.
-
 - Links: [Github](https://marcelwa.github.io/), [LinkedIn](https://www.linkedin.com/in/marcel-walter-94b573195/)
-
 - **Workshop Description:** Machine Learning and Artificial Intelligence are the defining technologies of this decade. However, training and running state-of-the-art models require significant computational power, typically provided by large GPU clusters. One promising solution is the development of Application-Specific Integrated Circuits (ASICs), which are custom hardware designed to accelerate specific applications. In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
 
 
 ### Workshop 9: TBA
-- **Time:** 3:00 PM - 4:00 PM
+- **Time:** 15:00 PM - 16:00 PM
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA

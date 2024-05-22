@@ -8,7 +8,7 @@
 
 ### Challenge Workshops
 #### Workshop 1A: TBA
-- **Time:** 10:15 AM - 10:45 AM
+- **Time:** 10:15 AM - 10:45 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -16,7 +16,7 @@
 - **Workshop Description:** TBA
 
 #### Workshop 1B: TBA
-- **Time:** 10:15 AM - 10:45 AM
+- **Time:** 10:15 AM - 10:45 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -24,7 +24,7 @@
 - **Workshop Description:** TBA
 
 #### Workshop 1C: TBA
-- **Time:** 10:15 AM - 10:45 AM
+- **Time:** 10:15 AM - 10:45 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -32,7 +32,7 @@
 - **Workshop Description:** TBA
 
 #### Workshop 1D: TBA
-- **Time:** 10:15 AM - 10:45 AM
+- **Time:** 10:15 AM - 10:45 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -40,7 +40,7 @@
 - **Workshop Description:** TBA
 
 ### Workshop 2: An Introduction to Jax Programming
-- **Time:** 11:00 AM - 11:55 AM
+- **Time:** 11:00 AM - 11:55 
 - **Person:** Samuele Papa 
 - **Job Title:** PhD Candidate
 - **Affiliation:** University of Amsterdam and the Netherlands Cancer Institute
@@ -72,7 +72,7 @@
 - **Workshop Description:** In this workshop, participants will learn how to leverage usage data to develop successful products. Key topics include methods for collecting and analyzing usage data, setting data-driven goals, and implementing iterative improvements based on user behavior insights. Through case studies and best practices, attendees will gain practical skills to enhance product features and user experience, ultimately leading to greater product success
 
 ### Workshop 6: TBA
-- **Time:** 16:30 PM - 17:30 PM
+- **Time:** 16:30 PM - 17:30 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -82,7 +82,7 @@
 ## Sunday
 
 ### Workshop 7: TBA
-- **Time:** 11:15 AM - 12:15 PM
+- **Time:** 11:15 AM - 12:15 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA
@@ -96,12 +96,12 @@
 - **Job Title:** Visiting Professor and Postdoc
 - **Affiliation:** University of Bremen and Technical University of Munich
 - **Biography:** Marcel Walter is a Visiting Professor in Computer Science at the University of Bremen, Germany, where he also received his Ph.D. in 2021 for his work on algorithms for the physical design of emerging post-CMOS nanotechnologies. He also works as a Postdoc at the Chair for Design Automation at the Technical University of Munich (TUM) and has been working for the German Research Center for Artificial Intelligence (DFKI). He is the initiator and maintainer of the "fiction" framework for the logic synthesis, physical design, verification, and simulation of Field-coupled Nanotechnologies.
-- Links: [Github](https://marcelwa.github.io/), [LinkedIn](https://www.linkedin.com/in/marcel-walter-94b573195/)
+- **Links:** [Github](https://marcelwa.github.io/), [LinkedIn](https://www.linkedin.com/in/marcel-walter-94b573195/)
 - **Workshop Description:** Machine Learning and Artificial Intelligence are the defining technologies of this decade. However, training and running state-of-the-art models require significant computational power, typically provided by large GPU clusters. One promising solution is the development of Application-Specific Integrated Circuits (ASICs), which are custom hardware designed to accelerate specific applications. In this workshop, attendees will learn about the logic synthesis and physical design processes used to create ASIC layouts from specifications. They will apply these techniques to generate custom machine-learning accelerators and inference engines ready for tape-out. The workshop includes a hands-on session for practical experience.
 
 
 ### Workshop 9: TBA
-- **Time:** 15:00 PM - 16:00 PM
+- **Time:** 15:00 PM - 16:00 
 - **Person:** TBA
 - **Title:** TBA
 - **Affiliation:** TBA

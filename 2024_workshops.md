@@ -97,13 +97,23 @@
 - **Workshop Description:** In this workshop, participants will learn how to leverage usage data to develop successful products. Key topics include methods for collecting and analyzing usage data, setting data-driven goals, and implementing iterative improvements based on user behavior insights. Through case studies and best practices, attendees will gain practical skills to enhance product features and user experience, ultimately leading to greater product success
 
 
-### Workshop 6: TBA
-- **Time:** 16:30 PM - 17:30 
-- **Person:** TBA
-- **Title:** TBA
-- **Affiliation:** TBA
-- **Biography:** TBA
-- **Workshop Description:** TBA
+### Workshop 6: Can LLMs promote diversity, equity, and inclusion in tech teams? A joint look on the past, present, and future
+
+- **Time:** 16:30 PM - 17:30
+  
+- **Person:** Dr. Mairieli Wessel
+
+- **Title:** Assistant Professor
+
+- **Academic Title:** Dr. 
+
+- **Affiliation:** Radboud Universiteit
+  
+- **Biography:** Mairieli Wessel is an assistant professor at Radboud University. Upon receiving her Ph.D. in Computer Science from the University of São Paulo (USP), she was awarded the Best Brazilian Ph.D. Thesis on Software Engineering in 2021. Her research interests include software engineering (SE) and computer-supported cooperative work (CSCW). Recent projects include the development of tools and strategies to support open-source software communities and the design of automated tools like bots and chatbots. For more information check out her [website](https://mairieli.com ).
+
+- **Workshop Description:** Advances in large language models (LLMs) have driven an explosion of interest in their societal impacts. Much of the discussion on how they will impact diversity, equity, and inclusion has been primarily negative, focusing on questions like “How might LLMs be biased, and how would we mitigate those biases?” This is a vital discussion: how AI generally, and LLMs specifically, can entrench biases has been studied. But equally important, and much less discussed, is the more opportunity-focused counterpoint: “What promising applications do LLMs enable that could promote diversity, equity, and inclusion?” This talk will discuss opportunities for LLMs to foster diversity, equity, and inclusion in society, especially in teams building tech solutions like software development and hackathon teams.
+
+ 
 
 
 ## Sunday
@@ -113,9 +123,11 @@
 
 - **Time:** 11:15 AM - 12:15
   
-- **Person:** dr. Çiçek Güven
+- **Person:** Dr. Çiçek Güven
   
 - **Title:** Assistant professor in the Cognitive Science and Artificial Intelligence department
+
+- **Academic Title:** Dr.
   
 - **Affiliation:**  Tilburg University
   

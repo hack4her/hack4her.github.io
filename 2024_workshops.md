@@ -77,7 +77,7 @@
   
 - **Affiliation:** Booking.com
   
-- **Biography:** [LinkedIn](https://www.linkedin.com/in/hilarymcreynolds/)
+- **Biography:** Hilary is a software engineer currently working for Booking.com as a manager of engineers.  She has more than 10 years of experience in the tech industry with 5 years of experience in management in 4 different countries.  In her career, she has done hundreds of technical interviews and has seen all kinds of good and bad responses. For more information on Hilary check out her [LinkedIn](https://www.linkedin.com/in/hilarymcreynolds/).
   
 - **Workshop Description:** Learn about the assessment process for technical roles.  What kind of experience should I expect?  What form would an interview take?  Understand the goals of interviews and programming tasks to demystify the process.  This way you can approach your technical recruitment journey with a clear plan of approach.
 

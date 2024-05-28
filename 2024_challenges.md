@@ -3,36 +3,35 @@
 # Hackathon Information: Challenges, Prizes, and Judges
 # Challenges
 
-## Challenge 1
-**TBA**
-## Challenge 2
-**TBA**
-## Challenge 3
-**TBA**
-## Challenge 4
-**TBA**
+# Challenge A
 
-# Prizes
-More information is coming soon ...
+## Challenge Description
+[The ____ Challenge](./challenge_A.html)
 
-## Challenge 1
-**TBA**
-## Challenge 2
-**TBA**
-## Challenge 3
-**TBA**
-## Challenge 4
-**TBA**
+## Prize
 
-# Judges
+## Judge
 
-## Challenge 1
-**TBA**
-## Challenge 2
-**TBA**
-## Challenge 3
-**TBA**
-## Challenge 4
-**TBA**
+# Challenge B
+## Challenge Description
+[The ____ Challenge](./challenge_B.html)
+## Prize
+
+## Judge
+
+# Challenge C
+
+## Challenge Description
+[The ____ Challenge](./challenge_C.html)
+## Prize
+## Judge
+
+# Challenge D
+
+## Challenge Description
+[The ____ Challenge](./challenge_D.html)
+## Prize
+## Judge
+
 
 [back](./)

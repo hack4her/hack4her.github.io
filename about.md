@@ -87,6 +87,8 @@ Our scientific committee members serve as consultants for our challenges, assist
 
 ### SC Members:
 * <a href="https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html"> Ana Oprescu </a>, Assist. Prof. at the University of Amsterdam
+* <a href="http://annasperotto.org"> Anna Sperotto </a>, Associate Prof. at the University of Twente
+* <a href="https://research.utwente.nl/en/persons/jan-willem-bullée"> Jan-Willem Bullée </a>, Assist. Prof. at the University of Twente
 * <a href="https://research.tue.nl/en/persons/lavinia-paganini"> Lavinia Paganini </a>, Doctoral candidate at Eindhoven University of Technology
 * <a href="https://www.universiteitleiden.nl/en/staffmembers/lu-cao%5B2%5D#tab-1">Lu Cao</a>, Assist. Prof. at Leiden University
 * <a href="https://mairieli.com"> Mairieli Wessel </a>, Assist. Prof. at Radboud University

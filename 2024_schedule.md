@@ -14,7 +14,7 @@ All rooms/locations are located in the NU Building of VU Amsterdam.
 |------------|--------------------------------|------------|
 | 17:30 - 18:00 | Sign In                      | Event Space - Ground Floor |
 | 18:00 - 18:15 | Introduction                 | Theater 1 |
-| 18:15 - 19:00 | Keynote 1: Women in Tech - Shirley | Theater 1 |
+| 18:15 - 19:00 | Keynote 1: Women in Tech - Shirley de Wit | Theater 1 |
 | 19:00 - 20:00 | Dinner                       | Event Space - Ground Floor |
 | 20:00 - 22:00 | Networking Event             | Grand Cafe Living  |
 
@@ -30,7 +30,7 @@ All rooms/locations are located in the NU Building of VU Amsterdam.
 | 10:45 - 14:00 | Workshops, Hacking, Expert Sessions  | Various    |
 | 14:00 - 15:00 | Lunch, Eat, and Work              | Event Space - Ground Floor  |
 | 15:00 - 18:00 | Workshops, Hacking, Expert Sessions        | Various    |
-| 18:00 - 19:00 | KeyNote 2: DEI Training (Mandatory for All)  | Theater 1  |
+| 18:00 - 19:00 | KeyNote 2: DEI Training - Ana Clara Cassanti (Mandatory for All)  | Theater 1  |
 | 19:00 - 20:00 | Dinner, Eat, and Work             | Event Space - Ground Floor |
 | 20:00 - 21:00 | Drinks, Work, and Social          | Event Space - Ground Floor   |
 

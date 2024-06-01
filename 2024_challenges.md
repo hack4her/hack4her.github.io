@@ -5,7 +5,7 @@
 # Challenge A
 
 ## Challenge Description
-%[The ____ Challenge](./challenge_A.html)
+%% [The ____ Challenge](./challenge_A.html)
 
 ## Prize
 

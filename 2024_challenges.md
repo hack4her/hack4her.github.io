@@ -5,7 +5,7 @@
 # Challenge A
 
 ## Challenge Description
-%% [The ____ Challenge](./challenge_A.html)
+ [The ____ Challenge](./challenge_A.html)
 
 ## Prize
 
@@ -16,7 +16,7 @@
 # Challenge B
 
 ## Challenge Description
-%[The ____ Challenge](./challenge_B.html)
+[The ____ Challenge](./challenge_B.html)
 
 ## Prize
 
@@ -27,7 +27,7 @@
 # Challenge C
 
 ## Challenge Description
-%[The ____ Challenge](./challenge_C.html)
+[The ____ Challenge](./challenge_C.html)
 
 ## Prize
 
@@ -38,7 +38,7 @@
 # Challenge D
 
 ## Challenge Description
-%[The ____ Challenge](./challenge_D.html)
+[The ____ Challenge](./challenge_D.html)
 
 ## Prize
 

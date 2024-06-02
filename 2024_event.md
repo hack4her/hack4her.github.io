@@ -24,11 +24,11 @@ Vrije Universiteit Amsterdam, NU Building, De Boelelaan 1111, 1081 HV Amsterdam
 
 
 ## Workshops
-Check out this [page](/2024_workshops) to see our workshops offered this year.
+Check out this [page](/2024_workshops.html) to see our workshops offered this year.
 
 
-## Challenges
-Check out this [page](/2024_workshops) to see our hackathon challenges for 2024.
+## Hackathon
+Check out this [page](/2024_challenges.html) to see our hackathon challenges and other hackathon-related information for 2024.
 
 # Questions?
 Please do not hesitate to contact us [here](mailto:hack4her2024@gmail.com) if you have any questions or comments. 

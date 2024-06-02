@@ -2,21 +2,50 @@
 
 # Hackathon Information: Challenges, Prizes, and Judges
 
-# Challenge A
+Full challenge information can be found under the page links. This information includes a challenge overview, challenge objective, tools and technologies for the challenge, what is given (if applicable), expected deliverables, general judging criteria, and a suggested timeline. 
+
+There is 1 winning team per challenge. Each person on that team gets a prize (the same prize). 
+
+
+
+# Challenge A: The ServiceNow Challenge
+
 
 ## Challenge Description
- [The ____ Challenge](./challenge_A.html)
+
+TBA
+
+For the full challenge information [ServiceNow Challenge Information](./challenge_A.html) (Incomplete)
+
 
 ## Prize
+[Marshall Bluetooth Speakers](https://www.mediamarkt.nl/nl/product/_marshall-stanmore-ii-bluetoothspeaker-zwart-1595808.html)
 
-## Mentor 
+
+## Hackathon Mentors 
+
+- **Saturday:** Anna Farell (Consultant/Developer @ ServiceNow)
+  
+- **Sunday:** Shaymaa Said (Technical Support Engineer @ ServiceNow)
+
 
 ## Judge
 
-# Challenge B
+- **Person:** Aida Rikovic Tabak
+
+- **Title:** VP Product Management Analytics and Telemetry
+
+- **Affiliation:** ServiceNow
+
+  
+
+# Challenge B: The Booking.com Challenge
+
 
 ## Challenge Description
-[The ____ Challenge](./challenge_B.html)
+
+[Booking.com Challenge Information](./challenge_B.html)
+
 
 ## Prize
 
@@ -44,6 +73,9 @@
 
 ## Mentor 
 ## Judge
+
+
+# Special Thanks to Our Challenge Sponsors
 
 
 [back](./)

@@ -11,11 +11,11 @@ There is 1 winning team per challenge. Each person on that team gets a prize (th
 # Challenge A: The ServiceNow Challenge
 
 
-## Challenge Description
-
+## Short Introduction
 TBA
 
-For the full challenge information [ServiceNow Challenge Information](./challenge_A.html) (Incomplete)
+## Full Challenge Description
+[ServiceNow Challenge Information](./challenge_A.html) (Incomplete)
 
 
 ## Prize
@@ -41,24 +41,48 @@ For the full challenge information [ServiceNow Challenge Information](./challeng
 
 # Challenge B: The Booking.com Challenge
 
+Booking.com is committed to becoming more women-friendly and ensuring that solo women travelers have safe, enjoyable, and empowering travel experiences. We invite you to participate in the "Solo Women Traveler Network" hackathon, where your task will be to leverage your programming skills to build, analyze, and enhance networks (graphs) related to solo women travelers.
 
-## Challenge Description
+## Full Challenge Description
 
 [Booking.com Challenge Information](./challenge_B.html)
 
 
 ## Prize
 
-## Mentor 
+4 tickets to [EU Women in Tech 2024](https://europeanwomenintech.com/) (1 per person)
+
+## Hackathon Mentors 
+
+- **Saturday Before Lunch:**  Marina Angelovska (Machine Learning Scientist @ Booking.com)
+  
+- **Saturday After Lunch:** Fina Polat (PhD Candidate @ UvA)
+
+- **Sunday:** TBD
+
 
 ## Judge
 
-# Challenge C
+- **Person:** Deborah Davis-DeWitt
 
-## Challenge Description
-[The ____ Challenge](./challenge_C.html)
+- **Title:** Senior Technical Program Manager
+
+- **Affiliation:** Booking.com
+
+
+
+# Challenge C: The DuckDB Challenge
+
+
+## Full Challenge Description
+
+[DuckDB Challenge Information](./challenge_C.html)
+
 
 ## Prize
+
+- €150 per Team Member
+  
 
 ## Mentor 
 
@@ -66,13 +90,23 @@ For the full challenge information [ServiceNow Challenge Information](./challeng
 
 # Challenge D
 
-## Challenge Description
+## Full Challenge Description
+
 [The ____ Challenge](./challenge_D.html)
 
 ## Prize
 
 ## Mentor 
+
+
 ## Judge
+
+- **Person:** 
+
+- **Title:** 
+
+- **Affiliation:** 
+
 
 
 # Special Thanks to Our Challenge Sponsors

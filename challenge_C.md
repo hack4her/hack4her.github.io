@@ -51,9 +51,13 @@ Develop an app that integrates Overture Maps for route data and DuckDB for stori
 ### Suggested Timeline
 
 - Planning (1 Hour): Define the project scope and plan the features to be implemented.
+  
 - Setup (1 Hour): Prepare the development environment and ensure all technologies are properly integrated.
+  
 - Development (8 Hours): Code the main functionalities, focusing on backend integration and frontend usability.
+  
 - Testing and Refinement (1 Hour): Test the app, refine features, and prepare for the presentation.
+  
 - Make Presentation (1 hr): Be prepared to demonstrate the app, highlighting how it works, its features, and the benefits it offers.
 
 

@@ -146,4 +146,20 @@ In order to complete this challenge Optiver requires access to your email accoun
 # Special Thanks to Our Challenge Sponsors
 
 
+<div style="background: white; padding: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: center; width: 100%;">
+  <a href="https://www.booking.com/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" style="width: 100%; height: auto;">
+  </a>
+   <a href="https://duckdb.org/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/duckdb.svg" alt="duck db" style="width: 100%; height: auto;">
+  </a>
+  <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/SN.jpg" alt="service now" style="width: 100%; height: auto;">
+  </a>
+</div>
+
+
+
+
+
 [back](./)

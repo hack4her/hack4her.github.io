@@ -69,7 +69,7 @@
   
 - **Affiliation:** Optiver
 
-- **Biography:** Links: [Zuotian Tatum | LinkedIn](https://www.linkedin.com/in/zuotiantatum/), [Gregory Pandechis | LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
+- **Biography:** Links: [Zuotian Tatum|LinkedIn](https://www.linkedin.com/in/zuotiantatum/), [Gregory Pandechis|LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
 
 - **Workshop Description:** TBA
 

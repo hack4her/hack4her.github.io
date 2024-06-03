@@ -72,40 +72,40 @@ We want to express our gratitude to the following sponsors for their generous su
 
 <div style="background: white; padding: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: center; width: 100%;">
   <a href="https://www.vu.nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.uva.nl/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/uva.jpeg" alt="UvA Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/uva.jpeg" alt="UvA Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.booking.com/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://networkinstitute.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://versen.nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://ivi.fnwi.uva.nl/ellis/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.axini.com/nl/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/axini.jpg" alt="axini" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/axini.jpg" alt="axini" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://duckdb.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/duckdb.svg" alt="duck db" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/duckdb.svg" alt="duck db" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/SN.jpg" alt="service now" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/SN.jpg" alt="service now" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://optiver.com/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/op.png" alt="optiverw" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/op.png" alt="optiverw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/tilburg1.png" alt="Tilburg" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="assets/images/tilburg1.png" alt="Tilburg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
 </div>
 

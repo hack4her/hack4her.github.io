@@ -104,6 +104,9 @@ We want to express our gratitude to the following sponsors for their generous su
    <a href="https://optiver.com/" style="display: inline-block; width: 200px; margin: 10px;">
     <img src="assets/images/op.png" alt="optiverw" style="width: 100%; height: auto;">
   </a>
+    <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/tilburg1.png" alt="Tilburg" style="width: 100%; height: auto;">
+  </a>
 </div>
 
 

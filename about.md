@@ -123,6 +123,9 @@ Our scientific committee members serve as consultants for our challenges, assist
   <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; margin: 10px;">
     <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="width: 100%; height: auto;">
   </a>
+  <a href="https://optiver.com/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/op.png" alt="optiverw" style="width: 100%; height: auto;">
+  </a>
 </div>
 
 

@@ -83,7 +83,7 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://networkinstitute.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <a href="https://versen.nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
+  <a href="https://versen.nl" style="display: inline-block; width: 150px; height: 75px; margin: 10px;">
     <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://ivi.fnwi.uva.nl/ellis/" style="display: inline-block; width: 400px; height: 200px; margin: 10px;">

@@ -22,12 +22,12 @@ TBA
 
 ## Prize
 
-[Marshall Bluetooth Speakers](https://www.mediamarkt.nl/nl/product/_marshall-stanmore-ii-bluetoothspeaker-zwart-1595808.html)
+TBC
 
 
 ## Hackathon Mentors 
 
-- **Saturday:** Anna Farell (Consultant/Developer @ ServiceNow)
+- **Saturday:** Anna Farell (Customer Success Manager/ Former Developer @ ServiceNow)
   
 - **Sunday:** Shaymaa Said (Technical Support Engineer @ ServiceNow)
 
@@ -36,7 +36,7 @@ TBA
 
 - **Person:** Aida Rikovic Tabak
 
-- **Title:** VP Product Management Analytics and Telemetry
+- **Title:** Vice President of Analytics and Telemetry Product
 
 - **Affiliation:** ServiceNow
 

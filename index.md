@@ -95,7 +95,7 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://duckdb.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="assets/images/duckdb.svg" alt="duck db" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
+  <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
     <img src="assets/images/SN.jpg" alt="service now" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">

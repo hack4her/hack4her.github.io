@@ -127,7 +127,7 @@ Our scientific committee members serve as consultants for our challenges, assist
     <img src="assets/images/op.png" alt="optiverw" style="width: 100%; height: auto;">
   </a>
   <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; margin: 10px;">
-    <img src="assets/images/tilburg.png" alt="Tilburg" style="width: 100%; height: auto;">
+    <img src="assets/images/tilburg1.png" alt="Tilburg" style="width: 100%; height: auto;">
   </a>
 </div>
 

@@ -156,6 +156,9 @@ In order to complete this challenge Optiver requires access to your email accoun
   <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; margin: 10px;">
     <img src="assets/images/SN.jpg" alt="service now" style="width: 100%; height: auto;">
   </a>
+  <a href="https://optiver.com/" style="display: inline-block; width: 200px; margin: 10px;">
+    <img src="assets/images/op.png" alt="optiverw" style="width: 100%; height: auto;">
+  </a>
 </div>
 
 

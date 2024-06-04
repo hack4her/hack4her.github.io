@@ -10,7 +10,9 @@
   
 - **Person:**  Shirley de Wit
   
-- **Title:** Drs. Ir.
+- **Academic Title:** Drs. Ir.
+
+- **Professional Title:** PhD Candidate 
   
 - **Affiliation:** TU Delft
   

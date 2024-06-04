@@ -107,6 +107,9 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="assets/images/tilburg1.png" alt="Tilburg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
+   <a href="https://www.tilburguniversity.edu/about/schools/tshd/departments/dca" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
+    <img src="assets/images/CSAITiU.png" alt="Tilburg CSA" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
 </div>
 
 

@@ -97,13 +97,14 @@
   
 - **Person:** Machiel van der Bijl, Lou Ottens
   
-- **Title:** CEO, TBA
+- **Title:** Machiel: CEO and founder Axini.
+
+- **Title:** Lou: Software developer Axini
   
 - **Affiliation:** Axini
   
-- **Biography:** TBA
-  
-- **Workshop Description:** TBA
+- **Workshop Description:**  We will give a hands-on demo about model-based testing. Model-based testing is a next-generation test-automation technique where tests are not programmed but generated.
+
 
 
 

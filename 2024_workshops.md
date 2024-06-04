@@ -23,8 +23,7 @@
   
 - **Biography:** Anna: Customer Success Manager and former Service Now developer she has a degree in management information systems from the University of Ohio and over 12 years of ServiceNow development experience.
   
-- **Workshop Description:** Join us for a hands-on workshop exploring the ServiceNow platform to create innovative solutions for women's well-being. Learn about ServiceNow's core components, workflow automation with Flow Designer, and best practices for enhancing user experiences. Discover the Generative AI Controller's potential in transforming data-driven decisions and personalized interactions. Gain practical skills through interactive sessions and live demonstrations, collaborating with peers to develop cutting-edge platforms. Guided by industry experts, you'll access online resources from the ServiceNow community and Now Learning platform, including courses on Generative AI and Flow Designer. Join us to harness ServiceNow's power and create transformative solutions that empower women and improve wellness.
-
+- **Workshop Description:** Join us for a hands-on workshop exploring the ServiceNow platform to create innovative solutions. Learn about ServiceNow's core components, workflow automation with Flow Designer, GenAI capabilities with NowAssist and best practices for enhancing user experiences. Discover the Generative AI Controller's potential in transforming data-driven decisions and personalized interactions. Gain practical skills through interactive sessions and live demonstrations, collaborating with peers to develop cutting-edge platforms. To prepare feel free to look into the resources on the ServiceNow Community YouTube channel [here.]([https://www.linkedin.com/in/max-gabrielsson-22459a156/](https://www.youtube.com/watch?v=WbN36pcD1vU&list=PLkGSnjw5y2U407_1UQQaVVrD13-MFi5ia&ab_channel=ServiceNowCommunity)).
 
 
 #### 1B. Booking.com Workshop: An Introduction to Booking.com

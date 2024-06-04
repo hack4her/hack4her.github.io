@@ -9,7 +9,7 @@
 
 ### Challenge Workshops
 
-#### 1A. ServiceNow Workshop: Create for the Herstory: An Introduction to the ServiceNow Generative AI Controller 
+#### 1A. ServiceNow Workshop: Create Herstory: An Introduction to the ServiceNow platform
 
 - **Time:** 10:15 AM - 10:45
 

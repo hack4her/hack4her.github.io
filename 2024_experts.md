@@ -24,8 +24,8 @@ You are also more than welcome to just sit in the room and do your own work inde
 
 | Day                  | Time Slot              | Duration | Room | Name                     | Position                    | Organization                |
 |----------------------|------------------------|----------|------|--------------------------|-----------------------------|-----------------------------|
-| Saturday, June 8th   | 11:00 - 14:00      | 3h       | TBA  | Vlad-Andrei Cursaru      | Teaching Assistant          | Vrije Universiteit Amsterdam|
+| Saturday, June 8th   | 11:00 - 14:00      | 3h       | TBA  | Vlad-Andrei Cursaru     | Teaching Assistant          | Vrije Universiteit Amsterdam|
 | Saturday, June 8th   | 15:00 - 18:00     | 3h       | TBA  | Cindy Steward            | Junior DevOps Engineer      | ING Bank                    |
-| Sunday, June 9th     | 10:45 - 14:15      | 3.5h       | TBA  | Cindy Ahn Koon           | Staff Software Engineer     | Service Now                 |
+| Sunday, June 9th     | 10:45 - 14:15      | 3.5h       | TBA  | Diana Zakaria         | Front-End UX Engineer     | Service Now                 |
 | Sunday, June 9th     | 15:00 - 16:00     | 1 hr     | TBA  | Prof. Dr. Marcel Walter  | Professor of Computer Science | Uni Bremen, TUM         |
 

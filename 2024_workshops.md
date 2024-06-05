@@ -199,13 +199,19 @@
 
 
 
-### Workshop 9: TBA
-- **Time:** 15:00 PM - 16:00 
-- **Person:** TBA
-- **Title:** TBA
-- **Affiliation:** TBA
-- **Biography:** TBA
-- **Workshop Description:** TBA
+### Workshop 9: Changing the perspective of cybersecurity, from the risk conversation to the goals-driven one. 
+
+- **Time:** 15:00 PM - 16:00
+  
+- **Person:** Ilse Parra
+  
+- **Title:** President Women4Cyber Nertherlands
+  
+- **Affiliation:** Microsoft, Women4Cyber
+  
+- **Biography:** I am a Mexican woman currently residing in The Netherlands, passionately dedicated to championing women's empowerment within the Cybersecurity industry and fostering inclusivity for diverse communities, cultures, and perspectives within corporate environments. My commitment is translated with Women4Cyber NL where we actively work in fostering D&I. In my role as a Security Channel Sales Manager at Microsoft, I support partners to increase their security offer to the market and landing their GTM/commercial strategy to empower our SMB customers, looking to seamlessly integrate Copilot into their innovative work processes and prevent cybercrime.
+  
+- **Workshop Description:** In the workshop we will work together to define their main objectives at the company level, and what is valuable and essential for the company, from those business objectives we will explore the assets that support those objectives, their core assets and how to start recognizing the threats to these assets. What is their role as board members or C-Level/Management team in the company vs security? And how they can contribute to making security a competitive edge.
 
 
 [back](./)

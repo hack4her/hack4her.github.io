@@ -113,7 +113,8 @@ Booking.com is committed to becoming more women-friendly and ensuring that solo 
 
 # Challenge D: The Optiver Challenge
 
-According to a 2024 [study](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fnpe0000189), men are 91% more likely to invest in the stock market than women, preventing women from realizing life-changing gains from their savings. With this challenge, we want to help you to beat the statistics and show you how you can trade too! In fact, you will be creating your very own trading algorithm in python which you will use to trade on our simulated exchange, Optibook. You will compete with other teams, see how your strategy performs, refine it and try again! If you don’t know anything about trading, don’t worry! Then you are exactly the kind of person we want to see doing our challenge! In our workshop, we explain the basics of finance and trading and of course we are here to help through the weekend!
+Did you know that [studies](https://www.mckinsey.com/featured-insights/diversity-and-inclusion/diversity-wins-how-inclusion-matters) have shown that "companies in the top quartile for gender diversity on executive teams were 25 percent more likely to have above-average profitability than companies in the fourth quartile"? Let's translate this powerful insight into a profitable investment strategy that also champions companies with outstanding gender diversity. Enter Opti-DivInc-Fund, an Exchange Traded Fund (ETF) that bundles together a basket of companies with strong Diversity, Equity, and Inclusion (DEI) practices. In this hackathon challenge, you'll learn how to trade the Opti-DivInc-Fund. By doing so, you'll ensure this unique basket of companies remain accessible and attractive to a wide range of investors. Not only does this promote ethical investing, but it also has the potential to drive meaningful change in corporate culture. Let's get started!
+
 
 
 ## Full Challenge Description

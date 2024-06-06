@@ -89,7 +89,7 @@ Booking.com is committed to becoming more women-friendly and ensuring that solo 
 
 ## Prize
 
-- €150 per Team Member
+- €150 VVV Card per team member
   
 
 ## Hackathon Mentors 

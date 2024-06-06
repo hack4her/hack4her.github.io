@@ -22,7 +22,7 @@ A trading algorithm in python that trades on our simulated exchange against othe
 ### Judging Criteria
 We will ask your team to present your trading strategy at the end of the Hackathon, explain how you tackled the problem, challenges you encountered, decisions and trade-offs you made when coming up with your solution. We will also ask you to a code-walkthrough of your strategy.
  
-*** The following will be considered when judging the winning team: ***
+**The following will be considered when judging the winning team:**
 -	PnL (profit-and-loss) from the strategy during the challenge; there will be ample of time to experiment during the 2 days on the simulated exchange. On Sunday afternoon, we will re-set the exchange for a final round so that you can show what your algorithm can do on a clean slate!
 -	the design of the strategy, i.e. the method used, risk-management of the strategy
 -	code-quality of the strategy, i.e. is he code well structured, separates concerns, accounts for testing, etc.

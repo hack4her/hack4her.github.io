@@ -13,7 +13,8 @@ There is 1 winning team per challenge. Each person on that team gets a prize (th
 
 ## Short Introduction
 
-TBA
+ServiceNow, a Fortune 500, is The AI Platform for Business Transformation enabling 80% of the Fortune 500 companies to digitise and unify so that they can find smarter, faster, better ways to make work flow. We are empowering and educating 1 million individuals from marginalised communities in the ServiceNow platform. We understand that inclusion is a necessary step in the vision of creating equitable and advanced technologies. 
+The mythical customer GreenTech Solutions is a Very Large Enterprise (VLE) specialising in sustainable and energy-efficient data centres for cloud computing solutions. GreenTech has a highly diverse gender distribution spreading over 6 continents, and has set a strategic objective to enhance employee productivity, inclusivity, and diversity to drive innovation. However, there have been reports in the past around cases of gender discrimination in the workplace. Help them by creating a ServiceNow application that aids against gender discrimination in the workplace, utilising Now Assist capabilities within the ServiceNow platform
 
 ## Full Challenge Description
 

@@ -18,7 +18,7 @@ The mythical customer GreenTech Solutions is a Very Large Enterprise (VLE) speci
 
 ## Full Challenge Description
 
-[ServiceNow Challenge Information](./challenge_A.html) (Incomplete)
+[ServiceNow Challenge Information](./challenge_A.html)
 
 
 ## Prize

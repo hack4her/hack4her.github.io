@@ -58,7 +58,7 @@
 
 
 
-#### 1D Optiver Workshop: Title TBA
+#### 1D Optiver Workshop: Introduction to Optiver
 
 - **Time:** 10:15 AM - 10:45
 
@@ -70,7 +70,7 @@
 
 - **Biography:** Links: [Zuotian Tatum LinkedIn](https://www.linkedin.com/in/zuotiantatum/), [Gregory Pandechis LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
 
-- **Workshop Description:** TBA
+- **Workshop Description:** In our workshop, we explain the basics of finance and trading!
 
 
 

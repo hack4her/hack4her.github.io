@@ -23,7 +23,7 @@ The mythical customer GreenTech Solutions is a Very Large Enterprise (VLE) speci
 
 ## Prize
 
-TBC
+JBL Tune 670NC Blauw Noise Cancelling Headphones
 
 
 ## Hackathon Mentors 

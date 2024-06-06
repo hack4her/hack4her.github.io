@@ -58,7 +58,7 @@
 
 
 
-#### 1D Optiver Workshop: Introduction to Optiver
+#### 1D Optiver Workshop: Introduction to Optiver, Finances, and Trading
 
 - **Time:** 10:15 AM - 10:45
 

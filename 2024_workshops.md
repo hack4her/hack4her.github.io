@@ -72,7 +72,8 @@
 
 -  **Biography:** Greg is a software developer, originally from Sydney Australia. After working in Optiver's Sydney office for 10 years on trading systems, he moved to the Amsterdam office where he worked on options pricing and compliance systems. He is now part of the tech education team. He mainly works with Python and C++. In his spare time he likes travelling, reading, and is trying to learn calligraphy. [Gregory Pandechis LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
 
-- **Workshop Description:** In our workshop, we explain the basics of finance and trading!
+- **Workshop Description:** According to a 2024 [study](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fnpe0000189), men are 91% more likely to invest in the stock market than women, preventing women from realizing life-changing gains from their savings. With this challenge, we want to help you to beat the statistics and show you how you can trade too! In fact, you will be creating your very own trading algorithm in python which you will use to trade on our simulated exchange, Optibook. If you don’t know anything about trading, don’t worry! Then you are exactly the kind of person we want to see doing our challenge! In our workshop, we explain the basics of finance and trading and of course we are here to help through the weekend!
+
 
 
 

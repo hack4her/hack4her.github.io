@@ -1,3 +1,5 @@
+# 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024 🌟
+
 # Challenge D from Optiver
 
 ## Optiver Challenge: “Optibook” - Trading Companies with Strong DEI Practices on a Simulated Exchange

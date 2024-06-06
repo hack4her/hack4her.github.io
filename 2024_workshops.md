@@ -68,7 +68,9 @@
   
 - **Affiliation:** Optiver
 
-- **Biography:** Links: [Zuotian Tatum LinkedIn](https://www.linkedin.com/in/zuotiantatum/), [Gregory Pandechis LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
+- **Biography:**  [Zuotian Tatum LinkedIn](https://www.linkedin.com/in/zuotiantatum/),
+
+-  **Biography:** Greg is a software developer, originally from Sydney Australia. After working in Optiver's Sydney office for 10 years on trading systems, he moved to the Amsterdam office where he worked on options pricing and compliance systems. He is now part of the tech education team. He mainly works with Python and C++. In his spare time he likes travelling, reading, and is trying to learn calligraphy. [Gregory Pandechis LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
 
 - **Workshop Description:** In our workshop, we explain the basics of finance and trading!
 

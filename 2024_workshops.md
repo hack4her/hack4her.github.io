@@ -62,13 +62,13 @@
 
 - **Time:** 10:15 AM - 10:45
 
-- **Person:** Zuotian Tatum, Gregory Pandechis
+- **Person:** Zuotian Tatum
 
-- **Title:** Tech Lead - Onboarding & Education, Technology Educator Manager
+- **Title:** Head of Tech Education
   
 - **Affiliation:** Optiver
 
-- **Biography:**  [Zuotian Tatum LinkedIn](https://www.linkedin.com/in/zuotiantatum/),
+- **Biography:**  Zuotian holds a B.S. in Computer Science and a B.E. in Bioengineering from the University of Washington, Seattle. With experience in both big tech and academia, she now serves as the Head of Tech Education at Optiver's Amsterdam office. Additionally, Zuotian is the chairperson of the Knowledge Network for Optiver Women, where she passionately supports new hires to ensure they achieve their full potential. In her free time, she enjoys knitting and practicing yoga. [Zuotian Tatum LinkedIn](https://www.linkedin.com/in/zuotiantatum/),
 
 -  **Biography:** Greg is a software developer, originally from Sydney Australia. After working in Optiver's Sydney office for 10 years on trading systems, he moved to the Amsterdam office where he worked on options pricing and compliance systems. He is now part of the tech education team. He mainly works with Python and C++. In his spare time he likes travelling, reading, and is trying to learn calligraphy. [Gregory Pandechis LinkedIn](https://www.linkedin.com/in/gregory-pandechis-aa956a7/)
 

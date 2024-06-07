@@ -80,7 +80,7 @@ A table in a ServiceNow instance with different 20 meeting transcripts from Gree
 
 ## Suggested Timeline
 
-- During the workshop more information we will be given around how you can allocate your time.
+- During the workshop more information will be given around how you can allocate your time.
 
 
 

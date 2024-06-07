@@ -7,6 +7,7 @@ Full challenge information can be found under the page links. This information i
 There is 1 winning team per challenge. Each person on that team gets a prize (the same prize). 
 
 
+**Pick your challenge [here](https://forms.gle/H7tYBMNMRdrKgwqM8)** 
 
 # Challenge A: The ServiceNow Challenge
 

@@ -3,6 +3,8 @@
 
 # Workshops
 
+Click [here](https://forms.gle/xXjNHWcRJssEDvWb6) to sign up for workshops. 
+
 
 ## Saturday
 

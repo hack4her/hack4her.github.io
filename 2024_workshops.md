@@ -5,6 +5,11 @@
 
 Click [here](https://forms.gle/xXjNHWcRJssEDvWb6) to sign up for workshops. 
 
+All non-challenge workshops are in **Room NU-3B19**.
+
+Challenge Workshops are in the following rooms
+- **Optiver** NU-4A67
+- 
 
 ## Saturday
 

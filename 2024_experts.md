@@ -3,6 +3,7 @@
 
 # Expert Sessions
 
+**Expert Session Room:** NU-3A57
 
 ### What is an Expert Session?
 

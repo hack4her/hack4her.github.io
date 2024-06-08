@@ -6,6 +6,16 @@ Full challenge information can be found under the page links. This information i
 
 There is 1 winning team per challenge. Each person on that team gets a prize (the same prize). 
 
+## Hacker Rooms
+
+- Optiver: NU-4A67
+
+- DuckDB: NU-2B17
+
+- ServiceNow: NU-2B12
+
+- Booking.com: NU-4A45
+
 
 **Pick your challenge [here](https://forms.gle/H7tYBMNMRdrKgwqM8)** 
 

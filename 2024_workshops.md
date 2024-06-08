@@ -155,7 +155,7 @@ Challenge Workshops are in the following rooms
 
 
 
-### Workshop 6: Can LLMs promote diversity, equity, and inclusion in tech teams? A joint look on the past, present, and future
+### [CANCELLED] Workshop 6: Can LLMs promote diversity, equity, and inclusion in tech teams? A joint look on the past, present, and future
 
 - **Time:** 16:30 PM - 17:30
   
@@ -171,6 +171,21 @@ Challenge Workshops are in the following rooms
 
 - **Workshop Description:** Advances in large language models (LLMs) have driven an explosion of interest in their societal impacts. Much of the discussion on how they will impact diversity, equity, and inclusion has been primarily negative, focusing on questions like “How might LLMs be biased, and how would we mitigate those biases?” This is a vital discussion: how AI generally, and LLMs specifically, can entrench biases has been studied. But equally important, and much less discussed, is the more opportunity-focused counterpoint: “What promising applications do LLMs enable that could promote diversity, equity, and inclusion?” This talk will discuss opportunities for LLMs to foster diversity, equity, and inclusion in society, especially in teams building tech solutions like software development and hackathon teams.
 
+
+
+### [REPLACEMENT] Workshop 6: Geometric Deep Learning
+
+- **Time:** 16:30 PM - 17:30
+  
+- **Person:** Isabella Venancia (Bella) Gardner
+
+- **Title:** Course Organizer, MsC AI
+
+- **Affiliation:** VU Amsterdam, UvA
+  
+- **Biography:** Check out my profile [here](./about.html)
+
+- **Workshop Description:** "Group Equivariant and Geometric Deep Learning" provides a comprehensive overview aimed at fostering a deeper understanding and application of these advanced deep learning techniques. Gardner begins by introducing the fundamental concepts of Group Equivariant Deep Learning (GEDL), which focuses on neural networks that maintain equivariance under transformations like rotations and translations, thus enhancing model robustness and generalization. She then delves into Geometric Deep Learning (GDL), which extends deep learning to non-Euclidean data types such as graphs and manifolds by incorporating geometric priors and principles. The talk emphasizes the motivation for using these techniques, highlighting their ability to overcome traditional deep learning limitations and improve performance across diverse fields, including medical imaging, autonomous driving, and molecular modeling. Gardner also touches on the theoretical underpinnings, including group theory and Clifford algebra, and discusses future directions and applications, aiming to inspire new ideas and collaborations in the audience's own work.
  
 
 

@@ -8,8 +8,14 @@ Click [here](https://forms.gle/xXjNHWcRJssEDvWb6) to sign up for workshops.
 All non-challenge workshops are in **Room NU-3B19**.
 
 Challenge Workshops are in the following rooms
-- **Optiver** NU-4A67
-- 
+
+- Optiver: NU-4A67
+
+- DuckDB: NU-2B17
+
+- ServiceNow: Theater 1
+
+- Booking.com: NU-3A57
 
 ## Saturday
 

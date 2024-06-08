@@ -3,6 +3,9 @@
 
 # Overview
 
+## Discord
+[Discord](https://discord.gg/VEZzuWx5)
+
 ## Dates & Times
 
 - **Kickoff:** June 7th, 17:30 - 22:00

@@ -6,6 +6,16 @@
 ## Discord
 [Discord](https://discord.gg/VEZzuWx5)
 
+## LinkedIn Badges
+
+[Participation (hackathon)](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Participated in Hack4Her 2024&organizationId=103806010&issueYear=2024)
+
+Winner (hackathon):
+
+Attendance (non-hackathon):
+
+
+
 ## Dates & Times
 
 - **Kickoff:** June 7th, 17:30 - 22:00

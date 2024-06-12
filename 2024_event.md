@@ -8,7 +8,7 @@
 
 ## LinkedIn Badges
 
-[Participation (hackathon)](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Participated in Hack4Her 2024&organizationId=103806010&issueYear=2024)
+[Participation (hackathon)](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Hacker&organizationId=103806010&issueYear=2024)
 
 Winner (hackathon):
 

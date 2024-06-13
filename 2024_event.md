@@ -1,7 +1,61 @@
 
 # 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024🌟
 
-# Overview
+
+[Photos](https://statiephotography.pixieset.com/hack4her/)
+
+
+## Post-Event Summary
+
+**Hack4Her 2024: A Celebration of Women in Tech and Innovation**
+
+Amsterdam, June 10, 2024 — The third annual Hack4Her event successfully concluded on June 9, 2024, at Vrije Universiteit Amsterdam. Over three transformative days, Hack4Her 2024 brought together more than 100 participants, including students, professionals, and industry leaders, all united in their commitment to creating women-centered tech spaces and promoting gender diversity in technology.
+
+**Event Overview and Impact**
+
+Hack4Her 2024 was designed to empower women in technology through a blend of collaborative innovation, hands-on learning, and professional networking. The event provided a platform for participants to develop cutting-edge solutions, expand their technical knowledge, and forge meaningful connections with industry experts.
+
+**Keynote Highlights**
+
+The event featured compelling keynote speeches from professionals and academics, each addressing critical issues related to women in tech:
+
+- **Shirley de Wit**, PhD Candidate at TU Delft, opened the event with her talk, "But Girls Just Don’t Like Tech." She explored the gender gap in computer science, discussing stereotypes, interest development, and gender-inclusive education. Her insights provided actionable strategies to attract more women to the field.
+- **Ana Clara Cassanti**, Lecturer in Sustainability at Vrije Universiteit Amsterdam, delivered a session on "Diversity and Inclusion through the Lens of Identity Markers and Intersectionality." She emphasized the importance of understanding multiple identities and their impact on creating inclusive environments.
+- **Viktoriya Li and Arshana Ramautar**, students at VU Amsterdam, presented "Programmed Inequality: The Story of Margaret Masterman." Their talk highlighted the significant contributions of Margaret Masterman in computational linguistics, underscoring the historical challenges faced by women in computing.
+
+**Workshops**
+
+Hack4Her 2024 offered an array of workshops led by industry professionals, providing participants with practical skills and knowledge on various cutting-edge topics:
+
+- **JAX Programming** by Samuele Papa (University of Amsterdam) covered the fundamentals and advantages of JAX, a fast and flexible programming framework. Participants learned how JAX handles compilation and its functional programming framework through a hands-on image classification example.
+- **Model-Based Testing** by Machiel van der Bijl and Lou Ottens (Axini) introduced participants to next-generation test automation techniques. This workshop provided a hands-on demo of how tests are generated, not programmed, and their application in real-world scenarios.
+- **Technical Interview Preparation** by Hilary McReynolds (Booking.com) demystified the technical interview process, offering valuable tips and strategies. Attendees gained insights into the goals of interviews, common formats, and how to approach programming tasks confidently.
+- **Using Data to Build Great Products** by Aida Rikovic Tabak (ServiceNow) taught participants how to leverage usage data to enhance product development and user experience. The workshop covered methods for collecting and analyzing data, setting data-driven goals, and implementing iterative improvements based on user behavior insights.
+- **Logic Synthesis for AI** by Prof. Dr. Marcel Walter (Uni Bremen, TUM) explored how to design custom FPGA accelerators for neural network inference, showing the important intersection of chip design, logic synthesis, and AI. 
+- **Changing the Perspective of Cybersecurity: From the Risk Conversation to the Goals-Driven One** by Ilse Parra focused on helping participants identify their company's main business objectives, recognizing the assets supporting those objectives, understanding potential threats to these core assets, and exploring the role of board members and management in making security a competitive edge.
+
+**Hackathon Highlights**
+
+The centerpiece of Hack4Her 2024 was its hackathon, which featured four major challenges designed to inspire innovative solutions:
+
+- **ServiceNow Challenge:** Teams developed applications to combat gender discrimination in the workplace using ServiceNow's platform.
+- **Booking.com Challenge:** Participants created networks to enhance safety and experiences for solo women travelers.
+- **DuckDB Challenge:** Teams built a community-driven app providing safe walking routes in Amsterdam using DuckDB's data processing capabilities.
+- **Optiver Challenge:** Participants worked on solutions to increase women's participation in the stock market.
+
+Winning teams received prestigious prizes, including JBL headphones, tickets to the EU Women in Tech 2024 conference, and VVV gift cards.
+
+**Networking and Community Building**
+
+Hack4Her 2024 placed a strong emphasis on community and networking. Participants enjoyed multiple networking opportunities, including a special Friday evening session, which facilitated connections between attendees and industry leaders. Complimentary meals and refreshments throughout the event further enhanced the collaborative and inclusive atmosphere.
+
+
+- **Participant Testimonials:** “I've met fantastic, like-minded people, exchanged ideas, and got inspired to learn, grow, and support my fellow women in tech. And above all - I had a lot of fun.” said one participant.
+
+
+**Acknowledgements**
+
+We extend our heartfelt thanks to our sponsors, including ELLIS unit Amsterdam, Booking.com, Versen, ServiceNow, Axini, DuckDB, Qualcomm AI Research, Optiver, Network Institute VU, Vrije Universiteit Amsterdam (VU Amsterdam), VU Amsterdam CS Department, University of Amsterdam, UvA Faculty of Science, Tilburg University, Tilburg CSAI, and UvA Grassroots Science4all. We also recognize the invaluable contributions of our volunteers and partner organizations.
 
 
 

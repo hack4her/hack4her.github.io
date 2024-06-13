@@ -76,6 +76,10 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 </p> </div>
 </div>
 
+## Organizational Volunteers
+
+Sharing our gratitude to our organizing team: [Lieve Jilesen](https://www.linkedin.com/in/lieve-jilesen/), [Lalith Sai Swaroop](https://www.linkedin.com/in/lalith-sai-swaroop-a5b6001a4/), [Krijn Dignum](https://www.linkedin.com/in/krijn-dignum/), [Carlos Eduardo Emanuele](https://www.linkedin.com/in/caedemor/), [Liam Levy](https://www.linkedin.com/in/liam-levy/), [Pahal Agrawal](https://www.linkedin.com/in/pahal-agrawal/), [Vlad-Andrei Cursaru](https://www.linkedin.com/in/vlad-cursaru/), [Radu Apsan](https://www.linkedin.com/in/radu-apsan/), [Varuni Sood](https://www.linkedin.com/in/varuni-sood-588193225/), [Christina Bara](https://www.linkedin.com/in/christina-bara/), [Zuva Munshi](https://www.linkedin.com/in/zuva-munshi/), [Anna Wischnewski](https://www.linkedin.com/in/anna-wischnewski/), [Women in STEM](https://www.linkedin.com/in/women-in-stem-vu/).
+
 
 ## Scientific Committee
 Our scientific committee members serve as consultants for our challenges, assist in promotion, and help ensure impartial and fair conduct of our hackathon.

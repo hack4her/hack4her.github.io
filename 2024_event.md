@@ -54,7 +54,7 @@ Winning teams received prestigious prizes, including JBL headphones, tickets to 
 Hack4Her 2024 placed a strong emphasis on community and networking. Participants enjoyed multiple networking opportunities, including a special Friday evening session, which facilitated connections between attendees and industry leaders. Complimentary meals and refreshments throughout the event further enhanced the collaborative and inclusive atmosphere.
 
 
-**Acknowledgements**
+**Acknowledgments**
 
 We extend our heartfelt thanks to our sponsors, including ELLIS unit Amsterdam, Booking.com, Versen, ServiceNow, Axini, DuckDB, Qualcomm AI Research, Optiver, Network Institute VU, Vrije Universiteit Amsterdam (VU Amsterdam), VU Amsterdam CS Department, University of Amsterdam, UvA Faculty of Science, Tilburg University, Tilburg CSAI, and UvA Grassroots Science4all. We also recognize the invaluable contributions of our volunteers and partner organizations.
 

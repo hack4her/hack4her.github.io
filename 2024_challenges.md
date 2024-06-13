@@ -1,5 +1,34 @@
 # 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024🌟
 
+# Hackathon Winners
+Congratulations to this year's winners!
+
+**Team Forect**
+- Junni Gan
+- Jiamian He
+- Zixuan Wang
+- Qianpu Chen
+
+**Team Blue Screen of Death**
+- Urtė Urbonavičiūtė
+- Rūta Giedrytė
+- Kawah Man
+- Oana Mirea 
+
+**Team What the Hack?!**
+- Novi Liuther
+- Bezayite Amenu 
+- Aliza Reif
+- Lisanne Weidmann
+
+**Team She++**
+- Nabila Putri Rachmania Siregar
+- Shreya Raghavendra
+- Christina Bara
+- Karolina Grabowska
+
+
+
 # Hackathon Information: Challenges, Prizes, and Judges
 
 Full challenge information can be found under the page links. This information includes a challenge overview, challenge objective, tools and technologies for the challenge, what is given (if applicable), expected deliverables, general judging criteria, and a suggested timeline. 

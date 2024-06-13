@@ -27,9 +27,9 @@ The event featured compelling keynote speeches from professionals and academics,
 
 Hack4Her 2024 offered an array of workshops led by industry professionals, providing participants with practical skills and knowledge on various cutting-edge topics:
 
-- **JAX Programming** by Samuele Papa (University of Amsterdam) covered the fundamentals and advantages of JAX, a fast and flexible programming framework. Participants learned how JAX handles compilation and its functional programming framework through a hands-on image classification example.
+- **JAX Programming** by Samuele Papa (University of Amsterdam) covered the fundamentals and advantages of JAX, a fast and flexible programming framework. Participants learned how JAX handles compilation and its functional programming framework through a hands-on example.
 - **Model-Based Testing** by Machiel van der Bijl and Lou Ottens (Axini) introduced participants to next-generation test automation techniques. This workshop provided a hands-on demo of how tests are generated, not programmed, and their application in real-world scenarios.
-- **Technical Interview Preparation** by Hilary McReynolds (Booking.com) demystified the technical interview process, offering valuable tips and strategies. Attendees gained insights into the goals of interviews, common formats, and how to approach programming tasks confidently.
+- **Demystifying the Technical Interview** by Hilary McReynolds (Booking.com) demystified the technical interview process, offering valuable tips and strategies. Attendees gained insights into the goals of interviews, common formats, and how to approach programming tasks confidently.
 - **Using Data to Build Great Products** by Aida Rikovic Tabak (ServiceNow) taught participants how to leverage usage data to enhance product development and user experience. The workshop covered methods for collecting and analyzing data, setting data-driven goals, and implementing iterative improvements based on user behavior insights.
 - **Logic Synthesis for AI** by Prof. Dr. Marcel Walter (Uni Bremen, TUM) explored how to design custom FPGA accelerators for neural network inference, showing the important intersection of chip design, logic synthesis, and AI. 
 - **Changing the Perspective of Cybersecurity: From the Risk Conversation to the Goals-Driven One** by Ilse Parra focused on helping participants identify their company's main business objectives, recognizing the assets supporting those objectives, understanding potential threats to these core assets, and exploring the role of board members and management in making security a competitive edge.
@@ -45,12 +45,13 @@ The centerpiece of Hack4Her 2024 was its hackathon, which featured four major ch
 
 Winning teams received prestigious prizes, including JBL headphones, tickets to the EU Women in Tech 2024 conference, and VVV gift cards.
 
+
+**Participant Testimonials:** “I've met fantastic, like-minded people, exchanged ideas, and got inspired to learn, grow, and support my fellow women in tech. And above all - I had a lot of fun.” said one participant.
+
+
 **Networking and Community Building**
 
 Hack4Her 2024 placed a strong emphasis on community and networking. Participants enjoyed multiple networking opportunities, including a special Friday evening session, which facilitated connections between attendees and industry leaders. Complimentary meals and refreshments throughout the event further enhanced the collaborative and inclusive atmosphere.
-
-
-- **Participant Testimonials:** “I've met fantastic, like-minded people, exchanged ideas, and got inspired to learn, grow, and support my fellow women in tech. And above all - I had a lot of fun.” said one participant.
 
 
 **Acknowledgements**

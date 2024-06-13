@@ -3,17 +3,14 @@
 
 # Overview
 
+
+
 ## Discord
 [Discord](https://discord.gg/VEZzuWx5)
 
 ## LinkedIn Badges
 
-[Participation (hackathon)](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Hacker&organizationId=103806010&issueYear=2024)
-
-Winner (hackathon):
-
-Attendance (non-hackathon):
-
+[Click here to find our badges linked.](https://docs.google.com/document/d/1S1LV-b7PGv1dJ7pwy_kcskG2Wv_G68ikcVEtQp-ndP8/edit?usp=sharing)  
 
 
 ## Dates & Times

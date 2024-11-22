@@ -66,7 +66,7 @@ For more details, visit her [professional page](https://katjatuma.github.io/).
 Our scientific committee members serve as consultants for our challenges, assist in promotion, and help ensure impartial and fair conduct of our hackathon.
 
 ### SC Members:
-* <a href=""> Mengyuan (Maggie) Zhang </a>, Assist. Prof. at the Vrije Universiteit Amsterdam
+* <a href="https://mengyuanzhang.github.io"> Mengyuan (Maggie) Zhang </a>, Assist. Prof. at the Vrije Universiteit Amsterdam
 * <a href="https://www.uva.nl/en/profile/o/p/a.m.oprescu/a.m.oprescu.html"> Ana Oprescu </a>, Assist. Prof. at the University of Amsterdam
 * <a href="http://annasperotto.org"> Anna Sperotto </a>, Associate Prof. at the University of Twente
 * <a href="https://research.utwente.nl/en/persons/jan-willem-bullée"> Jan-Willem Bullée </a>, Assist. Prof. at the University of Twente

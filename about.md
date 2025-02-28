@@ -7,7 +7,7 @@ Hack4Her originated in October 2021, established by Isabella Venancia (Bella) an
 
 Bella served as the Co-founder and Chair of the Diversity Committee, with Mylène as the Vice Chair, up until their graduation. Their efforts were directed towards fostering an environment of inclusivity and respect.
 
-The concept for Hack4Her was inspired by Mylène's observations at the Amsterdam Algorithm Programming Preliminary (AAPP) during her time as comittee secretary, where a significant underrepresentation of women was noted. Inquiry into the low participation of women revealed concerns over feeling unwelcome, and underqualified, and the discomfort of being the only female participant.
+The concept for Hack4Her was inspired by Mylène's observations at the Amsterdam Algorithm Programming Preliminary (AAPP) during her time as the AAPCie comittee secretary, where a significant underrepresentation of women was noted. Inquiry into the low participation of women revealed concerns over feeling unwelcome, and underqualified, and the discomfort of being the only female participant.
 
 Supported by BETA faculty member Katja Tuma, the first Hack4Her hackathon took place in June 2022 at VU Amsterdam. The event was women-only and attracted 35 attendees. [Learn more about the event](/events_archive).
 

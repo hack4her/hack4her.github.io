@@ -107,19 +107,6 @@ We want to express our gratitude to the following sponsors for their generous su
    <a href="https://www.tilburguniversity.edu/about/schools/tshd/departments/dca" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
     <img src="assets/images/CSAITiU.png" alt="Tilburg CSA" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <!-- Previous sponsors -->
-    <!-- <a href="https://versen.nl" style="display: inline-block; width: 150px; height: 75px; margin: 5px;">
-    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a> -->
-    <!-- <a href="https://www.axini.com/nl/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
-    <img src="assets/images/axini.jpg" alt="axini" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a> -->
-    <!-- <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
-    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a> -->
-  <!-- <a href="https://optiver.com/" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
-    <img src="assets/images/op.png" alt="optiverw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a> -->
 </div>
 
 

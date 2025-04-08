@@ -14,12 +14,18 @@ Hack4Her is not just a hackathon; it’s a movement. A weekend at Hack4Her means
 Read more about us and why Hack4Her is necessary [here](/about).
 
 <!-- Upcoming Event Highlight -->
-## Recent Event
+## Upcoming Event
+### 4th Annual Hack4Her Event 
+**Dates:** June 13-15, 2025
+We are planning the 4th Annual Hack4Her, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance at free transport if you are coming from outside of the Amsterdam area. 
+
+<!-- ## Recent Event
 ### 3rd Annual Hack4Her Event
 **Dates:** June 7-9, 2024  
-🌟 Dive into the 3rd Annual Hack4Her, June 7-9, 2024, at VU Amsterdam! A weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you to join us for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance for free accommodation.
+🌟 Dive into the 3rd Annual Hack4Her, June 7-9, 2024, at VU Amsterdam! A weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you to join us for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance for free accommodation. -->
 
-[Learn More](/2024_event)  <!-- Replace with the link to your event details page -->
+<!-- [Learn More](/2024_event)   -->
+<!-- Replace with the link to your event details page -->
 
 
 <!-- News -->
@@ -81,26 +87,19 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://networkinstitute.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <a href="https://versen.nl" style="display: inline-block; width: 150px; height: 75px; margin: 5px;">
-    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
+
   <a href="https://ivi.fnwi.uva.nl/ellis/" style="display: inline-block; width: 350px; height: 50px; margin: 5px;">
     <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <a href="https://www.axini.com/nl/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
-    <img src="assets/images/axini.jpg" alt="axini" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
+
   <a href="https://duckdb.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="assets/images/duckdb.svg" alt="duck db" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
     <img src="assets/images/SN.jpg" alt="service now" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-  <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
-    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://optiver.com/" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
-    <img src="assets/images/op.png" alt="optiverw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  <a href="https://www.postcodeloterij.nl/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
+    <img src="assets/images/postcode_loterij.png" alt="postcode loterij" style="max-width: 100% max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="assets/images/tilburg1.png" alt="Tilburg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
@@ -108,6 +107,19 @@ We want to express our gratitude to the following sponsors for their generous su
    <a href="https://www.tilburguniversity.edu/about/schools/tshd/departments/dca" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
     <img src="assets/images/CSAITiU.png" alt="Tilburg CSA" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
+  <!-- Previous sponsors -->
+    <!-- <a href="https://versen.nl" style="display: inline-block; width: 150px; height: 75px; margin: 5px;">
+    <img src="assets/images/other_versen_logo.png" alt="VERSEN Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a> -->
+    <!-- <a href="https://www.axini.com/nl/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
+    <img src="assets/images/axini.jpg" alt="axini" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a> -->
+    <!-- <a href="https://www.qualcomm.com/research/artificial-intelligence/ai-research" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
+    <img src="assets/images/qc_AIResearch_RGB.png" alt="qualcomm ai" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a> -->
+  <!-- <a href="https://optiver.com/" style="display: inline-block; width: 200px; height: 100px; margin: 1px;">
+    <img src="assets/images/op.png" alt="optiverw" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a> -->
 </div>
 
 

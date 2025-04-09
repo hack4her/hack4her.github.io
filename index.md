@@ -6,7 +6,7 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 
 <img src="/assets/images/planery.png" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
 
-## About Us
+# About Us
 Hack4Her is the only female-focused student hackathon in the Netherlands, creating a space where technology and diversity meet. We are a coalition of staff and students from the Vrije Universiteit Amsterdam and Universiteit van Amsterdam. Our mission is simple: to create a women-centered space in the tech world. We’re dedicated to providing a welcoming atmosphere that fosters learning and innovation for all students. We aim to bridge the gender gap in technology by fostering a diverse ecosystem of students, mentors, and leaders.
 
 Hack4Her is not just a hackathon; it’s a movement. A weekend at Hack4Her means engaging in an environment rich with challenges and opportunities, where participants can experiment, innovate, and connect with like-minded individuals and mentors in the tech industry. Our platform celebrates diversity, where all students from across the Netherlands can join in the camaraderie, code, and competition.
@@ -14,10 +14,11 @@ Hack4Her is not just a hackathon; it’s a movement. A weekend at Hack4Her means
 Read more about us and why Hack4Her is necessary [here](/about).
 
 <!-- Upcoming Event Highlight -->
-## Upcoming Event
-### 4th Annual Hack4Her Event 
-**Dates:** June 13-15, 2025
-We are planning the 4th Annual Hack4Her, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance at free transport if you are coming from outside of the Amsterdam area. 
+# Upcoming Event
+## 🌟 4th Annual Hack4Her Event 🌟
+**Dates:** June 13-15, 2025 
+
+We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance at free transport if you are coming from outside of the Amsterdam area. 
 
 <!-- ## Recent Event
 ### 3rd Annual Hack4Her Event
@@ -29,9 +30,9 @@ We are planning the 4th Annual Hack4Her, June 13-15, 2025, at VU Amsterdam and t
 
 
 <!-- News -->
-## Recent News
+# Recent News
 
-#### Isabella Venancia Gardner HAck4Her Project Lead Starts AI Master at UvA with Fellowship from the Amsterdam University Fund
+#### Isabella Venancia Gardner Hack4Her Project Lead Starts AI Master at UvA with Fellowship from the Amsterdam University Fund
    Isabella Gardner, Hack4Her Project Lead, was awarded the Qualcomm Diversity in AI Fellowship by the Amsterdam University Fund for her efforts in supporting diversity in artificial intelligence studies. This recognition highlights Gardner's dedication to inclusivity within the tech sector, demonstrated through her initiative, Hack4Her, and her outreach efforts to introduce AI to children from diverse backgrounds. 
    
    [Read more](https://www.uva.nl/content/nieuws/nieuwsberichten/2024/02/studenten-starten-ai-master-aan-de-uva-met-een-fellowship-van-het-amsterdams-universiteitsfonds.html)

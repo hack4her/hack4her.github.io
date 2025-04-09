@@ -47,16 +47,15 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 
 For more details, visit her [professional page](https://katjatuma.github.io/).
 
-### Project Lead: [Anca Strulea](https://www.linkedin.com/in/anca-strulea/)
+## Advisory Board: [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) and [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
 
-### Advisory Board: [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) and [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
+## Project Lead: [Anca Strulea](https://www.linkedin.com/in/anca-strulea/)
 
-### Public Relations Team Lead: [Lieve Jilesen](https://www.linkedin.com/in/lieve-jilesen/)
+## Public Relations Team Lead: [Lieve Jilesen](https://www.linkedin.com/in/lieve-jilesen/)
 
-### Finance Team Lead: [Lara Popović](https://www.linkedin.com/in/lara-popovic-478806299/)
+## Finance Team Lead: [Lara Popović](https://www.linkedin.com/in/lara-popovic-478806299/)
 
-<!-- ### Challenges Team Lead: []() -->
-<!-- TODO: add entire team-->
+## Challenge Creation Team Lead: [Eduardo Emanuele](https://www.linkedin.com/in/caedemor/)
 
 ## Scientific Committee
 Our scientific committee members serve as consultants for our challenges, assist in promotion, and help ensure impartial and fair conduct of our hackathon.

@@ -18,7 +18,7 @@ Read more about us and why Hack4Her is necessary [here](/about).
 ## 🌟 4th Annual Hack4Her Event 🌟
 **Dates:** June 13-15, 2025 
 
-We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance at free transport if you are coming from outside of the Amsterdam area. 
+We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and amazing networking opportunities! 
 
 <!-- ## Recent Event
 ### 3rd Annual Hack4Her Event

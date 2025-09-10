@@ -1,4 +1,75 @@
 # Code of Conduct
 ![Code of Conduct](/assets/images/conduct.png)
 
+# Data Protection, IP, and Privacy Notice for Hack4Her Event Participants
+
+ We want to inform you about how your personal and sensitive data will be handled, in compliance with the General Data Protection Regulation (GDPR).
+
+## Who is Collecting Your Data?
+
+Your data is being collected by VU Amsterdam Employees and Event Organizers, the organizer of the Hack4Her event, in collaboration with the University of Amsterdam (UvA) IAI Board and Vrije Universiteit Amsterdam (VU Amsterdam). If you have any questions or concerns about how your data is being used, you can contact us at this Email.
+
+## Why We Need Your Data
+
+We collect your data to:
+
+- Process your registration and participation in the Hack4Her event.
+- Arrange for accommodations, catering, and accessibility.
+- Provide you with updates and information about the event.
+- Ensure a tailored and inclusive event experience.
+
+The legal basis for processing your data is your explicit consent, necessary for the performance of a contract to which you are a party.
+
+## Who Will Have Access to Your Data?
+
+Your data will be accessed by the Hack4Her organizing team and, if necessary, shared with our partners (UvA and VU Amsterdam) for accommodation arrangements and event coordination purposes only. We will not share your data with third parties without your explicit consent unless required by law.
+
+## Data Transfer and Storage
+
+Your data will be stored securely and will only be kept for as long as necessary to fulfill the purposes mentioned above, after which it will be securely deleted.
+
+## Consent for Photography and Filming
+By attending the Hack4Her event, you consent to be photographed and filmed during the course of the event. These images and footage will be used by VU Amsterdam Employees, Event Sponsors, and Event Organizers for promotional and archival purposes, including in publications, on websites, and on social media.
+
+We take your privacy seriously and strive to ensure that all imagery and recordings are used responsibly. If you have concerns about being photographed or filmed, please reach out to us prior to the event at [this](mailto:hack4her2024@gmail.com) Email.
+
+## Your Rights
+
+Under GDPR, you have the right to:
+
+- Access, correct, delete, or restrict the processing of your personal data.
+- Withdraw your consent at any time.
+- Data portability.
+
+If you wish to exercise any of these rights, please contact us at [this](mailto:hack4her2024@gmail.com) Email.
+
+
+## Intellectual Property
+All students retain their intellectual property rights to whatever they created within this event. 
+
+# General Travel Policy
+
+In the past, we have refunded travel costs to Hackers coming from outside the Amsterdam area during the hackathon days. This would not be possible without the support of the universities that the Hackers (you!) come from. To get a better chance at receiving free transport, contact your university to ask whether they would be interested in sponsoring our event! 
+
+### Transportation/Parking Refund
+
+**Eligibility Criteria:**
+- Be eligible to participate in our hackathon.
+- Be signed up to participate in our hackathon.
+- Be present on Saturday and Sunday.
+- Be traveling from outside of Amsterdam to our event.
+- Have a travel time to VU of an hour or more (via public transport route).
+- Reconfirm need once within a timely manner (72 hours).
+
+**Details:**
+- Parking will only be covered in the VU Parking Garage.
+- Carpooling is encouraged and may include gas compensation.
+- Group train tickets increase your chances of receiving full compensation. 
+
+**Note:** While we aim to cover as much as possible, for as many people as possible, we sometimes cannot guarantee full compensation. We will inform you promptly before the event regarding the coverage of your costs.
+
+We are committed to making the hackathon accessible and ensuring a positive experience for all participants. We look forward to your participation!
+
+
 [back](./)
+

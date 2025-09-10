@@ -1,9 +1,8 @@
-# Hackathon: Past Challenges and Judging
+# Past Challenges
 
-Embarking on a hackathon journey with Hack4Her means stepping into an environment where clarity meets opportunity—where every participant is empowered with the full knowledge and support needed to tackle challenges head-on, regardless of their experience level. On this page, you can find some examples of past challenges and what we focus on when judging challenge solutions. We hope this information provides some assurance and support in your hackathon journey.
+On this page, you can find some examples of past challenges and what we focus on when judging challenge solutions. 
 
-
-## Past Challenges
+## 2022
 
 ### Facility Location Problem (FLP) - Women's Healthcare Access Challenge
 

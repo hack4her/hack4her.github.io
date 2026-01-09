@@ -6,8 +6,8 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 
 <img src="/assets/images/planery.png" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
 
-# Check out the last event in June 2025! 
-Information about the event in 2025 is hosted on [this website](https://hack4her.org/). All new information about the 2025 edition was published at this URL. Feel free to continue browsing here to get a feel for how Hack4Her was in previous years. 
+# Hack4Her has gone national: Amsterdam and Eindhoven 
+Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place.
 
 ## About Us
 Hack4Her is the only female-focused student hackathon in the Netherlands, creating a space where technology and diversity meet. We are a coalition of staff and students from the Vrije Universiteit Amsterdam and Universiteit van Amsterdam. Our mission is simple: to create a women-centered space in the tech world. We’re dedicated to providing a welcoming atmosphere that fosters learning and innovation for all students. We aim to bridge the gender gap in technology by fostering a diverse ecosystem of students, mentors, and leaders.

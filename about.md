@@ -22,12 +22,12 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 
 More updates coming soon!
 
-## Scientific Lead: [Katja Tuma](https://www.linkedin.com/in/katjatuma)
+## Scientific Lead: [Katja Tuma](https://katjatuma.github.io/)
 
 <div style="display: flex; align-items: flex-start;">
   <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: auto; margin-right: 20px;">
   <div>
-  <p> Katja Tuma (PhD, 2021) is an Assistant Professor at Eindhoven University of Technology within the SET cluster. She obtained her Ph.D. in Computer Science and Engineering from the University of Gothenburg. She is co-founder and coordinator of Hack4Her, the national women-focused hackathon, co-founder and coordinator of the national working group on AI for security and security for AI, and co-organizer of the international workshop DeMeSSAI. Her research is at the intersection of software engineering, security and AI, and risk analysis. Read more [here](https://katjatuma.github.io/).</p> </div>
+  <p> Katja Tuma (PhD, 2021) is an Assistant Professor at Eindhoven University of Technology within the SET cluster. She obtained her Ph.D. in Computer Science and Engineering from the University of Gothenburg. She is co-founder and coordinator of Hack4Her, the national women-focused hackathon, co-founder and coordinator of the national working group on AI for security and security for AI, and co-organizer of the international workshop DeMeSSAI. Her research is at the intersection of software engineering, security and AI, and risk analysis.</p> </div>
 </div>
 
 

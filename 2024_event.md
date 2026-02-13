@@ -1,7 +1,11 @@
 
 # 🌟 The 5rd Annual Hack4Her Event June 12-14, 2026 at TU/e🌟
 
-Stay tuned ;)
+We are planning the 5th Annual Hack4Her, June 12-14, 2026, at TU/e! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking.
+
+While all genders are welcome, only women are eligible to compete in the hackathon portion of the event.
+
+Stay tuned for more updates.
 
 <!--
 [Photos](https://statiephotography.pixieset.com/hack4her/)

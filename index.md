@@ -58,8 +58,6 @@ Hack4Her entered the Minerva Informatics Equality Award and was shared as part o
 
 [Read more](https://www.informatics-europe.org/index.php?option=com_content&view=article&id=321:best-practices&catid=35:minerva-informatics-equality-award)
 
-To read more press coverage of Hack4Her and its organizers click [here](/press).
-
 <!-- Past Events 
 ## 2022,2023,2024 Events
 

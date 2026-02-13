@@ -4,24 +4,21 @@ title: Hack4Her
 description: "Empowering Women in Tech, Shaping the Future Together, a Netherlands University Initiative"
 ---
 
-<img src="/assets/images/planery.png" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
+<img src="/assets/images/banner.jpg" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
 
 # Hack4Her has gone national: Amsterdam and Eindhoven 
-Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place.
+Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place. More information coming soon.
 
 ## About Us
 Hack4Her is the only female-focused student hackathon in the Netherlands, creating a space where technology and diversity meet. We are a coalition of staff and students from the Vrije Universiteit Amsterdam and Universiteit van Amsterdam. Our mission is simple: to create a women-centered space in the tech world. We’re dedicated to providing a welcoming atmosphere that fosters learning and innovation for all students. We aim to bridge the gender gap in technology by fostering a diverse ecosystem of students, mentors, and leaders.
 
-Hack4Her is not just a hackathon; it’s a movement. A weekend at Hack4Her means engaging in an environment rich with challenges and opportunities, where participants can experiment, innovate, and connect with like-minded individuals and mentors in the tech industry. Our platform celebrates diversity, where all students from across the Netherlands can join in the camaraderie, code, and competition.
-
-Read more about us and why Hack4Her is necessary [here](/about).
 
 <!-- Upcoming Event Highlight -->
-# Upcoming Event
+<!--# 2024 Event
 ## 🌟 4th Annual Hack4Her Event 🌟
 **Dates:** June 13-15, 2025 
 
-We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and amazing networking opportunities! 
+We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and amazing networking opportunities! -->
 
 <!-- ## Recent Event
 ### 3rd Annual Hack4Her Event
@@ -33,12 +30,12 @@ We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam a
 
 
 <!-- News -->
-# Recent News
+# News
 
-#### Isabella Venancia Gardner Hack4Her Project Lead Starts AI Master at UvA with Fellowship from the Amsterdam University Fund
-   Isabella Gardner, Hack4Her Project Lead, was awarded the Qualcomm Diversity in AI Fellowship by the Amsterdam University Fund for her efforts in supporting diversity in artificial intelligence studies. This recognition highlights Gardner's dedication to inclusivity within the tech sector, demonstrated through her initiative, Hack4Her, and her outreach efforts to introduce AI to children from diverse backgrounds. 
-   
-   [Read more](https://www.uva.nl/content/nieuws/nieuwsberichten/2024/02/studenten-starten-ai-master-aan-de-uva-met-een-fellowship-van-het-amsterdams-universiteitsfonds.html)
+### Hack4Her received the 4TU Diversity Fund 2026
+Hack4Her application won the 4TU.NIRICT fund to lift Hack4Her hackathon to a truly national event from 2026 onwards by bringing it to the TU/e campus and opening the participation and volunteering to 4TU students and staf
+
+[Read more](https://www.linkedin.com/posts/4tu-nirict-netherlands-institute-for-research-on-ict_hack4her-home-activity-7397578349424054272-XI3x?utm_source=share&utm_medium=member_desktop&rcm=ACoAABPzpLQBBNIIWyJKKRvoTUXV2mgcd7r_G54)
 
 #### Jury Report VU Amsterdam Education Awards 2023-2024 Mylène Brown-Coleman co-project lead of Hack4Her
 
@@ -63,17 +60,18 @@ Hack4Her entered the Minerva Informatics Equality Award and was shared as part o
 
 To read more press coverage of Hack4Her and its organizers click [here](/press).
 
-<!-- Past Events -->
-## Past Events
+<!-- Past Events 
+## 2022,2023,2024 Events
 
 Over 150 attendees, 50+ projects, and countless moments of innovation over our 2 years active.
 
-"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/events_archive).
+"Years of empowering women in tech. See where we've been and what we've achieved." – [Our Journey So Far](/events_archive).-->
 
 <!-- Add past event carousel of images -->
 
 
 <!-- Sponsors and Partners -->
+<!--
 ## Sponsors and Partners
 
 We want to express our gratitude to the following sponsors for their generous support:
@@ -119,3 +117,4 @@ We want to express our gratitude to the following sponsors for their generous su
 Thank you for making this event possible! 
 
 If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:hack4her2024@gmail.com).
+-->

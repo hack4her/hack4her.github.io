@@ -21,8 +21,15 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 # Meet Our Team
 
 ## Project Lead: Ymke Tolboom
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/images/2024-06-17 11.31.32.jpg" alt="Ymke Tolboom" style="width: 200px; height: auto; margin-right: 20px;">
+</div>
 
 ## Challenges Lead: Mila Ayazyan
+<div style="display: flex; align-items: flex-start;">
+  <img src="assets/images/2024-06-17 11.31.32.jpg" alt="Mila Ayazyan" style="width: 200px; height: auto; margin-right: 20px;">
+</div>
+
 ## Scientific Lead: [Katja Tuma](https://katjatuma.github.io/)
 
 <div style="display: flex; align-items: flex-start;">

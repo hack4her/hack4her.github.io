@@ -9,7 +9,7 @@ Bella served as the Co-founder and Chair of the Diversity Committee, with Mylèn
 
 During Mylène's time as the AAPPCie committee secretary, she observed a significant underrepresentation of women at the Amsterdam Algorithm Programming Preliminary (AAPP). With Dr. Katja Tuma as scientific lead, this lead to the idea of organizing a women-focused hackathon, aimed at creating a more inclusive and supportive environment for women in competitive programming.
 
-The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women-only and attracted 35 attendees.
+The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women-only and attracted 35 attendees. Since then, the number of attendees kept increasing resulting in the opportunity to go national. In 2026 the first event in Eindhoven will take place.
 
 Hack4Her was founded to create a supportive and inclusive tech community. Its evolution reflects a commitment to these principles, with each event building upon the last to advance diversity in technology.
 
@@ -20,8 +20,9 @@ Hack4Her is dedicated to fostering a women-centered space in the technology sect
 
 # Meet Our Team
 
-More updates coming soon!
+## Project Lead: Ymke Tolboom
 
+## Challenges Lead: Mila Ayazyan
 ## Scientific Lead: [Katja Tuma](https://katjatuma.github.io/)
 
 <div style="display: flex; align-items: flex-start;">

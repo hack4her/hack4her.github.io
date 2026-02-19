@@ -10,19 +10,19 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
 # Meet the 2026 TU/e Team
 <div style="display: flex !important; gap: 80px; align-items: flex-start;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
     <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg" alt="Ymke Tolboom" style="width: 200px; height: 250px; object-fit: cover;">
     <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Ymke Tolboom</p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
     <img src="assets/images/Foto Mila H4H.jpg" alt="Mila Ayazyan" style="width: 200px; height: 250px; object-fit: cover;">
     <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Mila Ayazyan</p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Scientific Lead</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Scientific Lead</p>
     <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: 250px; object-fit: cover;">
-    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">[Katja Tuma](https://katjatuma.github.io/)</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">[Katja Tuma](https://katjatuma.github.io)</p>
   </div>
 </div>
 

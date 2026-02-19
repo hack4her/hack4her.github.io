@@ -33,6 +33,7 @@ We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam a
 
 
 <!-- News -->
+<!-- 
 # News
 
 ### Hack4Her received the 4TU Diversity Fund 2026
@@ -60,7 +61,7 @@ Hack4Her application won the 4TU.NIRICT fund to lift Hack4Her hackathon to a tru
 Hack4Her entered the Minerva Informatics Equality Award and was shared as part of the Best Practices in Supporting Women in Tech by Informatics Europe.
 
 [Read more](https://www.informatics-europe.org/index.php?option=com_content&view=article&id=321:best-practices&catid=35:minerva-informatics-equality-award)
-
+-->
 <!-- Past Events 
 ## 2022,2023,2024 Events
 
@@ -75,7 +76,23 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 ## Sponsors and Partners
 
 We want to express our gratitude to the following sponsors for their generous support:
+## Our Sponsors
 
+<div style="display: flex !important; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
+
+  <a href="https://www.4tu.nl/nirict/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Logo 4TU.NIRICT.png" alt="4TU NIRICT" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+<!--
+  <a href="https://www.randstaddigital.com" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/sponsor2.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+
+  <a href="https://www.vu.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/sponsor3.png" alt="VU Amsterdam" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+-->
+</div>
 
 <!-- Sponsors and Partners -->
 <!--

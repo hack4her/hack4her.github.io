@@ -83,11 +83,11 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://www.4tu.nl/nirict/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/Logo 4TU.NIRICT.png" alt="4TU NIRICT" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-<!--
-  <a href="https://www.randstaddigital.com" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/sponsor2.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
 
+  <a href="https://www.tudelft.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Logo TU Delft.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+<!--
   <a href="https://www.vu.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/sponsor3.png" alt="VU Amsterdam" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
@@ -131,10 +131,10 @@ We want to express our gratitude to the following sponsors for their generous su
   </a>
 </div>
 
-
+-->
 
 
 Thank you for making this event possible! 
 
-If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:hack4her2024@gmail.com).
--->
+If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:info.hack4her.tue@gmail.com).
+

@@ -7,11 +7,14 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 <img src="/assets/images/banner.jpg" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
 
 # Hack4Her has gone national: Amsterdam and Eindhoven 
-Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place. More information coming soon.
+We are planning the 5th Annual Hack4Her at VU Amsterdam and the first edition of Hack4Her at TU Eindhoven! Both events take place from June 12-14 2026. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. 
+
+Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place!
 
 ## About Us
-Hack4Her is the only female-focused student hackathon in the Netherlands, creating a space where technology and diversity meet. We are a coalition of staff and students from the Vrije Universiteit Amsterdam and Universiteit van Amsterdam. Our mission is simple: to create a women-centered space in the tech world. We’re dedicated to providing a welcoming atmosphere that fosters learning and innovation for all students. We aim to bridge the gender gap in technology by fostering a diverse ecosystem of students, mentors, and leaders.
+Hack4Her is the only female-focused student hackathon in the Netherlands, creating a space where technology and diversity meet. Our mission is simple: to create a women-centered space in the tech world. We’re dedicated to providing a welcoming atmosphere that fosters learning and innovation for all students. We aim to bridge the gender gap in technology by fostering a diverse ecosystem of students, mentors, and leaders.
 
+[Learn more about us](/about.md)
 
 <!-- Upcoming Event Highlight -->
 <!--# 2024 Event
@@ -68,12 +71,14 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 <!-- Add past event carousel of images -->
 
 
-<!-- Sponsors and Partners -->
-<!--
+
 ## Sponsors and Partners
 
 We want to express our gratitude to the following sponsors for their generous support:
 
+
+<!-- Sponsors and Partners -->
+<!--
 <div style="background: white; padding: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: center; width: 100%;">
   <a href="https://www.vu.nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
     <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">

@@ -1,5 +1,7 @@
-# 🌟 The 3rd Annual Hack4Her Event June 7-9, 2024 🌟
+# Event schedule
+The organisation of Hack4Her 2026 TU/e edition is doing their absolute best to ensure a program in full alignment with our core values of inclusivity. The exact schedule is still a work in progress. We are expecting to start the event Friday the 12th of June in the afternoon (so the event includes dinner on Friday) and the event will last until Sunday in the afternoon (so the event does not include dinner on Sunday). 
 
+<!--
 # Schedule
 
 **Please Note: this is a rough schedule and can be subject to minor changes!**
@@ -51,5 +53,4 @@ All rooms/locations are located in the NU Building of VU Amsterdam.
 | 18:00 - 19:00 | Break/Drinks/Snacks, Judge Deliberation Time | Various |
 | 19:00 - 19:30 | Award Prizes - Closing               | Event Space - Ground Floor  |
 
-
-[back](./)
+-->

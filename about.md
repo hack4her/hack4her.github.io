@@ -116,6 +116,5 @@ Thank you for making this event possible!
 If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:hack4her2024@gmail.com).
 
 -->
-[back](./)
 
 

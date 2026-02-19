@@ -6,39 +6,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
-
-{% seo %}
+    {% seo %}
   </head>
-
   <body>
-
     <header>
       <div class="container">
-<!--         <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2>{{ site.description | default: site.github.project_tagline }}</h2> -->
-
         <!-- Hero Section -->
-      <div class="hero-section" style="text-align: center;">
-        <div style="display: flex; align-items: center; justify-content: center;">
-          <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 200px; height: auto; margin-right: 15px;"/>
+        <div class="hero-section" style="text-align: center;">
+          <div style="display: flex; align-items: center; justify-content: center;">
+            <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 200px; height: auto;"/><h2 style="text-align: center; font-size: 1.5em; font-weight: bold;">CELEBRATING WOMEN IN TECH</h2>
         </div>
-        <h2 style="text-align: center; font-size: 1.5em; font-weight:bold;;">CELEBRATING WOMEN IN TECH</h2>
-      </div>
-
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="/" class="btn">Home</a>
-			<a href="../about.html" class="btn">About Us</a>
-            <a href="../2024_event.html" class="btn">Information</a>
-			<a href="../2024_schedule.html" class="btn">Schedule</a>
-            <a href="../code_conduct.html"  class="btn">Code of Conduct</a>
-          {% endif %}
-        </section>
       </div>
     </header>
+
+    <!-- Navigation Bar -->
+    <nav style="background-color: #E7C6FF; padding: 12px 0; text-align: center; width: 100%;">
+      <a href="/" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Home</a>
+      <a href="../about.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">About Us</a>
+      <a href="../2024_event.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Information</a>
+      <a href="../2024_schedule.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Schedule</a>
+      <a href="../code_conduct.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Code of Conduct</a>
+    </nav>
 
     <div class="container">
       <section id="main_content">

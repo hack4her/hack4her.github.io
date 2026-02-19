@@ -50,7 +50,8 @@ I identify as a man / I identify as non-binary. Can I still participate?
 > Yes, though not as a Hacker. Only women are eligible to participate in the hackathon portion. You can participate on Friday, where we'll be hosting a bunch of cool workshops and a networking event with several companies.
 
 I am a trans woman. Am I welcome at this event?
-> Yes, both as a Hacker, and as a workshop attendee. Since the first edition of the event, our stance has always been that trans women are women. You are welcome to participate!
+> Yes, both as a Hacker, and as a workshop attendee. Since the first edition of the event, our stance has always been that trans women are women. You are welcome to participate
+
 <!--
 [Photos](https://statiephotography.pixieset.com/hack4her/)
 

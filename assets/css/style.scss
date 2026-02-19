@@ -2,21 +2,14 @@
 ---
 
 @import 'jekyll-theme-hacker';
-
-body, html {
+* {
   background-color: #FAF7F2 !important;
   color: #2d2d2d !important;
 }
 
-.page-header, header, .main-content, section, div, main,
-.outer, .inner, wrapper, .site-header, .site-body,
-.page-wrapper, .content-wrapper {
+body, header, .container, .hero-section {
   background-color: #FAF7F2 !important;
-  color: #2d2d2d !important;
-}
-
-p, li, td, th, span {
-  color: #2d2d2d !important;
+  background-image: none !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,4 +27,8 @@ a:hover {
 pre, code {
   background-color: #ede8e0 !important;
   color: #2d2d2d !important;
+}
+
+img {
+  background-color: transparent !important;
 }

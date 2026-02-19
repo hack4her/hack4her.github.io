@@ -10,17 +10,23 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
 # Meet the 2026 TU/e Team
 <div style="display: flex !important; gap: 80px; align-items: flex-start;">
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 0.95em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
     <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg" alt="Ymke Tolboom" style="width: 200px; height: 250px; object-fit: cover;">
     <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Ymke Tolboom</p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 0.95em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
     <img src="assets/images/Foto Mila H4H.jpg" alt="Mila Ayazyan" style="width: 200px; height: 250px; object-fit: cover;">
     <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Mila Ayazyan</p>
   </div>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Scientific Lead</p>
+    <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: 250px; object-fit: cover;">
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Katja Tuma</p>
+  </div>
 </div>
 
+<!--
 ## Scientific Lead: [Katja Tuma](https://katjatuma.github.io/)
 
 <div style="display: flex; align-items: flex-start;">
@@ -28,7 +34,7 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
   <div>
   <p> Katja Tuma (PhD, 2021) is an Assistant Professor at Eindhoven University of Technology within the SET cluster. She obtained her Ph.D. in Computer Science and Engineering from the University of Gothenburg. She is co-founder and coordinator of Hack4Her, the national women-focused hackathon, co-founder and coordinator of the national working group on AI for security and security for AI, and co-organizer of the international workshop DeMeSSAI. Her research is at the intersection of software engineering, security and AI, and risk analysis.</p> </div>
 </div>
-
+-->
 
 <!--
 ## Advisory Board: [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) and [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)

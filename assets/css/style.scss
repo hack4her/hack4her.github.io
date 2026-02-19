@@ -32,3 +32,18 @@ pre, code {
 img {
   background-color: transparent !important;
 }
+/* Fix list bullets - change color and use dots instead of >> */
+ul li, ol li {
+  list-style-type: disc !important;
+  color: #BDE0FE !important;
+}
+
+ul, ol {
+  list-style-type: disc !important;
+}
+
+/* Remove the glow/shadow from links */
+a, a:visited, a:hover, a:focus {
+  text-shadow: none !important;
+  box-shadow: none !important;
+}

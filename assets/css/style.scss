@@ -8,7 +8,9 @@ body, html {
   color: #2d2d2d !important;
 }
 
-.page-header, header, .main-content, section, div, main {
+.page-header, header, .main-content, section, div, main,
+.outer, .inner, wrapper, .site-header, .site-body,
+.page-wrapper, .content-wrapper {
   background-color: #FAF7F2 !important;
   color: #2d2d2d !important;
 }

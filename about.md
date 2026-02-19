@@ -21,16 +21,16 @@ Hack4Her was founded to create a supportive and inclusive tech community. Its ev
 Hack4Her is dedicated to fostering a women-centered space in the technology sector. Our mission revolves around providing women with increased opportunities for hackathon participation and project experience, educating all individuals on the importance of women-centered technology and inclusivity, promoting diversity within the tech community, and facilitating connections among people from various backgrounds.
 
 # Meet Our Team
-<div class="team-flex">
-  <div class="team-member">
-    <p class="team-role">Project Lead</p>
-    <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg" alt="Ymke Tolboom">
-    <p class="team-name">Ymke Tolboom</p>
+<div style="display: flex !important; gap: 80px; align-items: flex-start;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 0.95em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
+    <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg" alt="Ymke Tolboom" style="width: 200px; height: 250px; object-fit: cover;">
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Ymke Tolboom</p>
   </div>
-  <div class="team-member">
-    <p class="team-role">Challenges Lead</p>
-    <img src="assets/images/Foto Mila H4H.jpg" alt="Mila Ayazyan">
-    <p class="team-name">Mila Ayazyan</p>
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
+    <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 0.95em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
+    <img src="assets/images/Foto Mila H4H.jpg" alt="Mila Ayazyan" style="width: 200px; height: 250px; object-fit: cover;">
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Mila Ayazyan</p>
   </div>
 </div>
 

@@ -79,7 +79,6 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 ## Sponsors and Partners
 
 We want to express our gratitude to the following sponsors for their generous support:
-## Our Sponsors
 
 <div style="display: flex !important; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
 

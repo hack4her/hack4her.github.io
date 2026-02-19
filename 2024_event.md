@@ -1,11 +1,33 @@
+# Information
+Everything you need to know about Hack4Her
 
-# 🌟The 5th Annual Hack4Her Event June 12-14, 2026 at TU/e🌟
+## Event Details
 
-We are planning the 5th Annual Hack4Her, June 12-14, 2026, at TU/e! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking.
+Our 5th Annual Hack4Her event is taking place on June 12-14 2026 at the TU Eindhoven in the Auditorium builing.
 
-While all genders are welcome, only women are eligible to compete in the hackathon portion of the event.
+More information will follow soon!
 
-Stay tuned for more updates.
+## Free travel policy 
+We are committed to making the hackathon accessible and ensuring a positive experience for all participants. That's why in the past, we have refunded travel costs to Hackers coming from outside the area of the event during the hackathon days. This would not be possible without the support of the universities that the Hackers (you!) come from. To get a better chance at receiving free transport, contact your university to ask whether they would be interested in sponsoring our event!
+
+### Eligibility Criteria
+- Be eligible to participate in our hackathon
+- Be signed up to participate in our hackathon
+- Be present on Friday, Saturday and Sunday
+- Be traveling from outside of Eindhoven to our event
+- Have a travel time to Eindhoven central statuin of an hour or more (via public transport route)
+- Reconfirm within a timely manner (72 hours)
+
+### Note:
+- Parking will only be covered on the TU/e campus
+- Carpooling is encouraged and may include gas compensation
+- Group train tickets increase your chances of receiving full compensation
+- While we aim to cover as much as possible, we cannot guarantee full compensation. We will inform you promptly before the event regarding the coverage of your costs.
+
+## Code of conduct
+All participants must adhere to our [code of conduct](/assets/imagesconduct.png) throughout the event. 
+
+## Frequently Asked Questions
 
 <!--
 [Photos](https://statiephotography.pixieset.com/hack4her/)

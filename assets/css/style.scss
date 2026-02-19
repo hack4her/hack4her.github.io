@@ -2,19 +2,34 @@
 ---
 
 @import 'jekyll-theme-hacker';
-body {
+
+body, html {
   background-color: #FAF7F2 !important;
   color: #2d2d2d !important;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #BDE0FE !important;
+.page-header, header, .main-content, section, div, main {
+  background-color: #FAF7F2 !important;
+  color: #2d2d2d !important;
 }
 
-a {
+p, li, td, th, span {
+  color: #2d2d2d !important;
+}
+
+h1, h2, h3, h4, h5, h6 {
   color: #E7C6FF !important;
 }
 
-a:hover {
+a {
   color: #BDE0FE !important;
+}
+
+a:hover {
+  color: #E7C6FF !important;
+}
+
+pre, code {
+  background-color: #ede8e0 !important;
+  color: #2d2d2d !important;
 }

@@ -22,7 +22,7 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1.2em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Scientific Lead</p>
     <img src="assets/images/katja-cr-s.jpeg" alt="Katja Tuma" style="width: 200px; height: 250px; object-fit: cover;">
-    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Katja Tuma</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">[Katja Tuma](https://katjatuma.github.io/)</p>
   </div>
 </div>
 

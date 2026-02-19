@@ -12,6 +12,13 @@ We are planning the 5th Annual Hack4Her at VU Amsterdam and the first edition of
 <br><br>
 Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place!
 
+### Event Highlights
+- Open to all students in the Netherlands
+- Plenty of opportunities to learn and expand your skillset including coding, workshops and lectures
+- While all genders are welcome, only women are eligible to compete in the hackathon
+- Free food and drinks provided
+- An awesome networking event!
+
 <!-- Upcoming Event Highlight -->
 <!--# 2024 Event
 ## 🌟 4th Annual Hack4Her Event 🌟

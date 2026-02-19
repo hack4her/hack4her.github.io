@@ -19,15 +19,22 @@ Hack4Her was founded to create a supportive and inclusive tech community. Its ev
 Hack4Her is dedicated to fostering a women-centered space in the technology sector. Our mission revolves around providing women with increased opportunities for hackathon participation and project experience, educating all individuals on the importance of women-centered technology and inclusivity, promoting diversity within the tech community, and facilitating connections among people from various backgrounds.
 
 # Meet Our Team
+<div style="display: flex; gap: 80px; align-items: flex-start;">
 
-## Project Lead: Ymke Tolboom
-<div style="display: flex; align-items: flex-start;">
-  <img src="assets/images/2024-06-17 11.31.32.jpg" alt="Ymke Tolboom" style="width: 200px; height: auto; margin-right: 20px;">
-</div>
+  <div style="flex: 1;">
+    <h2>Project Lead: Ymke Tolboom</h2>
+    <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg"
+         alt="Ymke Tolboom"
+         style="width: 200px; height: auto;">
+  </div>
 
-## Challenges Lead: Mila Ayazyan
-<div style="display: flex; align-items: flex-start;">
-  <img src="assets/images/2024-06-17 11.31.32.jpg" alt="Mila Ayazyan" style="width: 200px; height: auto; margin-right: 20px;">
+  <div style="flex: 1;">
+    <h2>Challenges Lead: Mila Ayazyan</h2>
+    <img src="assets/images/Foto Mila H4H.jpg"
+         alt="Mila Ayazyan"
+         style="width: 200px; height: auto;">
+  </div>
+
 </div>
 
 ## Scientific Lead: [Katja Tuma](https://katjatuma.github.io/)

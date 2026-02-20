@@ -86,8 +86,8 @@ We want to express our gratitude to the following sponsors for their generous su
     <img src="assets/images/Sponsor logo's/Logo 4TU.NIRICT.png" alt="4TU NIRICT" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
 
-  <a href="https://www.tudelft.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/Sponsor logo's/Logo TU Delft.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  <a /sponsorship target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/could be you.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
 <!--
   <a href="https://www.vu.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">

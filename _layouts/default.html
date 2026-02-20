@@ -10,27 +10,36 @@
   </head>
   <body>
     <header>
-      <div class="container">
-        <!-- Hero Section -->
-        <div class="hero-section" style="text-align: center;">
-          <div style="background-color: #E7C6FF: flex; align-items: center; justify-content: center;">
-            <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-            <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 200px; height: auto;"/>
-            <h2 style="font-size: 1.5em; font-weight: bold; color: #2d2d2d !important; letter-spacing: 4px; margin: 0;">CELEBRATING WOMEN IN TECH</h2>
-            </div>
-        </div>
+  <div class="container">
+    <div style="display: flex; align-items: center; justify-content: space-between; padding: 10px 0;">
+      
+      <!-- Logo and tagline -->
+      <div style="display: flex; align-items: center; gap: 20px;">
+        <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 150px; height: auto;"/>
+        <h2 style="font-size: 1.2em; font-weight: bold; color: #2d2d2d !important; letter-spacing: 4px; margin: 0;">CELEBRATING WOMEN IN TECH</h2>
       </div>
-    </header>
 
-    <!-- Navigation Bar -->
-    <nav style="background-color: #E7C6FF; padding: 12px 0; text-align: center; width: 100%;">
-      <a href="/" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Home</a>
-      <a href="../about.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">About Us</a>
-      <a href="../2026_information.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Information</a>
-      <a href="../2026_schedule.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Schedule</a>
-      <a href="../sponsorship.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Sponsor</a>
-      <a href="../code_conduct.html" style="color: #2d2d2d; text-decoration: none; margin: 0 20px; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Code of Conduct</a>
-    </nav>
+      <!-- Navigation links -->
+      <nav style="display: flex; gap: 25px; align-items: center;">
+        <a href="/" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Home</a>
+        <a href="../about.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">About Us</a>
+        <a href="../2024_event.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Information</a>
+        <a href="../2024_schedule.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Schedule</a>
+        <a href="../sponsor.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Sponsor</a>
+        <a href="../code_conduct.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold;">Code of Conduct</a>
+      </nav>
+
+    </div>
+  </div>
+</header>
+
+<div style="margin-top: 40px;">
+  <div class="container">
+    <section id="main_content">
+      {{ content }}
+    </section>
+  </div>
+</div>
 
     <div class="container">
       <section id="main_content">

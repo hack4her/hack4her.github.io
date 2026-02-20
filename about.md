@@ -12,12 +12,12 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Project Lead</p>
     <img src="assets/images/2025-06-14 15.49.41 - kopie.jpg" alt="Ymke Tolboom" style="width: 200px; height: 250px; object-fit: cover;">
-    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Ymke Tolboom</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;"><a href="https://nl.linkedin.com/in/ymke-tolboom" target="_blank">Ymke Tolboom</a></p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Challenges Lead</p>
     <img src="assets/images/Foto Mila H4H.jpg" alt="Mila Ayazyan" style="width: 200px; height: 250px; object-fit: cover;">
-    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;">Mila Ayazyan</p>
+    <p style="font-family: Arial, sans-serif; font-weight: 300; font-size: 0.95em; letter-spacing: 1px; margin-top: 8px; width: 200px;"><a href="https://nl.linkedin.com/in/mila-ayazyan" target="_blank">Mila Ayazyan</a></p>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; align-items: center; text-align: center;">
     <p style="font-family: Arial, sans-serif; font-weight: 600; font-size: 1em; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 8px; width: 200px;">Scientific Lead</p>
@@ -40,6 +40,7 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
 ## Advisory Board: 
 * [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) 
 * [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
+
 <!--
 ## Project Lead: [Anca Strulea](https://www.linkedin.com/in/anca-strulea/)
 

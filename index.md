@@ -5,12 +5,13 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 ---
 
 <img src="/assets/images/banner.jpg" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
-Hack4Her is the only female-focused student hackathon in the Netherlands aiming to bridge the gender gap in technology. Our mission revolves around providing women with increased opportunities for hackathon participation and project experience, educating all individuals on the importance of women-centered technology and inclusivity, promoting diversity within the tech community, and facilitating connections among people from various backgrounds.
-
 <h2 style="font-size: 1.2em;">🌟 5th Annual Hack4Her Event going national: Amsterdam and Eindhoven 🌟</h2>
 We are planning the 5th Annual Hack4Her at VU Amsterdam and the first edition of Hack4Her at TU Eindhoven! Both events take place from June 12-14 2026. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. 
 <br><br>
 Information about the event in Amsterdam is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place!
+
+## About
+Hack4Her is the only female-focused student hackathon in the Netherlands aiming to bridge the gender gap in technology. Our mission revolves around providing women with increased opportunities for hackathon participation and project experience, educating all individuals on the importance of women-centered technology and inclusivity, promoting diversity within the tech community, and facilitating connections among people from various backgrounds.
 
 ### Event Highlights
 - Open to all students in the Netherlands
@@ -18,6 +19,9 @@ Information about the event in Amsterdam is hosted on [this website](https://hac
 - While all genders are welcome, only women are eligible to compete in the hackathon
 - Free food and drinks provided
 - An awesome networking event!
+
+## Frequently Asked Questions
+Check out all FAQ's about the event [here](/contact)!
 
 <!-- Upcoming Event Highlight -->
 <!--# 2024 Event

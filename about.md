@@ -1,8 +1,6 @@
-<!--
 ---
 layout: default
 ---
--->
 # Our Story
 <!--![Image of past event](assets/images/history.jpg)-->
 The story began in October 2021, when Isabella Venancia Gardner (Bella) and Mylène Brown-Coleman founded the first Diversity Committee within the BETA student association, STORM, at VU Amsterdam. In cooperation with Dr. Katja Tuma, the idea of organizing a women-focused hackathon came as a response to encountering racist and sexist comments among classmates and identifying a lack of clear channels for reporting and seeking assistance. Hack4Her was founded to create a supportive and inclusive tech community. Its evolution reflects a commitment to these principles, with each event building upon the last to advance diversity in technology.
@@ -38,9 +36,11 @@ The first Hack4Her took place in June 2022, at VU Amsterdam. The event was women
 </div>
 -->
 
-<!--
-## Advisory Board: [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) and [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
 
+## Advisory Board: 
+* [Isabella Venancia Gardner (Bella)](https://www.linkedin.com/in/ivgardner) 
+* [Mylène Brown-Coleman](https://www.linkedin.com/in/mylène)
+<!--
 ## Project Lead: [Anca Strulea](https://www.linkedin.com/in/anca-strulea/)
 
 ## Public Relations Team Lead: [Lieve Jilesen](https://www.linkedin.com/in/lieve-jilesen/)

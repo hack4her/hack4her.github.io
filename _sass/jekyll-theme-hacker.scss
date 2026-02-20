@@ -5,7 +5,7 @@ $body-background: #faf9f6 !default;
 $body-foreground: #2d2d2d !default;
 $header: #E7C6FF !default;
 $blockquote-color: #2d2d2d !default;
-$blockquote-border: #BDE0FE !default;
+$blockquote-border: #2d2d2d !default;
 $container-max-width: 1000px;
 
 @mixin media-max-width($max-width) {
@@ -76,7 +76,7 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   letter-spacing: 3px
-  color: #000000;
+  color: #2d2d2d;
 }
 
 #downloads .btn {
@@ -126,7 +126,7 @@ dt {
 ul li {
   list-style-image: none;
   list-style-type: disc;
-  color: #BDE0FE;
+  color: #2d2d2d;
 }
 
 blockquote {
@@ -149,7 +149,7 @@ pre {
 
 code.highlighter-rouge {
   background: #ede8e0;
-  border: 1px solid #BDE0FE;
+  border: 1px solid #2d2d2d;
   padding: 0px 3px;
   margin: 0px -3px;
   color: #E7C6FF;
@@ -163,7 +163,7 @@ table {
 
 th {
   text-align: left;
-  border-bottom: 1px dashed #BDE0FE;
+  border-bottom: 1px dashed #2d2d2d;
   padding: 5px 10px;
 }
 
@@ -174,8 +174,8 @@ td {
 hr {
   height: 0;
   border: 0;
-  border-bottom: 1px dashed #BDE0FE;
-  color: #BDE0FE;
+  border-bottom: 1px dashed #2d2d2d;
+  color: #2d2d2d;
 }
 
 .btn {
@@ -200,7 +200,7 @@ hr {
 }
 
 a {
-  color: #BDE0FE;
+  color: #2d2d2d;
   text-shadow: none;
 }
 

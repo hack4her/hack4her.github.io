@@ -88,55 +88,25 @@ We want to express our gratitude to the following sponsors for their generous su
   <a href="https://www.4tu.nl/nirict/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/Logo 4TU.NIRICT.png" alt="4TU NIRICT" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
+    <a href="https://www.adyen.com/?utm_source=Google&utm_medium=Online+Advertising&utm_campaign=2026_04_OA_NL_SEARCH-BRANDEXACT-BRANDEXACT_GSN_DECI_CON_SEARCH_BRAND_[NL]&gad_source=1&gad_campaignid=23747256877&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV8-ida1HKPzuzGSLNlGXzwyapUOxTrtlPx9Pb027JByOotQSsEU0lYaAsT9EALw_wcB" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Adyen.png" alt="Adyen" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+  <a href="https://aws.amazon.com/free/?trk=0c4adc9c-0953-4f86-b346-429092bc1ce2&sc_channel=ps&ef_id=Cj0KCQjw77bPBhC_ARIsAGAjjV8XU6uOB0dmhm-tPpxbYpKOH74is7LtKt3-VW_1KJiBbrta7fE7z9oaArsaEALw_wcB:G:s&s_kwcid=AL!4422!3!798550574374!e!!g!!aws!23606216597!190643555221&gad_campaignid=23606216597&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV8XU6uOB0dmhm-tPpxbYpKOH74is7LtKt3-VW_1KJiBbrta7fE7z9oaArsaEALw_wcB" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Amazon.png" alt="Amazon" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+  <a href="https://www.tudelft.nl/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/TU Delft.png" alt="TU Delft" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+  <a href="https://www.tilburguniversity.edu/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Tilburg University.png" alt="Tilburg University" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+  <a href="https://www.universiteitleiden.nl/en" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Universiteit Leiden.png" alt="Universiteit Leiden" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
 
   <a href="#sponsorship" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/could be you.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
-<!--
-  <a href="https://www.vu.nl" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/sponsor3.png" alt="VU Amsterdam" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
--->
-</div>
-
-<!-- Sponsors and Partners -->
-<!--
-<div style="background: white; padding: 20px; display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; text-align: center; width: 100%;">
-  <a href="https://www.vu.nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://assets.vu.nl/d8b6f1f5-816c-005b-1dc1-e363dd7ce9a5/f421a17a-498d-48e7-bae6-ba6fae122d72/VU_logo_RGB-01.png" alt="VU Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://www.uva.nl/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/uva.jpeg" alt="UvA Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://www.booking.com/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Booking.com_logo.svg/2560px-Booking.com_logo.svg.png" alt="Booking.com Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://networkinstitute.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="https://www.ivanomalavolta.com/wp-content/uploads/2021/08/NI_logo-1024x513.png" alt="Network Institute Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-
-  <a href="https://ivi.fnwi.uva.nl/ellis/" style="display: inline-block; width: 350px; height: 50px; margin: 5px;">
-    <img src="assets/images/AMSTERDAM.jpg" alt="ELLIS Unit Amsterdam Logo" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-
-  <a href="https://duckdb.org/" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/duckdb.svg" alt="duck db" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://www.servicenow.com/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
-    <img src="assets/images/SN.jpg" alt="service now" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://www.postcodeloterij.nl/" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
-    <img src="assets/images/postcode_loterij.png" alt="postcode loterij" style="max-width: 100% max-height: 100%; object-fit: contain;">
-  </a>
-  <a href="https://www.tilburguniversity.edu/nl" style="display: inline-block; width: 200px; height: 100px; margin: 10px;">
-    <img src="assets/images/tilburg1.png" alt="Tilburg" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-   <a href="https://www.tilburguniversity.edu/about/schools/tshd/departments/dca" style="display: inline-block; width: 200px; height: 100px; margin: 5px;">
-    <img src="assets/images/CSAITiU.png" alt="Tilburg CSA" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-</div>
-
--->
 
 
 Thank you for making this event possible! 

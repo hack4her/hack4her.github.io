@@ -33,7 +33,7 @@
       display: flex;
       justify-content: center;
       gap: 0;
-      background: rgba(255,255,255,0.25);
+      background: #faf9f6;
       border-radius: 50px;
       padding: 5px;
       max-width: 420px;
@@ -48,20 +48,20 @@
       font-size: 1rem;
       font-weight: 700;
       cursor: pointer;
-      color: rgba(255,255,255,0.85);
+      color:  #faf9f6;
       border: none;
       background: transparent;
       transition: background 0.2s, color 0.2s;
     }
 
     .day-tab.active {
-      background: #f9a8d4;
-      color: #7c3aed;
+      background: #E7C6FF;
+      color: #2d2d2d;
     }
 
     .day-tab:hover:not(.active) {
-      background: rgba(255,255,255,0.15);
-      color: #fff;
+      background: #E7C6FF;
+      color: #2d2d2d;
     }
 
     .day-panel { display: none; }
@@ -79,14 +79,14 @@
     }
 
     .day-header p {
-      color: rgba(255,255,255,0.8);
+      color: #E7C6FF;
       font-size: 0.95rem;
       margin-top: 4px;
     }
 
     .divider {
       border: none;
-      border-top: 1px solid rgba(255,255,255,0.4);
+      border-top: 1px solid #E7C6FF;
       margin: 1rem 0 1.5rem;
     }
 

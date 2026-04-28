@@ -73,7 +73,7 @@
     }
 
     .day-header h2 {
-      color: #fff;
+      color: ##2d2d2d;
       font-size: 1.5rem;
       font-weight: 800;
     }
@@ -179,7 +179,7 @@
   <!-- ===================== FRIDAY ===================== -->
   <div id="friday" class="day-panel active">
     <div class="day-header">
-      <h2>Friday, June 13</h2>
+      <h2>Friday, June 12</h2>
       <p>Workshops &amp; Networking</p>
     </div>
     <hr class="divider" />

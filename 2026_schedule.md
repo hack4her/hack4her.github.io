@@ -9,7 +9,7 @@
 
     body {
       font-family: 'Nunito', sans-serif;
-      background: #f9f9f9;
+      background:  #E7C6FF;
     }
 
   .schedule-section {

@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -27,7 +26,7 @@
       font-size: 2.2rem;
       font-weight: 800;
       margin-bottom: 2rem;
-      letter-spacing: -0.5px;
+      letter-spacing: 0.8px;
     }
 
     .day-tabs {

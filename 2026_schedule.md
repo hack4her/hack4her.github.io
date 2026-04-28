@@ -1,5 +1,3 @@
-# Event schedule
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -14,11 +12,13 @@
       background: #f9f9f9;
     }
 
-    .schedule-section {
-      background: linear-gradient(160deg, #4ecdc4 0%, #45b7b0 60%, #3aa8a1 100%);
-      padding: 3rem 1.5rem 4rem;
-      min-height: 100vh;
-    }
+  .schedule-section {
+    background: linear-gradient(160deg, #4ecdc4 0%, #45b7b0 60%, #3aa8a1 100%);
+    padding: 3rem 1.5rem 4rem;
+    min-height: 100vh;
+    border-radius: 24px;        /* ← add this */
+    margin: 1.5rem;             /* ← optional: adds space around it */
+  }
 
     h1 {
       text-align: center;

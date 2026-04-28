@@ -22,11 +22,11 @@
 
     h1 {
       text-align: center;
-      color: #fff;
+      color: #2d2d2d;
       font-size: 2.2rem;
       font-weight: 800;
       margin-bottom: 2rem;
-      letter-spacing: -0.5px;
+      letter-spacing: 0.5px;
     }
 
     .day-tabs {
@@ -126,7 +126,7 @@
     }
 
     .event-title {
-      color: #fff;
+      color: #2d2d2d;
       font-size: 1rem;
       font-weight: 800;
     }

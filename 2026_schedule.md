@@ -179,70 +179,70 @@
   <!-- ===================== FRIDAY ===================== -->
   <div id="friday" class="day-panel active">
     <div class="day-header">
-      <h2>Friday, June 13</h2>
-      <p>Workshops &amp; Networking</p>
+      <h2>Friday, June 12</h2>
+      <p>Opening &amp; Networking</p>
     </div>
     <hr class="divider" />
     <div class="schedule-list">
 
       <div class="event-card">
-        <span class="event-time">13:45 – 14:00</span>
+        <span class="event-time">17:30 – 18:00</span>
         <div class="event-info">
           <div class="event-title">Arrival &amp; Check-In</div>
-          <div class="event-location">Vrije Universiteit Amsterdam – NU Building Ground Floor</div>
+          <div class="event-location">TU/e campus – Neuron building</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">14:00 – 14:15</span>
+        <span class="event-time">18:00 – 18:15</span>
         <div class="event-info">
           <div class="event-title">Introduction</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">14:15 – 15:00</span>
+        <span class="event-time">18:15 – 18.30</span>
         <div class="event-info">
           <div class="event-title">A word from our sponsors!</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge pink">Sponsor</span>
       </div>
 
       <div class="event-card">
-        <span class="event-time">15:00 – 15:30</span>
+        <span class="event-time">18:30 – 19.15</span>
         <div class="event-info">
           <div class="event-title">Keynote</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge">Keynote</span>
       </div>
 
       <div class="event-card">
-        <span class="event-time">15:30 – 17:00</span>
+        <span class="event-time">19:15 – 20.15</span>
         <div class="event-info">
-          <div class="event-title">Workshops Session 1</div>
-          <div class="event-location">Various rooms</div>
-        </div>
-      </div>
-
-      <div class="event-card">
-        <span class="event-time">17:00 – 18:30</span>
-        <div class="event-info">
-          <div class="event-title">Networking &amp; Dinner</div>
-          <div class="event-location">NU Building Foyer</div>
+          <div class="event-title">Dinner</div>
+          <div class="event-location">Neuronr</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
 
+    <div class="event-card">
+        <span class="event-time">20:15 – 21.30</span>
+        <div class="event-info">
+          <div class="event-title">Networking</div>
+          <div class="event-location">Neuronr</div>
+        </div>
+       <span class="event-badge pink">Sponsor</span>
+      </div>
     </div>
   </div>
 
   <!-- ===================== SATURDAY ===================== -->
   <div id="saturday" class="day-panel">
     <div class="day-header">
-      <h2>Saturday, June 14</h2>
+      <h2>Saturday, June 13</h2>
       <p>Hacking Begins</p>
     </div>
     <hr class="divider" />
@@ -251,44 +251,76 @@
       <div class="event-card">
         <span class="event-time">09:00 – 09:30</span>
         <div class="event-info">
-          <div class="event-title">Hacking Kick-Off</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-title">Arrival and breakfast</div>
+          <div class="event-location">Neuron</div>
         </div>
-        <span class="event-badge">Main Stage</span>
+        <span class="event-badge yellow">Food</span>
       </div>
 
       <div class="event-card">
-        <span class="event-time">09:30 – 12:30</span>
+        <span class="event-time">09:30 – 9:45</span>
         <div class="event-info">
-          <div class="event-title">Hacking + Morning Workshops</div>
-          <div class="event-location">Various rooms</div>
+          <div class="event-title">Hacking Kick-Off s</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">12:30 – 13:30</span>
+        <span class="event-time">09:45 – 10:45</span>
+        <div class="event-info">
+          <div class="event-title">Challenge specific workshop</div>
+          <div class="event-location">Neuron</div>
+        </div>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">11:00 – 13:30</span>
+        <div class="event-info">
+          <div class="event-title">Hacking</div>
+          <div class="event-location">Various rooms in Neuron</div>
+        </div>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">13:30 – 14:30</span>
         <div class="event-info">
           <div class="event-title">Lunch Break</div>
-          <div class="event-location">NU Building Foyer</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
 
       <div class="event-card">
-        <span class="event-time">13:30 – 18:00</span>
+        <span class="event-time">14:30 – 15:30</span>
         <div class="event-info">
-          <div class="event-title">Hacking + Afternoon Workshops</div>
-          <div class="event-location">Various rooms</div>
+          <div class="event-title">Keynote</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">18:00 – 19:00</span>
+        <span class="event-time">15:30 – 19:00</span>
+        <div class="event-info">
+          <div class="event-title">Hacking</div>
+          <div class="event-location">Neuron</div>
+        </div>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">19:00 – 20:00</span>
         <div class="event-info">
           <div class="event-title">Dinner</div>
-          <div class="event-location">NU Building Foyer</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge yellow">Food</span>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">20:00 – 21:30</span>
+        <div class="event-info">
+          <div class="event-title">Hacking</div>
+          <div class="event-location">Neuron</div>
+        </div>
       </div>
 
     </div>
@@ -297,22 +329,39 @@
   <!-- ===================== SUNDAY ===================== -->
   <div id="sunday" class="day-panel">
     <div class="day-header">
-      <h2>Sunday, June 15</h2>
+      <h2>Sunday, June 14</h2>
       <p>Submissions &amp; Awards</p>
     </div>
     <hr class="divider" />
     <div class="schedule-list">
 
       <div class="event-card">
-        <span class="event-time">09:00 – 11:00</span>
+        <span class="event-time">09:00 – 09:30</span>
         <div class="event-info">
-          <div class="event-title">Final Hacking Sprint</div>
-          <div class="event-location">Hacking Room</div>
+          <div class="event-title">Arrival &amp; Breakfast </div>
+          <div class="event-location">Neuron</div>
+           <span class="event-badge yellow">Food</span>
+        </div>
+      </div>
+
+       <div class="event-card">
+        <span class="event-time">09:30 – 9:45</span>
+        <div class="event-info">
+          <div class="event-title">Hacking Kick-Off s</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">11:00 – 11:30</span>
+        <span class="event-time">9:45 – 12:30</span>
+        <div class="event-info">
+          <div class="event-title">Hacking</div>
+          <div class="event-location">Various rooms in Neuron</div>
+        </div>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">12:30 – 13:00</span>
         <div class="event-info">
           <div class="event-title">Submissions Deadline</div>
           <div class="event-location">Online</div>
@@ -321,26 +370,35 @@
       </div>
 
       <div class="event-card">
-        <span class="event-time">11:30 – 13:00</span>
+        <span class="event-time">13:00 – 14:00</span>
         <div class="event-info">
-          <div class="event-title">Project Presentations</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-title">Lunch Break</div>
+          <div class="event-location">Neuron</div>
+        </div>
+        <span class="event-badge yellow">Food</span>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">14:00 – 15:00</span>
+        <div class="event-info">
+          <div class="event-title">Prepare project Presentations</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">13:00 – 13:30</span>
+        <span class="event-time">15:00 – 16:00</span>
         <div class="event-info">
           <div class="event-title">Judging &amp; Deliberation</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
-        <span class="event-time">13:30 – 14:30</span>
+        <span class="event-time">16:00 – 17:00</span>
         <div class="event-info">
           <div class="event-title">Awards Ceremony &amp; Closing</div>
-          <div class="event-location">NU-Theatre 1</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge">Awards</span>
       </div>

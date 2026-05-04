@@ -338,11 +338,10 @@
       <div class="event-card">
         <span class="event-time">09:00 – 09:30</span>
         <div class="event-info">
-          <div class="event-title">Arrival &amp; Breakfast </div>
+          <div class="event-title">Arrival and Breakfast</div>
           <div class="event-location">Neuron</div>
-          </div>
-        <span class="event-badge yellow">Food</span>
         </div>
+        <span class="event-badge yellow">Food</span>
       </div>
 
        <div class="event-card">

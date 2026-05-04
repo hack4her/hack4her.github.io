@@ -26,7 +26,7 @@
       font-size: 2.2rem;
       font-weight: 800;
       margin-bottom: 2rem;
-      letter-spacing: 0.8px;
+      letter-spacing: 1px;
     }
 
     .day-tabs {
@@ -75,7 +75,8 @@
     .day-header h2 {
       color: #000;
       font-size: 1.5rem;
-      font-weight: 800;
+      font-weight: 600;
+      letter-spacing: 1px;
     }
 
     .day-header p {
@@ -222,7 +223,7 @@
         <span class="event-time">19:15 – 20.15</span>
         <div class="event-info">
           <div class="event-title">Dinner</div>
-          <div class="event-location">Neuronr</div>
+          <div class="event-location">Neuron</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -259,7 +260,7 @@
       <div class="event-card">
         <span class="event-time">09:30 – 9:45</span>
         <div class="event-info">
-          <div class="event-title">Hacking Kick-Off s</div>
+          <div class="event-title">Hacking Kick-Off</div>
           <div class="event-location">Neuron</div>
         </div>
       </div>
@@ -339,14 +340,15 @@
         <div class="event-info">
           <div class="event-title">Arrival &amp; Breakfast </div>
           <div class="event-location">Neuron</div>
-           <span class="event-badge yellow">Food</span>
+          </div>
+        <span class="event-badge yellow">Food</span>
         </div>
       </div>
 
        <div class="event-card">
         <span class="event-time">09:30 – 9:45</span>
         <div class="event-info">
-          <div class="event-title">Hacking Kick-Off s</div>
+          <div class="event-title">Day Kick-Off</div>
           <div class="event-location">Neuron</div>
         </div>
       </div>
@@ -380,7 +382,7 @@
       <div class="event-card">
         <span class="event-time">14:00 – 15:00</span>
         <div class="event-info">
-          <div class="event-title">Prepare project Presentations</div>
+          <div class="event-title">Workshop</div>
           <div class="event-location">Neuron</div>
         </div>
       </div>
@@ -388,13 +390,21 @@
       <div class="event-card">
         <span class="event-time">15:00 – 16:00</span>
         <div class="event-info">
-          <div class="event-title">Judging &amp; Deliberation</div>
+          <div class="event-title">Prepare project Presentations</div>
           <div class="event-location">Neuron</div>
         </div>
       </div>
 
       <div class="event-card">
         <span class="event-time">16:00 – 17:00</span>
+        <div class="event-info">
+          <div class="event-title">Judging &amp; Deliberation</div>
+          <div class="event-location">Neuron</div>
+        </div>
+      </div>
+
+      <div class="event-card">
+        <span class="event-time">17:00 – 18:00</span>
         <div class="event-info">
           <div class="event-title">Awards Ceremony &amp; Closing</div>
           <div class="event-location">Neuron</div>

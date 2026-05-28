@@ -105,8 +105,7 @@ We want to express our gratitude to the following sponsors for their generous su
     <img src="assets/images/Sponsor logo's/could be you.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
 
-
+<div>
 Thank you for making this event possible! 
-
-If you are interested in learning more about Hack4Her Sponsorship click [here](/sponsorship) or contact us [here](mailto:info.hack4her.tue@gmail.com).
-
+If you are interested in learning more about Hack4Her Sponsorship contact us [here](mailto:info.hack4her.tue@gmail.com).
+<div>

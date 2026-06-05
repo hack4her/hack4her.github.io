@@ -91,11 +91,17 @@ We want to express our gratitude to the following sponsors for their generous su
     <a href="https://www.adyen.com/?utm_source=Google&utm_medium=Online+Advertising&utm_campaign=2026_04_OA_NL_SEARCH-BRANDEXACT-BRANDEXACT_GSN_DECI_CON_SEARCH_BRAND_[NL]&gad_source=1&gad_campaignid=23747256877&gclid=Cj0KCQjw77bPBhC_ARIsAGAjjV8-ida1HKPzuzGSLNlGXzwyapUOxTrtlPx9Pb027JByOotQSsEU0lYaAsT9EALw_wcB" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/Adyen.png" alt="Adyen" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
+  <a href="https://www.databricks.com/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Booking.Com-logo.png" alt="DataBricks" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
+  <a href="https://careers.booking.com/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/Databricks.png" alt="Booking.com" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
   <a href="https://www.tudelft.nl/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/TU Delft.png" alt="TU Delft" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.tilburguniversity.edu/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/Sponsor logo's/Tilburg University.png" alt="Tilburg University" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="assets/images/Sponsor logo's/Logo research center TiU - new.png" alt="Tilburg University" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.universiteitleiden.nl/en" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/Universiteit Leiden.png" alt="Universiteit Leiden" style="max-width: 100%; max-height: 100%; object-fit: contain;">

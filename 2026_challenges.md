@@ -8,26 +8,21 @@ There is 1 winning team per challenge. Each person on that team gets a prize (th
 
 ## Hacker Rooms
 
-- TU Delft: Neuron _(specific room to be announced)_
-- Adyen: Neuron _(specific room to be announced)_
-- DataBricks: Neuron _(specific room to be announced)_
-- Booking.com: Neuron _(specific room to be announced)_
+- TU Delft: Neuron 0.124
+- Adyen: Neuron 0.122
+- DataBricks: Neuron 0.118
+- Booking.com: Neuron 0.120
 
+## Prizes
+The prizes per challenge will be announced during the event itself. Among the przes there are giftcards, a subscription to an AI tool, a guaranteed spot at a shadowing day and a lot more! So do not miss out.
 
 # Challenge TU Delft: Gender-Aware Power Flow Calculation with Power Grid Model 
-
-
-## Short Introduction
 
 The objective of this exercise is to familiarize participants with the PowerGridModel (PGM) and to 
 analyze how different household load profiles affect distribution network operation. In particular, 
 this workshop introduces gender-related household load patterns, such as households with single 
 mothers or a higher share of female family members, and investigates how these profiles may 
 influence load peaks and voltage distribution in a low-voltage network.
-
-## Prize
-
-_To be announced_
 
 ## To Note
 
@@ -40,13 +35,15 @@ Before starting this session, ensure you have:
 Your mission is to develop innovative solutions that directly address and improve the safety of women while they are traveling. This can involve various aspects of their journey, from booking accommodations to navigating new places. Ensuring safety is paramount for everyone, but women often face unique challenges and concerns when traveling. Your solutions can make a real difference by providing peace of mind and security.
 
 
-## Prize
--Lunch at the Booking.com office with the Early Careers team
--Subscription to AI tool 
--Merch bag
--Guaranteed spot at the Booking.com Shadowing Day (date TBC)
+# Challenge DataBricks: Geo-Insight: Which crises are most overlooked
+In this challenge, you will build a system that surfaces mismatches between humanitarian need and humanitarian financing coverage across active crises worldwide. Your task is to take a crisis context, a geographic scope, or a natural-language query and return the situations that are most underserved, ranked by the gap between actual need and available funding. 
+This challenge is based on a real analytical problem inside the humanitarian data ecosystem. Humanitarian coordinators and donor advisors need to quickly identify where funds are not reaching, relative to the scale of a crisis. 
 
-# Challenge DataBricks: To be announced
-# Challenge Adyen: To be announced
+# Challenge Adyen: Identify and address an area of under-representation in cyber security
+There are various areas of under-representation that feed into and reinforce one-another:
+- Lack of cyber-crime statistics for specific groups
+- UX patterns that don’t work or are suboptimal
+- Biassed product design processes
+- Missing documentation or user guidance specific to underrepresented groups
+Develop creative solutions to real-world cyber-security challenges focussing on underrepresented groups.
 
-# Challenge Adyen: To be announced

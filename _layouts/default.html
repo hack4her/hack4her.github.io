@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ site.lang | default: 'en-US' }}">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -7,38 +7,103 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     {% seo %}
+    <style>
+      .dropdown {
+        position: relative;
+      }
+
+      .dropdown-toggle {
+        color: #2d2d2d;
+        text-decoration: none;
+        font-family: Arial, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        white-space: nowrap;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+      }
+
+      .dropdown-toggle::after {
+        content: "▾";
+        font-size: 12px;
+      }
+
+      .dropdown-menu {
+        display: none;
+        position: absolute;
+        top: calc(100% + 10px);
+        left: 50%;
+        transform: translateX(-50%);
+        background: white;
+        border-radius: 6px;
+        box-shadow: 0 4px 16px rgba(0,0,0,0.13);
+        min-width: 110px;
+        z-index: 100;
+        padding: 6px 0;
+        text-align: center;
+      }
+
+      .dropdown-menu a {
+        display: block;
+        padding: 9px 24px;
+        color: #2d2d2d;
+        text-decoration: none;
+        font-family: Arial, sans-serif;
+        font-size: 15px;
+        font-weight: bold;
+        white-space: nowrap;
+      }
+
+      .dropdown-menu a:hover {
+        background: #f5f5f5;
+      }
+
+      .dropdown:hover .dropdown-menu,
+      .dropdown:focus-within .dropdown-menu {
+        display: block;
+      }
+    </style>
   </head>
   <body>
     <header style="width: 100%; box-sizing: border-box; padding: 10px 40px;">
       <div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-      
-      <!-- Logo and tagline -->
-      <div style="display: flex; align-items: center; gap: 20px;">
-        <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 150px; height: auto;"/>
-        <h2 style="font-size: 1.4em; color: #2d2d2d !important; letter-spacing: 4px; margin: 0;">CELEBRATING WOMEN IN TECH</h2>
+
+        <!-- Logo and tagline -->
+        <div style="display: flex; align-items: center; gap: 20px;">
+          <img src="/assets/images/H4H Logo Without Background and Year.png" alt="Hack4Her Logo" style="max-width: 150px; height: auto;"/>
+          <h2 style="font-size: 1.4em; color: #2d2d2d !important; letter-spacing: 4px; margin: 0;">CELEBRATING WOMEN IN TECH</h2>
+        </div>
+
+        <!-- Navigation links -->
+        <nav style="display: flex; gap: 25px; align-items: center;">
+          <a href="/" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Home</a>
+                          <!-- Register dropdown -->
+                <div class="dropdown">
+                  <span class="dropdown-toggle">Register</span>
+                  <div class="dropdown-menu">
+                    <a href=""../Registration.html"">Full program</a>
+                    <a href=""../Registration.html"">General program only (no hackathon)</a>
+                  </div>
+                </div>
+              </nav>
+            </div>
+          </header>
+          <a href="../2026_information.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Information</a>
+          <a href="../2026_schedule.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Schedule</a>
+          <a href="../2026_challenges.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Challenges</a>
+          <a href="../contact.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Contact</a>
+          <a href="../code_conduct.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Code of Conduct</a>
+
+
+
+    <div style="margin-top: 40px;">
+      <div class="container">
+        <section id="main_content">
+          {{ content }}
+        </section>
       </div>
-
-      <!-- Navigation links -->
-      <nav style="display: flex; gap: 25px; align-items: center;">
-        <a href="/" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Home</a>
-        <a href="../Registration.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Register</a>
-        <a href="../2026_information.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Information</a>
-        <a href="../2026_schedule.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Schedule</a>
-        <a href="../2026_challenges.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Challenges</a>
-        <a href="../contact.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Contact</a>
-        <a href="../code_conduct.html" style="color: #2d2d2d; text-decoration: none; font-family: Arial, sans-serif; font-size: 15px; font-weight: bold; white-space: nowrap;">Code of Conduct</a>
-      </nav>
-
-  </div>
-</header>
-
-<div style="margin-top: 40px;">
-  <div class="container">
-    <section id="main_content">
-      {{ content }}
-    </section>
-  </div>
-</div>
-
+    </div>
   </body>
 </html>

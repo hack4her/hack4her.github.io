@@ -189,7 +189,7 @@
         <span class="event-time">17:00 – 17:30</span>
         <div class="event-info">
           <div class="event-title">Arrival &amp; Check-In</div>
-          <div class="event-location">TU/e campus – Neuron building</div>
+          <div class="event-location">TU/e campus – Neuron Lounge</div>
         </div>
       </div>
 
@@ -197,7 +197,7 @@
         <span class="event-time">17:30 – 17:45</span>
         <div class="event-info">
           <div class="event-title">Introduction</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron 0.356</div>
         </div>
       </div>
 
@@ -205,7 +205,7 @@
         <span class="event-time">17:45 – 18:30</span>
         <div class="event-info">
           <div class="event-title">Keynote By Firuzan de Groof</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron 0.356</div>
         </div>
         <span class="event-badge">Keynote</span>
       </div>
@@ -214,7 +214,7 @@
         <span class="event-time">18:30 – 19:30</span>
         <div class="event-info">
           <div class="event-title">TU Delft challenge: challenge specific workshop</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron 0.124</div>
         </div>
         <span class="event-badge">Workshop</span>
       </div>
@@ -223,7 +223,7 @@
         <span class="event-time">18:30 – 19:30</span>
         <div class="event-info">
           <div class="event-title">Career skills workshop</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron 0.356</div>
         </div>
         <span class="event-badge">Workshop</span>
       </div>
@@ -232,7 +232,7 @@
         <span class="event-time">19:30 – 20.30</span>
         <div class="event-info">
           <div class="event-title">Dinner</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -241,7 +241,7 @@
         <span class="event-time">20:30 – 21.30</span>
         <div class="event-info">
           <div class="event-title">Networking</div>
-          <div class="event-location">Neuronr</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
        <span class="event-badge pink">Sponsor</span>
       </div>
@@ -261,7 +261,7 @@
         <span class="event-time">09:00 – 09:30</span>
         <div class="event-info">
           <div class="event-title">Arrival and breakfast</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -270,7 +270,7 @@
         <span class="event-time">09:30 – 9:45</span>
         <div class="event-info">
           <div class="event-title">Hacking Kick-Off</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
       </div>
 
@@ -278,7 +278,7 @@
         <span class="event-time">09:45 – 10:45</span>
         <div class="event-info">
           <div class="event-title">Challenge specific workshop</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
       </div>
 
@@ -286,7 +286,7 @@
         <span class="event-time">09:45 – 13:30</span>
         <div class="event-info">
           <div class="event-title">TU Delft challenge: Start Hacking</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron 0.124</div>
         </div>
       </div>
 
@@ -301,25 +301,17 @@
       <div class="event-card">
         <span class="event-time">13:30 – 14:30</span>
         <div class="event-info">
-          <div class="event-title">Lunch Break</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-title">Menotring Lunch by Women4Cyber</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
 
       <div class="event-card">
-        <span class="event-time">14:30 – 15:30</span>
-        <div class="event-info">
-          <div class="event-title">Keynote</div>
-          <div class="event-location">Neuron</div>
-        </div>
-      </div>
-
-      <div class="event-card">
-        <span class="event-time">15:30 – 19:00</span>
+        <span class="event-time">14:30 – 19:00</span>
         <div class="event-info">
           <div class="event-title">Hacking</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
       </div>
 
@@ -327,7 +319,7 @@
         <span class="event-time">19:00 – 20:00</span>
         <div class="event-info">
           <div class="event-title">Dinner</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -336,7 +328,7 @@
         <span class="event-time">20:00 – 21:30</span>
         <div class="event-info">
           <div class="event-title">Hacking</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
       </div>
 
@@ -356,7 +348,7 @@
         <span class="event-time">09:00 – 09:30</span>
         <div class="event-info">
           <div class="event-title">Arrival and Breakfast</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -365,7 +357,7 @@
         <span class="event-time">09:30 – 9:45</span>
         <div class="event-info">
           <div class="event-title">Day Kick-Off</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
       </div>
 
@@ -380,8 +372,8 @@
       <div class="event-card">
         <span class="event-time">12:30 – 13:00</span>
         <div class="event-info">
-          <div class="event-title">Submissions Deadline</div>
-          <div class="event-location">Online</div>
+          <div class="event-title">Finish working on Challenge</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
         <span class="event-badge pink">Deadline</span>
       </div>
@@ -390,7 +382,7 @@
         <span class="event-time">13:00 – 14:00</span>
         <div class="event-info">
           <div class="event-title">Lunch Break</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge yellow">Food</span>
       </div>
@@ -398,8 +390,8 @@
       <div class="event-card">
         <span class="event-time">14:00 – 15:00</span>
         <div class="event-info">
-          <div class="event-title">Workshop</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-title">Keynote "The Female Strength in a Male World</div>
+          <div class="event-location">Neuron 0.356</div>
         </div>
       </div>
 
@@ -407,7 +399,7 @@
         <span class="event-time">15:00 – 16:00</span>
         <div class="event-info">
           <div class="event-title">Prepare project Presentations</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
       </div>
 
@@ -415,7 +407,7 @@
         <span class="event-time">16:00 – 17:00</span>
         <div class="event-info">
           <div class="event-title">Judging &amp; Deliberation</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Various rooms in Neuron</div>
         </div>
       </div>
 
@@ -423,7 +415,7 @@
         <span class="event-time">17:00 – 18:00</span>
         <div class="event-info">
           <div class="event-title">Awards Ceremony &amp; Closing</div>
-          <div class="event-location">Neuron</div>
+          <div class="event-location">Neuron Lounge</div>
         </div>
         <span class="event-badge">Awards</span>
       </div>

@@ -32,12 +32,14 @@ title: Registration
 
 <div class="registration-wrapper">
   <div class="registration-form">
-    <iframe
-      src="https://docs.google.com/forms/d/e/1FAIpQLSf-ou_YlyKsBXa5ACMbPVBumexMVEZb4GPf56aoCAGskZ3KTg/viewform?embedded=true"
-      frameborder="0"
-      marginheight="0"
-      marginwidth="0">
-      Loading…
+    <iframe 
+      src="https://docs.google.com/forms/d/e/1FAIpQLSf-ou_YlyKsBXa5ACMbPVBumexMVEZb4GPf56aoCAGskZ3KTg/viewform?embedded=true" 
+      width="640"  
+      height="1257" 
+      frameborder="0" 
+      marginheight="0" 
+      marginwidth="0"
+      >Loading…
     </iframe>
   </div>
 </div>

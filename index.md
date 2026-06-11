@@ -95,7 +95,7 @@ We want to express our gratitude to the following sponsors for their generous su
     <img src="assets/images/Sponsor logo's/Databricks.png" alt="DataBricks" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://careers.booking.com/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/Sponsor logo's/Booking.Com.png" alt="Booking.com" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+    <img src="assets/images/Sponsor logo's/Booking.Com-logo.png" alt="Booking.com" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
   <a href="https://www.tudelft.nl/" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
     <img src="assets/images/Sponsor logo's/TU Delft.png" alt="TU Delft" style="max-width: 100%; max-height: 100%; object-fit: contain;">

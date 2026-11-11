@@ -5,10 +5,10 @@ description: "Empowering Women in Tech, Shaping the Future Together, a Netherlan
 ---
 
 <img src="/assets/images/banner.jpg" alt="Banner Background" style="width: 100%; height: auto; margin-top: 20px;"/>
-<h2 style="font-size: 1.2em;">🌟 5th Annual Hack4Her Event going national: Amsterdam and Eindhoven 🌟</h2>
-The 5th Annual Hack4Her is not only taking place at VU Amsterdam but the event is also coming to the TU Eindhoven for a first edition! The Eindhoven event takes place from June 12-14 2026. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. 
+<h2 style="font-size: 1.2em;">🌟 After National Succes the 6th Annual Event will again take place in Amsterdam and Eindhoven 🌟</h2>
+The 6th Annual Hack4Her is taking place for the 2nd time at the TU/e Eindhoven and the 6th time at the VU Amsterdam! The Eindhoven event takes place from May 21-23 2027. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. 
 <br><br>
-Information about the event in Amsterdam, taking place from june 19th to 21st, is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place!
+Information about the event in Amsterdam, is hosted on [this website](https://hack4her.org/). For the information about the event in Eindhoven, you're in the right place!
 
 ## About
 Hack4Her is the only female-focused student hackathon in the Netherlands aiming to bridge the gender gap in technology. Our mission revolves around providing women with increased opportunities for hackathon participation and project experience, educating all individuals on the importance of women-centered technology and inclusivity, promoting diversity within the tech community, and facilitating connections among people from various backgrounds.
@@ -17,29 +17,12 @@ Hack4Her is the only female-focused student hackathon in the Netherlands aiming 
 - Open to all **female** students in the Netherlands
 - Plenty of opportunities to learn and expand your skillset including coding, workshops and lectures
 - **Free** food and drinks provided
-- An awesome networking event!
+- The Challenge Winners can win some **amazing free** prizes
+- An awesome networking and community building event!
 
 ## Frequently Asked Questions
 Check out all FAQ's about the event [here](/contact)!
 
-<!-- Upcoming Event Highlight -->
-<!--# 2024 Event
-## 🌟 4th Annual Hack4Her Event 🌟
-**Dates:** June 13-15, 2025 
-
-We are planning the **4th Annual Hack4Her**, June 13-15, 2025, at VU Amsterdam and the Booking.com offices in Amsterdam Central! Join for a weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and amazing networking opportunities! -->
-
-<!-- ## Recent Event
-### 3rd Annual Hack4Her Event
-**Dates:** June 7-9, 2024  
-🌟 Dive into the 3rd Annual Hack4Her, June 7-9, 2024, at VU Amsterdam! A weekend dedicated to empowering women in tech through collaboration, innovation, and competition. Open to all students in the Netherlands, we invite you to join us for coding, workshops, lectures, projects, and networking. While all genders are welcome, only women are eligible to compete in the hackathon portion of the event. Enjoy free food, drinks, and a chance for free accommodation. -->
-
-<!-- [Learn More](/2024_event)   -->
-<!-- Replace with the link to your event details page -->
-
-
-<!-- News -->
-<!-- 
 # News
 
 ### Hack4Her received the 4TU Diversity Fund 2026
@@ -77,11 +60,18 @@ Over 150 attendees, 50+ projects, and countless moments of innovation over our 2
 
 <!-- Add past event carousel of images -->
 
+## Sponsors and Partners 2027
+For the 2027 TU/e event we're open to collaborate with new partners!
+  <a href="#sponsorship" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
+    <img src="assets/images/Sponsor logo's/could be you.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
+  </a>
 
+If you are interested in learning more about Hack4Her Sponsorship contact us [here](mailto:info.hack4her.tue@gmail.com).
+<div>
+   
+## Sponsors and Partners 2026
 
-## Sponsors and Partners
-
-We want to express our gratitude to the following sponsors for their generous support:
+We want to express our gratitude to the following sponsors for their generous support in making the 2026 TU/e event possible:
 
 <div style="display: flex !important; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;">
 
@@ -107,11 +97,4 @@ We want to express our gratitude to the following sponsors for their generous su
     <img src="assets/images/Sponsor logo's/Universiteit Leiden.png" alt="Universiteit Leiden" style="max-width: 100%; max-height: 100%; object-fit: contain;">
   </a>
 
-  <a href="#sponsorship" target="_blank" style="display: flex; align-items: center; justify-content: center; width: 200px; height: 120px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); padding: 20px;">
-    <img src="assets/images/Sponsor logo's/could be you.png" alt="Randstad Digital" style="max-width: 100%; max-height: 100%; object-fit: contain;">
-  </a>
-
-<div>
-Thank you for making this event possible! 
-If you are interested in learning more about Hack4Her Sponsorship contact us [here](mailto:info.hack4her.tue@gmail.com).
 <div>
